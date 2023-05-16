@@ -1,0 +1,11 @@
+test_set.csv:
+Contains all the edges from all the datasets, where the edge is used atleast once in any test set, 
+and have and edge in common with another dataset.
+
+valid_set.csv:
+Contains all the edges from all the datasets, where the edge is used in a validation set, but NOT in a test set,
+and have and edge in common with another dataset.
+
+train_set.csv:
+Contains all the edges from all the datasets, where the edge is ONLY used in a training set,
+and have and edge in common with another dataset.
