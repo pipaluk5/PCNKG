@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "best_trial_evaluation": 0.29592418670654297,
+    "best_trial_number": 24,
+    "git_hash": "UNHASHED",
+    "version": "1.10.1"
+  },
+  "pipeline": {
+    "evaluator": "rankbased",
+    "filter_validation_when_testing": true,
+    "loss": "softplus",
+    "model": "complex",
+    "model_kwargs": {
+      "embedding_dim": 100
+    },
+    "negative_sampler": "basic",
+    "negative_sampler_kwargs": {
+      "num_negs_per_pos": 100
+    },
+    "optimizer": "adam",
+    "optimizer_kwargs": {
+      "lr": 0.001
+    },
+    "testing": "<user defined>",
+    "training": "<user defined>",
+    "training_kwargs": {
+      "batch_size": 64,
+      "num_epochs": 150
+    },
+    "training_loop": "slcwa",
+    "validation": "<user defined>"
+  }
+}

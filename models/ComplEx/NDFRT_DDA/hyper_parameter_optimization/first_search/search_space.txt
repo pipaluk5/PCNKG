@@ -1,0 +1,15 @@
+search_space={
+
+            "model.embedding_dim": [32, 64],
+
+            "model.scoring_fct_norm": [1, 2],
+
+            "loss.margin": [1.0,1.5],
+
+            "optimizer.lr": [0.001, 0.005],
+
+            "negative_sampler.num_negs_per_pos": [32,64],
+
+            "training.num_epochs": [50,100],
+
+            "training.batch_size": [128,256],

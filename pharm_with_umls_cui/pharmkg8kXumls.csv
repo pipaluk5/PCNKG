@@ -1,0 +1,7236 @@
+id,UMLS_ID,name
+1694,C0000340,cyp27b1
+2002,C0000378,droxidopa
+1740,C0000477,dalfampridine
+3262,C0000545,icosapent
+336,C0000608,aminocaproic acid
+4110,C0000618,mercaptopurine
+1897,C0000658,dihomo gamma linolenic acid
+38,C0000737,abdominal pain
+1490,C0000768,congenital abnormalities
+45,C0000771,abnormalities drug induced
+46,C0000772,abnormalities multiple
+49,C0000786,abortion spontaneous
+48,C0000809,abortion habitual
+66,C0000946,acebutolol
+67,C0000956,acenocoumarol
+68,C0000959,acepromazine
+70,C0000970,acetaminophen
+71,C0000981,acetazolamide
+72,C0000983,acetic acid
+75,C0001040,acetylcarnitine
+79,C0001044,ache
+76,C0001047,acetylcysteine
+4406,C0001056,n acetyl d glucosamine
+80,C0001080,achondroplasia
+82,C0001122,acidosis
+86,C0001144,acne vulgaris
+2648,C0001173,gastric outlet obstruction
+94,C0001175,acquired immunodeficiency syndrome
+97,C0001197,acrodermatitis
+6342,C0001268,spectinomycin
+81,C0001367,aciclovir
+150,C0001403,addison disease
+152,C0001407,adenine
+453,C0001414,aprt
+154,C0001430,adenoma
+157,C0001443,adenosine
+947,C0001455,camp
+158,C0001465,adenosine monophosphate
+168,C0001576,adnexal diseases
+185,C0001618,adrenal cortex neoplasms
+187,C0001623,adrenal insufficiency
+186,C0001624,adrenal gland neoplasms
+189,C0001627,adrenogenital syndrome
+5275,C0001714,polymyxin b sulfate
+196,C0001733,afibrinogenemia
+199,C0001768,agammaglobulinemia
+206,C0001818,agoraphobia
+226,C0001888,ajmaline
+3669,C0001898,l alanine
+2852,C0001899,gpt
+250,C0001911,albendazole
+251,C0001916,albinism
+5901,C0001927,salbutamol
+2254,C0001962,ethanol
+256,C0001973,alcoholism
+278,C0002026,alfentanil
+290,C0002063,alkalosis
+292,C0002144,allopurinol
+293,C0002158,allylestrenol
+294,C0002164,almitrine
+197,C0002210,afp
+309,C0002333,alprazolam
+310,C0002334,alprenolol
+311,C0002335,alprostadil
+315,C0002367,aluminium
+321,C0002395,alzheimer disease
+323,C0002403,amantadine
+324,C0002412,ambenonium
+5178,C0002436,pivmecillinam
+327,C0002438,amebiasis
+329,C0002453,amenorrhea
+126,C0002456,ada
+4215,C0002475,mitomycin
+333,C0002499,amikacin
+334,C0002502,amiloride
+335,C0002514,amino acid metabolism inborn errors
+5699,C0002534,renal aminoacidurias
+337,C0002555,aminoglutethimide
+211,C0002555,agt
+339,C0002563,aminolevulinic acid
+341,C0002575,aminophylline
+340,C0002586,aminophenazone
+343,C0002598,amiodarone
+345,C0002600,amitriptyline
+350,C0002640,amobarbital
+351,C0002641,amodiaquine
+352,C0002644,amoxapine
+353,C0002645,amoxicillin
+357,C0002658,amphetamine
+358,C0002679,amphotericin b
+359,C0002680,ampicillin
+361,C0002697,amrinone
+362,C0002699,amsacrine
+365,C0002711,amyl nitrite
+366,C0002726,amyloidosis
+369,C0002766,analgesia
+4875,C0002768,pain insensitivity congenital
+372,C0002871,anemia
+373,C0002874,anemia aplastic
+1117,C0002876,cda
+374,C0002878,anemia hemolytic
+375,C0002895,anemia sickle cell
+5927,C0002895,scd
+376,C0002896,anemia sideroblastic
+377,C0002940,aneurysm
+379,C0002962,angina pectoris
+2322,C0002986,fabry disease
+386,C0003076,aniridia
+400,C0003125,anorexia nervosa
+402,C0003143,antazoline
+426,C0003315,apc
+1092,C0003323,cd4
+403,C0003420,antipyrine
+414,C0003486,aortic aneurysm
+461,C0003504,ar
+415,C0003507,aortic valve stenosis
+626,C0003524,azapropazone
+431,C0003534,aphakia
+437,C0003593,apob
+442,C0003595,apoe
+446,C0003596,apomorphine
+448,C0003615,appendicitis
+451,C0003639,aprindine
+3670,C0003765,l arginine
+502,C0003811,arrhythmias cardiac
+501,C0003813,arrhythmia sinus
+509,C0003838,arterial occlusive diseases
+510,C0003850,arteriosclerosis
+511,C0003860,arteritis
+512,C0003864,arthritis
+513,C0003868,arthritis gouty
+515,C0003872,arthritis psoriatic
+516,C0003873,arthritis rheumatoid
+517,C0003886,arthrogryposis
+523,C0003962,ascites
+7112,C0003968,vitamin c
+3671,C0003995,l asparagine
+533,C0003999,aspartame
+3672,C0004015,l aspartic acid
+535,C0004030,aspergillosis
+78,C0004057,acetylsalicylic acid
+543,C0004093,asthenia
+548,C0004147,atenolol
+595,C0004234,atracurium
+596,C0004238,atrial fibrillation
+597,C0004239,atrial flutter
+599,C0004259,atropine
+3202,C0004259,hyoscyamine
+608,C0004320,auranofin
+614,C0004364,autoimmune diseases
+999,C0004381,cars
+625,C0004475,azacitidine
+628,C0004482,azathioprine
+635,C0004499,azlocillin
+636,C0004521,aztreonam
+654,C0004599,bacitracin
+655,C0004609,baclofen
+656,C0004623,bacterial infections
+669,C0004763,barrett esophagus
+671,C0004779,basal cell nevus syndrome
+672,C0004782,basal ganglia diseases
+703,C0004903,beckwith wiedemann syndrome
+704,C0004905,beclomethasone
+4100,C0004936,mental disease
+706,C0004943,behcet syndrome
+708,C0004975,bendroflumethiazide
+3807,C0005038,lindane
+711,C0005059,benzocaine
+713,C0005096,benzphetamine
+710,C0005098,benzatropine
+715,C0005100,benzyl alcohol
+719,C0005116,bepridil
+720,C0005129,bernard soulier syndrome
+724,C0005301,betahistine
+725,C0005308,betamethasone
+726,C0005320,betaxolol
+727,C0005321,betazole
+729,C0005324,bethanidine
+732,C0005330,bezafibrate
+745,C0005575,biotin
+746,C0005578,biperiden
+752,C0005632,bisacodyl
+1883,C0005640,dicoumarol
+7024,C0005686,urinary bladder diseases
+754,C0005716,blastomycosis
+755,C0005740,bleomycin
+760,C0005740,blm
+756,C0005744,blepharophimosis
+757,C0005745,blepharoptosis
+758,C0005747,blepharospasm
+763,C0005779,blood coagulation disorders
+765,C0005859,bloom syndrome
+781,C0005911,body weight changes
+782,C0005938,bone density
+783,C0005940,bone diseases
+784,C0005941,bone diseases developmental
+785,C0005944,bone diseases metabolic
+786,C0005956,bone marrow diseases
+789,C0005974,bone resorption
+799,C0006109,brain damage chronic
+800,C0006111,brain diseases
+801,C0006112,brain diseases metabolic
+803,C0006114,brain edema
+805,C0006118,brain neoplasms
+821,C0006213,bromazepam
+823,C0006220,bromhexine
+824,C0006230,bromocriptine
+827,C0006246,brompheniramine
+829,C0006267,bronchiectasis
+830,C0006277,bronchitis
+848,C0006376,bumetanide
+3765,C0006388,levobunolol
+849,C0006400,bupivacaine
+850,C0006403,bupranolol
+851,C0006405,buprenorphine
+853,C0006434,burns
+855,C0006462,buspirone
+856,C0006463,busulfan
+857,C0006464,butabarbital
+862,C0006491,butorphanol
+1571,C0006560,crp
+1220,C0006639,ceruletide
+922,C0006644,caffeine
+925,C0006657,calcidiol
+926,C0006663,calcinosis
+928,C0006674,calcitriol
+930,C0006686,calcium chloride
+953,C0006840,candidiasis
+966,C0006938,captopril
+1528,C0006938,cp
+967,C0006945,carbachol
+968,C0006949,carbamazepine
+969,C0006976,carbenicillin
+971,C0006982,carbidopa
+972,C0006983,carbimazole
+974,C0007001,carbohydrate metabolism inborn errors
+977,C0007097,carcinoma
+978,C0007121,carcinoma bronchogenic
+1763,C0007124,dci
+4045,C0007129,mcc
+984,C0007193,cardiomyopathy dilated
+985,C0007194,cardiomyopathy hypertrophic
+987,C0007222,cardiovascular diseases
+990,C0007248,carisoprodol
+992,C0007257,carmustine
+995,C0007273,carotid artery diseases
+996,C0007282,carotid stenosis
+1001,C0007299,carteolol
+1020,C0007366,cat
+1487,C0007407,comt
+1165,C0007537,cefaclor
+1166,C0007538,cefadroxil
+1168,C0007541,cefamandole
+1169,C0007546,cefazolin
+1174,C0007549,cefmenoxime
+1175,C0007550,cefmetazole
+1176,C0007551,cefonicid
+1177,C0007552,cefoperazone
+1179,C0007554,cefotaxime
+1180,C0007555,cefotetan
+1181,C0007556,cefotiam
+1182,C0007557,cefoxitin
+1187,C0007559,ceftazidime
+1189,C0007560,ceftizoxime
+1190,C0007561,ceftriaxone
+1191,C0007562,cefuroxime
+1198,C0007682,central nervous system diseases
+1199,C0007684,central nervous system infections
+1164,C0007714,cefacetrile
+1209,C0007716,cephalexin
+1210,C0007721,cephaloglycin
+1211,C0007727,cephaloridine
+1167,C0007735,cefalotin
+1186,C0007738,cefradine
+1214,C0007760,cerebellar diseases
+3411,C0007781,intracranial embolism and thrombosis
+804,C0007786,brain ischemia
+1217,C0007820,cerebrovascular disorders
+1219,C0007839,cerulenin
+1240,C0007959,charcot marie tooth disease
+1251,C0008024,chenodeoxycholic acid
+1252,C0008039,cheyne stokes respiration
+1256,C0008066,child behavior disorders
+1261,C0008149,chlamydia infections
+1262,C0008163,chlorambucil
+1026,C0008163,cbl
+1263,C0008168,chloramphenicol
+1405,C0008174,clorazepate
+1264,C0008183,chlorcyclizine
+1265,C0008188,chlordiazepoxide
+1266,C0008196,chlorhexidine
+1267,C0008217,chlormerodrin
+1268,C0008223,chlormezanone
+5430,C0008241,proguanil
+1271,C0008269,chloroquine
+1272,C0008273,chlorothiazide
+1274,C0008280,chlorphenesin
+1273,C0008281,chlorphenamine
+1275,C0008286,chlorpromazine
+1276,C0008287,chlorpropamide
+1277,C0008290,chlorprothixene
+1278,C0008294,chlorthalidone
+1279,C0008296,chlorzoxazone
+1285,C0008297,choanal atresia
+1286,C0008318,cholecalciferol
+1287,C0008350,cholelithiasis
+1288,C0008370,cholestasis
+1681,C0008381,cyp11a1
+1289,C0008405,choline
+1290,C0008487,chordoma
+1291,C0008489,chorea
+1292,C0008495,chorioamnionitis
+1293,C0008525,choroideremia
+1280,C0008525,chm
+3018,C0008533,hemophilia b
+2663,C0008555,gc
+1317,C0008679,chronic disease
+1329,C0008777,cilastatin
+1333,C0008783,cimetidine
+1338,C0008803,cinnarizine
+1340,C0008806,cinoxacin
+1341,C0008809,ciprofloxacin
+1345,C0008838,cisplatin
+1346,C0008845,citalopram
+3674,C0008864,l citrulline
+1373,C0008925,cleft palate
+1374,C0008928,cleidocranial dysplasia
+1375,C0008929,clemastine
+1376,C0008932,clenbuterol
+1381,C0008947,clindamycin
+1397,C0008996,clofazimine
+1399,C0009002,clofibrate
+1227,C0009002,cfb
+1400,C0009008,clomifene
+1401,C0009010,clomipramine
+1402,C0009011,clonazepam
+1403,C0009014,clonidine
+1406,C0009073,clotiazepam
+1407,C0009074,clotrimazole
+1408,C0009077,cloxacillin
+1409,C0009079,clozapine
+1434,C0009170,cocaine
+1436,C0009187,coccidiosis
+1438,C0009214,codeine
+1470,C0009262,colchicine
+1473,C0009279,colestipol
+1474,C0009315,colistimethate
+1475,C0009316,colistin
+1476,C0009319,colitis
+1477,C0009363,coloboma
+1478,C0009373,colonic diseases
+1479,C0009405,colorectal neoplasms hereditary nonpolyposis
+1482,C0009447,common variable immunodeficiency
+1483,C0009460,communication disorders
+874,C0009519,c5
+1488,C0009663,condylomata acuminata
+1489,C0009676,confusion
+1494,C0009763,conjunctivitis
+1495,C0009766,conjunctivitis allergic
+1496,C0009768,conjunctivitis bacterial
+1497,C0009782,connective tissue diseases
+1498,C0009792,consciousness disorders
+1499,C0009806,constipation
+1501,C0009917,contracture
+1506,C0010034,corneal diseases
+1507,C0010035,corneal dystrophies hereditary
+1508,C0010035,corneal dystrophy
+1509,C0010043,corneal ulcer
+4395,C0010054,myocardial ischemia
+1512,C0010068,coronary disease
+920,C0010068,cad
+1558,C0010132,crh
+1514,C0010200,cough
+2323,C0010269,facial neuralgia
+1547,C0010273,craniofacial dysostosis
+1550,C0010278,craniosynostoses
+1554,C0010286,creatine
+1491,C0010308,congenital hypothyroidism
+1587,C0010417,cryptorchidism
+6308,C0010461,sod1
+1643,C0010481,cushing syndrome
+1644,C0010495,cutis laxa
+1660,C0010520,cyanosis
+1669,C0010523,cyclacillin
+1670,C0010525,cyclandelate
+1671,C0010547,cyclizine
+1673,C0010582,cyclopentolate
+1674,C0010583,cyclophosphamide
+1534,C0010583,cpm
+1675,C0010590,cycloserine
+1676,C0010592,cyclosporine
+1721,C0010620,cyproheptadine
+1725,C0010648,cysteamine
+3675,C0010654,l cysteine
+1726,C0010674,cystic fibrosis
+3676,C0010682,l cystine
+1727,C0010692,cystitis
+1728,C0010711,cytarabine
+1703,C0010763,cyp2e1
+1736,C0010927,dacarbazine
+1737,C0010934,dactinomycin
+1742,C0010961,danazol
+1743,C0010976,dantrolene
+1750,C0010980,dapsone
+1757,C0011015,daunorubicin
+2997,C0011053,hearing loss
+1792,C0011065,death
+1793,C0011071,death sudden
+1794,C0011082,debrisoquin
+1800,C0011145,deferoxamine
+1801,C0011156,deficiency diseases
+1803,C0011168,deglutition disorders
+1804,C0011175,dehydration
+3027,C0011226,hepatitis d
+1810,C0011265,dementia
+1809,C0011276,demeclocycline
+1812,C0011334,dental caries
+1813,C0011351,dental enamel hypoplasia
+1814,C0011389,dental plaque
+1817,C0011570,depression
+1820,C0011603,dermatitis
+1823,C0011606,dermatitis exfoliative
+1824,C0011608,dermatitis herpetiformis
+2003,C0011609,drug eruptions
+1821,C0011615,dermatitis atopic
+1822,C0011616,dermatitis contact
+1826,C0011630,dermatomycoses
+1831,C0011685,desipramine
+1832,C0011689,deslanoside
+1834,C0011701,desmopressin
+1828,C0011702,des
+1836,C0011705,desonide
+1837,C0011707,desoximetasone
+1839,C0011777,dexamethasone
+1841,C0011786,dexfenfluramine
+1845,C0011812,dextroamphetamine
+1846,C0011816,dextromethorphan
+1848,C0011824,dextrothyroxine
+1867,C0011848,diabetes insipidus
+1868,C0011849,diabetes mellitus
+1869,C0011875,diabetic angiopathies
+3036,C0011892,heroin
+1874,C0011991,diarrhea
+1876,C0012004,diatrizoate
+1877,C0012010,diazepam
+1878,C0012022,diazoxide
+1336,C0012050,cinchocaine
+1881,C0012086,diclofenamide
+1880,C0012091,diclofenac
+1882,C0012093,dicloxacillin
+1884,C0012125,dicyclomine
+7200,C0012132,zalcitabine
+1777,C0012132,ddc
+1885,C0012133,didanosine
+1886,C0012145,dienestrol
+1887,C0012191,diethylcarbamazine
+1888,C0012201,diethylpropion
+1889,C0012203,diethylstilbestrol
+1891,C0012228,diflunisal
+1893,C0012242,digestive system diseases
+1894,C0012243,digestive system neoplasms
+1895,C0012258,digitoxin
+1896,C0012265,digoxin
+1899,C0012291,dihydroergotamine
+3195,C0012306,hydromorphone
+1900,C0012319,dihydrotachysterol
+1902,C0012373,diltiazem
+1903,C0012381,dimenhydrinate
+1904,C0012383,dimercaprol
+1906,C0012390,dimetindene
+1905,C0012403,dimethyl sulfoxide
+1908,C0012472,dinoprostone
+1910,C0012498,diosmin
+1912,C0012522,diphenhydramine
+1914,C0012525,diphenoxylate
+1917,C0012582,dipyridamole
+1921,C0012702,disopyramide
+3440,C0012715,iron metabolism disorders
+1924,C0012739,disseminated intravascular coagulation
+1925,C0012772,disulfiram
+1959,C0012963,dobutamine
+1967,C0013015,domperidone
+1969,C0013030,dopamine
+1973,C0013084,doxapram
+1975,C0013085,doxepin
+1976,C0013089,doxorubicin
+167,C0013089,adm
+1977,C0013090,doxycycline
+1978,C0013092,doxylamine
+1998,C0013136,droperidol
+2004,C0013182,drug hypersensitivity
+2006,C0013221,drug toxicity
+4811,C0013231,otc
+1938,C0013264,dmd
+2029,C0013336,dwarfism
+2030,C0013338,dwarfism pituitary
+2032,C0013340,dydrogesterone
+2036,C0013360,dyphylline
+2043,C0013384,dyskinesias
+2045,C0013390,dysmenorrhea
+2046,C0013393,dysostoses
+2047,C0013395,dyspepsia
+2050,C0013447,ear diseases
+2057,C0013537,eclampsia
+2059,C0013547,econazole
+2060,C0013575,ectodermal dysplasia
+2061,C0013578,ectoparasitic infestations
+2062,C0013581,ectopia lentis
+2064,C0013592,ectropion
+2065,C0013595,eczema
+2068,C0013604,edema
+2074,C0013615,edrophonium
+2069,C0013618,edetic acid
+2139,C0013853,eng
+2280,C0013903,evc
+2121,C0013922,embolism
+2127,C0013990,emphysema
+2131,C0014025,enalapril
+2133,C0014055,encephalitis arbovirus
+4036,C0014063,mbp
+2135,C0014118,endocarditis
+2137,C0014175,endometriosis
+2138,C0014277,enflurane
+2146,C0014310,enoxacin
+2155,C0014356,enterocolitis
+2158,C0014457,eosinophilia
+2176,C0014479,ephedrine
+2179,C0014518,epidermal necrolysis toxic
+2180,C0014527,epidermolysis bullosa
+2182,C0014544,epilepsy
+2185,C0014563,epinephrine
+2186,C0014582,epirubicin
+2187,C0014591,epistaxis
+2215,C0014695,ergocalciferol
+2217,C0014704,ergonovine
+2216,C0014708,ergoloid mesylate
+2218,C0014710,ergotamine
+2226,C0014743,erythema nodosum
+2227,C0014758,erythrityl tetranitrate
+2228,C0014806,erythromycin
+2192,C0014822,epo
+2233,C0014859,esophageal neoplasms
+2234,C0014868,esophagitis
+2241,C0014892,estazolam
+2242,C0014912,estradiol
+2244,C0014921,estramustine
+2245,C0014927,estriol
+1493,C0014938,conjugated estrogens
+2246,C0014942,estrone
+2252,C0014963,ethacrynic acid
+2253,C0014964,ethambutol
+2256,C0014987,ethchlorvynol
+2259,C0015011,ethinyl estradiol
+332,C0015020,amifostine
+2260,C0015021,ethionamide
+2261,C0015042,ethopropazine
+2262,C0015043,ethosuximide
+2263,C0015046,ethotoin
+2265,C0015109,ethylmorphine
+2267,C0015120,etidocaine
+2268,C0015121,etidronic acid
+2271,C0015131,etomidate
+2273,C0015133,etoposide
+2283,C0015230,exanthema
+2289,C0015302,exostoses
+2291,C0015306,ext1
+2296,C0015393,eye abnormalities
+2297,C0015397,eye diseases
+2298,C0015414,eye neoplasms
+2324,C0015499,factor v deficiency
+2325,C0015503,factor vii deficiency
+2326,C0015519,factor x deficiency
+2327,C0015523,factor xi deficiency
+2328,C0015526,factor xii deficiency
+2329,C0015530,factor xiii deficiency
+2448,C0015540,flavin adenine dinucleotide
+2338,C0015620,famotidine
+2357,C0015672,fatigue
+2358,C0015695,fatty liver
+2387,C0015772,felodipine
+2388,C0015777,felypressin
+2394,C0015837,fenoprofen
+2395,C0015840,fenoterol
+2396,C0015846,fentanyl
+2350,C0015923,fas
+2401,C0015967,fever
+2435,C0016053,fibromyalgia
+2436,C0016059,fibrosis
+2449,C0016225,flavoxate
+2451,C0016229,flecainide
+2457,C0016245,floctafenine
+2464,C0016267,flucloxacillin
+2465,C0016277,fluconazole
+2466,C0016278,flucytosine
+2469,C0016280,fludrocortisone
+2470,C0016293,flumazenil
+2472,C0016295,flunarizine
+2474,C0016296,flunitrazepam
+2475,C0016298,fluocinolone acetonide
+2476,C0016299,fluocinonide
+2459,C0016343,floxuridine
+2478,C0016351,fluorometholone
+2479,C0016360,fluorouracil
+2480,C0016365,fluoxetine
+2481,C0016366,fluoxymesterone
+2482,C0016367,flupentixol
+2483,C0016368,fluphenazine
+2485,C0016374,flurandrenolide
+2486,C0016375,flurazepam
+2487,C0016377,flurbiprofen
+2488,C0016382,flushing
+2489,C0016383,fluspirilene
+2490,C0016384,flutamide
+2504,C0016395,focal dermal hypoplasia
+2506,C0016410,folic acid
+2507,C0016436,folliculitis
+2513,C0016470,food hypersensitivity
+2514,C0016509,foot dermatoses
+2522,C0016610,fosfomycin
+2546,C0016658,fractures bone
+2548,C0016673,framycetin
+2567,C0016855,furazolidone
+2569,C0016860,furosemide
+2572,C0016875,fusidic acid
+2621,C0016967,galantamine
+2625,C0016972,gallamine triethiodide
+2909,C0016989,gsr
+2639,C0017066,ganciclovir
+2643,C0017097,gardner syndrome
+2649,C0017152,gastritis
+2650,C0017160,gastroenteritis
+2651,C0017181,gastrointestinal hemorrhage
+2652,C0017185,gastrointestinal neoplasms
+2686,C0017245,gemfibrozil
+6551,C0017375,tat
+2689,C0017416,genital neoplasms female
+2690,C0017417,genital neoplasms male
+2692,C0017440,gentian violet
+2910,C0017495,gss
+2715,C0017563,gingival diseases
+2732,C0017601,glaucoma
+2733,C0017612,glaucoma open angle
+2695,C0017626,gfap
+2771,C0017628,glyburide
+2740,C0017631,gliclazide
+2742,C0017642,glipizide
+2666,C0017687,gcg
+2761,C0017718,glucosamine
+2589,C0017757,g6pd
+2832,C0017759,gpi
+2757,C0017767,gls
+3678,C0017797,l glutamine
+2767,C0017817,glutathione
+2769,C0017845,glutethimide
+4609,C0017887,nitroglycerin
+2773,C0017890,glycine
+2775,C0017970,glycopyrrolate
+2813,C0018021,goiter
+2815,C0018051,gonadal dysgenesis
+2859,C0018133,graft vs host disease
+2864,C0018213,graves disease
+2889,C0018242,griseofulvin
+2902,C0018273,growth disorders
+2926,C0018312,guanabenz
+2927,C0018318,guanethidine
+2929,C0018320,guanidine
+2952,C0018500,hair diseases
+2957,C0018546,haloperidol
+2959,C0018549,halothane
+2960,C0018553,hamartoma syndrome multiple
+1589,C0018553,cs
+5750,C0018621,rhinitis allergic seasonal
+2994,C0018671,head and neck neoplasms
+2998,C0018790,heart arrest
+2999,C0018794,heart block
+3000,C0018798,heart defects congenital
+3001,C0018799,heart diseases
+982,C0018800,cardiomegaly
+3002,C0018801,heart failure
+3003,C0018809,heart neoplasms
+3004,C0018810,heart rate
+3005,C0018816,heart septal defects
+3006,C0018823,heart transplantation
+3007,C0018824,heart valve diseases
+3009,C0018889,helminthiasis
+3010,C0018916,hemangioma
+3011,C0018920,hemangioma cavernous
+3012,C0018923,hemangiosarcoma
+3013,C0018939,hematologic diseases
+3015,C0018944,hematoma
+2969,C0019018,hba1
+2970,C0019019,hba2
+3017,C0019069,hemophilia a
+3019,C0019080,hemorrhage
+3020,C0019099,hemorrhagic fever crimean
+3022,C0019156,hepatic veno occlusive disease
+3023,C0019158,hepatitis
+3024,C0019163,hepatitis b
+3026,C0019189,hepatitis chronic
+3028,C0019195,hepatitis viral human
+3025,C0019196,hepatitis c
+3029,C0019217,heptabarbital
+3037,C0019348,herpes simplex
+3038,C0019372,herpesviridae infections
+3043,C0019435,hexachlorophene
+314,C0019453,altretamine
+3045,C0019469,hexobarbital
+7120,C0019562,von hippel lindau disease
+7096,C0019562,vhl
+3061,C0019572,hirsutism
+3679,C0019602,l histidine
+3064,C0019624,histiocytosis non langerhans cell
+3065,C0019693,hiv infections
+3068,C0019728,hla a
+3069,C0019737,hla b
+3070,C0019751,hla c
+3076,C0019763,hla dra
+3086,C0019796,hmgb1
+5526,C0020063,pth
+3182,C0020179,huntington disease
+3188,C0020223,hydralazine
+5274,C0020224,polyhydramnios
+3189,C0020255,hydrocephalus
+3190,C0020261,hydrochlorothiazide
+3191,C0020264,hydrocodone
+3193,C0020268,hydrocortisone
+3194,C0020273,hydroflumethiazide
+3196,C0020316,hydroxocobalamin
+3197,C0020336,hydroxychloroquine
+3198,C0020388,hydroxyproline
+3200,C0020402,hydroxyurea
+3201,C0020404,hydroxyzine
+3203,C0020428,hyperaldosteronism
+3205,C0020433,hyperbilirubinemia
+3206,C0020435,hyperbilirubinemia hereditary
+3208,C0020437,hypercalcemia
+3209,C0020438,hypercalciuria
+3210,C0020456,hyperglycemia
+3211,C0020458,hyperhidrosis
+3213,C0020459,hyperinsulinism
+3214,C0020461,hyperkalemia
+3215,C0020488,hypernatremia
+3216,C0020497,hyperostosis cortical congenital
+3217,C0020502,hyperparathyroidism
+3219,C0020517,hypersensitivity
+3220,C0020522,hypersensitivity delayed
+3221,C0020538,hypertension
+3222,C0020541,hypertension portal
+3223,C0020542,hypertension pulmonary
+3224,C0020550,hyperthyroidism
+3225,C0020564,hypertrophy
+3228,C0020595,hypoaldosteronism
+3229,C0020598,hypocalcemia
+3231,C0020615,hypoglycemia
+3232,C0020619,hypogonadism
+3233,C0020621,hypokalemia
+3234,C0020625,hyponatremia
+3235,C0020626,hypoparathyroidism
+3238,C0020631,hypophosphatemia familial
+3240,C0020639,hypoproteinemia
+3242,C0020649,hypotension
+3725,C0020649,lbp
+3243,C0020655,hypothalamic diseases
+3245,C0020672,hypothermia
+3246,C0020676,hypothyroidism
+3247,C0020678,hypotrichosis
+3252,C0020740,ibuprofen
+3258,C0020757,ichthyosis
+3272,C0020786,ids
+3264,C0020789,idarubicin
+3271,C0020811,idoxuridine
+3288,C0020823,ifosfamide
+3363,C0020933,imipenem
+3364,C0020934,imipramine
+3366,C0020951,immune complex diseases
+3368,C0021051,immunologic deficiency syndromes
+3367,C0021053,immune system diseases
+3369,C0021070,immunoproliferative disorders
+3378,C0021171,incontinentia pigmenti
+3380,C0021186,indapamide
+3383,C0021246,indomethacin
+3385,C0021308,infarction
+3388,C0021359,infertility
+3389,C0021364,infertility male
+3390,C0021368,inflammation
+3391,C0021390,inflammatory bowel diseases
+3398,C0021640,ins
+3284,C0021745,ifng
+3328,C0021755,il1b
+3334,C0021756,il2
+3344,C0021757,il3
+3347,C0021758,il4
+3350,C0021759,il5
+3352,C0021760,il6
+3049,C0021760,hgf
+3355,C0021761,il7
+6049,C0021791,si
+3405,C0021818,intervertebral disc displacement
+3406,C0021828,intestinal atresia
+3407,C0021841,intestinal neoplasms
+3408,C0021843,intestinal obstruction
+3414,C0021936,inulin
+6808,C0021965,tpo
+3417,C0021971,iodipamide
+3420,C0022026,iopamidol
+3421,C0022028,iopanoic acid
+3422,C0022029,iophendylate
+3447,C0022116,ischemia
+155,C0022134,adenoma islet cell
+3453,C0022154,isocarboxazid
+3454,C0022176,isoetarine
+3455,C0022180,isoflurane
+3456,C0022181,isoflurophate
+3680,C0022192,l isoleucine
+3458,C0022209,isoniazid
+3459,C0022245,isoprenaline
+3461,C0022252,isosorbide dinitrate
+3464,C0022265,isotretinoin
+3465,C0022267,isoxsuprine
+3498,C0022322,ivermectin
+3508,C0022346,jaundice
+3509,C0022353,jaundice neonatal
+3510,C0022408,joint diseases
+3511,C0022419,josamycin
+3644,C0022457,kras
+3521,C0022487,kanamycin
+3579,C0022546,kel
+3580,C0022548,keloid
+3582,C0022568,keratitis
+3583,C0022578,keratoconus
+3585,C0022593,keratosis
+1751,C0022595,darier disease
+3586,C0022614,ketamine
+3589,C0022625,ketoconazole
+3590,C0022635,ketoprofen
+3592,C0022642,ketotifen
+5698,C0022646,ren
+3596,C0022658,kidney diseases
+3599,C0022665,kidney neoplasms
+3600,C0022671,kidney transplantation
+3694,C0022860,labetalol
+4742,C0022876,obstetric labor premature
+3695,C0022890,labyrinthitis
+3698,C0022927,lactation disorders
+3699,C0022951,lactose intolerance
+3700,C0022957,lactulose
+1744,C0023139,dao
+3727,C0023194,lcat
+3741,C0023241,legionnaires disease
+3742,C0023281,leishmaniasis
+3681,C0023401,l leucine
+3752,C0023413,leucovorin
+3753,C0023418,leukemia
+3754,C0023443,leukemia hairy cell
+3755,C0023448,leukemia lymphoid
+3756,C0023470,leukemia myeloid
+3757,C0023510,leukocyte disorders
+3758,C0023521,leukodystrophy globoid cell
+3759,C0023522,leukodystrophy metachromatic
+5234,C0023524,pml
+3762,C0023530,leukopenia
+3763,C0023554,levallorphan
+3772,C0023566,levonorgestrel
+3677,C0023570,l dopa
+3773,C0023586,levorphanol
+2816,C0023610,gonadorelin
+3865,C0023645,lpp
+3793,C0023660,lidocaine
+3806,C0023726,lincomycin
+3816,C0023772,lipid metabolism inborn errors
+3818,C0023787,lipodystrophy
+3819,C0023791,lipoic acid
+3817,C0023794,lipidoses
+3864,C0023816,lpl
+3824,C0023863,lisuride
+3826,C0023870,lithium
+3827,C0023890,liver cirrhosis
+3828,C0023892,liver cirrhosis biliary
+3829,C0023895,liver diseases
+3831,C0023903,liver neoplasms
+3832,C0023911,liver transplantation
+3844,C0023972,lomustine
+3845,C0023976,long qt syndrome
+3846,C0023992,loperamide
+3849,C0024002,lorazepam
+3853,C0024027,lovastatin
+3855,C0024056,loxapine
+3894,C0024071,lucanthone
+3899,C0024115,lung diseases
+5557,C0024117,pulmonary disease chronic obstructive
+3901,C0024128,lung transplantation
+3902,C0024137,lupus erythematosus cutaneous
+3903,C0024141,lupus erythematosus systemic
+3906,C0024198,lyme disease
+3907,C0024200,lymecycline
+3908,C0024223,lymphangiomyoma
+3909,C0024236,lymphedema
+3910,C0024299,lymphoma
+3911,C0024305,lymphoma non hodgkin
+3682,C0024337,l lysine
+7137,C0024419,waldenstrom macroglobulinemia
+4193,C0024429,mif
+3926,C0024437,macular degeneration
+3932,C0024452,mafenide
+3944,C0024480,magnesium sulfate
+3949,C0024523,malabsorption syndromes
+3950,C0024530,malaria
+3951,C0024537,malaria vivax
+3952,C0024547,malathion
+3957,C0024591,malignant hyperthermia
+3968,C0024730,mannitol
+4011,C0024778,maprotiline
+4015,C0024796,marfan syndrome
+4016,C0024809,marijuana abuse
+4082,C0024965,mefv
+4032,C0024977,mazindol
+4063,C0025023,mebendazole
+4064,C0025029,mecamylamine
+4065,C0025033,mechlorethamine
+4066,C0025039,meclizine
+4067,C0025042,meclofenamic acid
+4080,C0025152,mefenamic acid
+4081,C0025153,mefloquine
+4087,C0025202,melanoma
+4088,C0025219,melatonin
+4091,C0025241,melphalan
+4092,C0025242,memantine
+4093,C0025261,memory disorders
+4338,C0025267,multiple endocrine neoplasia type 1
+4094,C0025267,men1
+4339,C0025268,multiple endocrine neoplasia type 2a
+4095,C0025270,menadione
+4096,C0025284,meningeal neoplasms
+4097,C0025286,meningioma
+4098,C0025289,meningitis
+4099,C0025323,menorrhagia
+4102,C0025368,menthol
+5051,C0025376,pethidine
+4105,C0025380,mephentermine
+4149,C0025382,methylphenobarbital
+4106,C0025384,mepivacaine
+4107,C0025386,meprobamate
+4114,C0025497,mesoridazine
+4115,C0025506,mestranol
+4117,C0025517,metabolic diseases
+4118,C0025521,metabolism inborn errors
+4119,C0025534,metal metabolism inborn errors
+4122,C0025575,metaraminol
+4124,C0025598,metformin
+4126,C0025603,methacycline
+4127,C0025605,methadone
+4128,C0025607,methadyl acetate
+4129,C0025611,methamphetamine
+4130,C0025624,methantheline
+3969,C0025627,maoa
+4131,C0025631,methazolamide
+4133,C0025637,methemoglobinemia
+4155,C0025643,meticillin
+4134,C0025644,methimazole
+3683,C0025646,l methionine
+4116,C0025646,met
+4135,C0025659,methocarbamol
+4136,C0025668,methohexital
+4137,C0025677,methotrexate
+4138,C0025678,methotrimeprazine
+4139,C0025681,methoxamine
+4140,C0025684,methoxsalen
+4141,C0025688,methoxyflurane
+4143,C0025696,methyclothiazide
+4145,C0025741,methyldopa
+4033,C0025746,mb
+4146,C0025760,methylergometrine
+4148,C0025810,methylphenidate
+4150,C0025815,methylprednisolone
+4152,C0025826,methyltestosterone
+4153,C0025840,methyprylon
+4154,C0025842,methysergide
+4158,C0025853,metoclopramide
+4160,C0025854,metolazone
+4161,C0025859,metoprolol
+4162,C0025869,metrizamide
+4163,C0025872,metronidazole
+4165,C0025876,metyrapone
+4168,C0025887,mexiletine
+4169,C0025893,mezlocillin
+4182,C0025912,mianserin
+4186,C0025942,miconazole
+4187,C0026010,microphthalmos
+4191,C0026056,midazolam
+4192,C0026078,midodrine
+4194,C0026088,mifepristone
+4199,C0026153,mimosine
+4201,C0026187,minocycline
+4202,C0026196,minoxidil
+4204,C0026205,miosis
+5223,C0026234,plicamycin
+4216,C0026256,mitotane
+4217,C0026259,mitoxantrone
+4219,C0026272,mixed connective tissue disease
+156,C0026277,adenoma pleomorphic
+4272,C0026388,molindone
+4280,C0026549,morphine
+4281,C0026603,motion sickness
+4283,C0026633,mouth abnormalities
+4284,C0026636,mouth diseases
+3722,C0026651,latamoxef
+4333,C0026691,mucocutaneous lymph node syndrome
+4334,C0026703,mucopolysaccharidoses
+4343,C0026826,muscle hypertonia
+4344,C0026846,muscular atrophy
+4345,C0026848,muscular diseases
+4347,C0026850,muscular dystrophies
+4354,C0026896,myasthenia gravis
+4357,C0026900,myb
+4364,C0026933,mycophenolic acid
+4365,C0026946,mycoses
+4367,C0026961,mydriasis
+4368,C0026975,myelitis
+4371,C0027022,myeloproliferative disorders
+4396,C0027080,myoglobinuria
+4398,C0027092,myopia
+4399,C0027121,myositis
+4403,C0027126,myotonic dystrophy
+4401,C0027127,myotonia congenita
+4411,C0027302,nadolol
+4415,C0027324,nafcillin
+4421,C0027339,nail diseases
+4422,C0027341,nail patella syndrome
+4423,C0027348,nalbuphine
+4424,C0027353,nalidixic acid
+4425,C0027358,naloxone
+4426,C0027360,naltrexone
+4431,C0027373,naphazoline
+4432,C0027396,naproxen
+4772,C0027412,opioid related disorders
+4436,C0027441,nasopharyngitis
+4440,C0027444,natamycin
+4442,C0027497,nausea
+4517,C0027583,nematode infections
+4518,C0027603,neomycin
+4519,C0027609,neonatal abstinence syndrome
+4520,C0027627,neoplasm metastasis
+4521,C0027651,neoplasms
+4523,C0027656,neoplasms connective tissue
+4337,C0027662,multiple endocrine neoplasia
+4525,C0027664,neoplasms muscle tissue
+4528,C0027672,neoplastic syndromes hereditary
+4529,C0027679,neostigmine
+4530,C0027686,neovascularization pathologic
+4532,C0027697,nephritis
+4533,C0027706,nephritis hereditary
+7153,C0027708,wilms tumor
+4535,C0027720,nephrosis
+4536,C0027743,nerve compression syndromes
+4579,C0027752,ngf
+4541,C0027780,netilmicin
+4544,C0027794,neural tube defects
+6351,C0027794,spinal dysraphism
+4545,C0027796,neuralgia
+4551,C0027831,neurofibromatosis 1
+4564,C0027831,nf1
+4552,C0027832,neurofibromatosis 2
+4565,C0027832,nf2
+4555,C0027854,neurologic manifestations
+4557,C0027873,neuromyelitis optica
+4558,C0027877,neuronal ceroid lipofuscinoses
+4452,C0027877,ncl
+3035,C0027888,hereditary sensory and motor neuropathy
+3034,C0027889,hereditary sensory and autonomic neuropathies
+4671,C0027893,npy
+4563,C0027960,nevus
+4584,C0027996,niacin
+4585,C0028005,nicardipine
+4586,C0028008,nicergoline
+4587,C0028017,niclosamide
+4588,C0028040,nicotine
+4590,C0028066,nifedipine
+4591,C0028067,niflumic acid
+4592,C0028077,night blindness
+4597,C0028094,nimodipine
+4601,C0028116,nisoldipine
+4604,C0028126,nitrazepam
+4605,C0028127,nitrendipine
+4606,C0028128,nitric oxide
+4608,C0028156,nitrofurantoin
+4607,C0028157,nitrofural
+4610,C0028193,nitroprusside
+4637,C0028351,norepinephrine
+4638,C0028356,norethindrone
+4639,C0028365,norfloxacin
+4642,C0028420,nortriptyline
+4651,C0028458,novobiocin
+4730,C0028738,nystagmus pathologic
+4731,C0028741,nystatin
+4735,C0028753,oat
+4739,C0028754,obesity
+4740,C0028768,obsessive compulsive disorder
+4747,C0028833,octreotide
+4748,C0028840,ocular hypertension
+4746,C0028860,ocrl
+4751,C0028879,odontogenic cysts
+4753,C0028902,ofloxacin
+4764,C0028978,omeprazole
+4765,C0029001,onchocerciasis
+4782,C0029125,optic atrophies hereditary
+4783,C0029134,optic neuritis
+4786,C0029193,orciprenaline
+4787,C0029216,organ transplantation
+4793,C0029294,orofaciodigital syndromes
+4794,C0029309,orphenadrine
+4795,C0029342,orthomyxoviridae infections
+4801,C0029401,osteitis deformans
+4802,C0029408,osteoarthritis
+4803,C0029411,osteoarthropathy primary hypertrophic
+4804,C0029422,osteochondrodysplasias
+4806,C0029443,osteomyelitis
+4807,C0029445,osteonecrosis
+4808,C0029456,osteoporosis
+4812,C0029878,otitis externa
+4813,C0029882,otitis media
+4815,C0029897,otorhinolaryngologic neoplasms
+4816,C0029904,ouabain
+4817,C0029927,ovarian cysts
+4819,C0029944,overdose
+4821,C0029983,oxacillin
+4823,C0029994,oxamniquine
+4824,C0029995,oxandrolone
+4826,C0029997,oxazepam
+4831,C0030040,oxprenolol
+4838,C0030049,oxycodone
+4839,C0030071,oxymetazoline
+4840,C0030073,oxymorphone
+4842,C0030082,oxyphenonium
+4843,C0030092,oxytetracycline
+4872,C0030123,pah
+342,C0030125,aminosalicylic acid
+4874,C0030193,pain
+4876,C0030201,pain postoperative
+4888,C0030286,pancreatic diseases
+4889,C0030297,pancreatic neoplasms
+4890,C0030305,pancreatitis
+4891,C0030310,pancuronium
+4892,C0030312,pancytopenia
+4897,C0030343,panuveitis
+4899,C0030350,papaverine
+4903,C0030443,paralyses familial periodic
+4906,C0030454,paramethasone
+4907,C0030489,paraproteinemias
+4909,C0030557,pargyline
+4912,C0030567,parkinson disease
+4914,C0030576,paromomycin
+4915,C0030578,paronychia
+5009,C0030771,pefloxacin
+5010,C0030779,pelger huet anomaly
+5014,C0030807,pemphigus
+5016,C0030812,penbutolol
+5019,C0030817,penicillamine
+717,C0030827,benzylpenicillin
+5020,C0030840,penicillin v
+5021,C0030859,pentagastrin
+5022,C0030863,pentamidine
+5023,C0030873,pentazocine
+5024,C0030883,pentobarbital
+5025,C0030885,pentolinium
+6312,C0030895,sodium stibogluconate
+5027,C0030896,pentostatin
+5028,C0030899,pentoxifylline
+5030,C0030920,peptic ulcer
+5033,C0030975,perceptual disorders
+5034,C0031007,pergolide
+5035,C0031013,perhexiline
+2337,C0031069,familial mediterranean fever
+5037,C0031099,periodontitis
+5041,C0031154,peritonitis
+5046,C0031184,perphenazine
+5085,C0031306,phagocyte bactericidal dysfunction
+5086,C0031350,pharyngitis
+5091,C0031379,phenazopyridine
+5093,C0031392,phenelzine
+5094,C0031404,phenformin
+5096,C0031406,phenindione
+5097,C0031408,pheniramine
+5098,C0031411,phenmetrazine
+5099,C0031412,phenobarbital
+5100,C0031428,phenol
+5101,C0031441,phenoxybenzamine
+5102,C0031444,phenprocoumon
+5104,C0031447,phentermine
+5105,C0031448,phentolamine
+3685,C0031453,l phenylalanine
+5106,C0031463,phenylbutazone
+5107,C0031469,phenylephrine
+5108,C0031495,phenylpropanolamine
+5109,C0031507,phenytoin
+5114,C0031526,philadelphia chromosome
+5119,C0031623,phosphatidylserine
+5124,C0031849,physostigmine
+5123,C0031862,phylloquinone
+5130,C0031887,picornaviridae infections
+5148,C0031923,pilocarpine
+5152,C0031935,pimozide
+5154,C0031937,pindolol
+5160,C0031955,piperacillin
+5161,C0031957,piperazine
+5162,C0031965,pipobroman
+5163,C0031968,pipotiazine
+5166,C0031978,pirenzepine
+5167,C0031990,piroxicam
+3116,C0032005,hp
+5176,C0032024,pityriasis
+5177,C0032032,pivampicillin
+6928,C0032143,ttpa
+5240,C0032273,pneumoconiosis
+5241,C0032285,pneumonia
+5242,C0032326,pneumothorax
+5251,C0032334,podofilox
+5820,C0032339,rothmund thomson syndrome
+5255,C0032343,poisoning
+5266,C0032371,poliomyelitis
+2346,C0032580,fap
+5277,C0032587,polyradiculoneuropathy
+5279,C0032613,polythiazide
+5292,C0032708,porphyrias
+5296,C0032788,postoperative hemorrhage
+5299,C0032825,potassium chloride
+5300,C0032831,potassium iodide
+5345,C0032896,practolol
+5352,C0032910,prazepam
+5353,C0032911,praziquantel
+5354,C0032912,prazosin
+5363,C0032914,pre eclampsia
+5364,C0032915,pre excitation syndromes
+5366,C0032950,prednisolone
+5367,C0032952,prednisone
+5369,C0032962,pregnancy complications
+427,C0033036,apcs
+5370,C0033038,premature ejaculation
+5371,C0033046,premenstrual syndrome
+4936,C0033107,pc
+5377,C0033124,prilocaine
+5378,C0033126,primaquine
+5379,C0033148,primidone
+5281,C0033195,pomc
+5414,C0033209,probenecid
+5415,C0033215,probucol
+5417,C0033216,procainamide
+5418,C0033218,procaine
+5419,C0033223,procarbazine
+2392,C0033228,fenofibrate
+5421,C0033229,prochlorperazine
+5423,C0033246,proctitis
+5424,C0033254,procyclidine
+5426,C0033294,proflavine
+5428,C0033300,progeria
+5429,C0033308,progesterone
+3686,C0033382,l proline
+5433,C0033399,promazine
+5434,C0033405,promethazine
+5436,C0033429,propafenone
+5437,C0033447,propantheline
+5439,C0033459,propericiazine
+5440,C0033473,propiomazine
+5441,C0033487,propofol
+1847,C0033493,dextropropoxyphene
+5442,C0033497,propranolol
+5443,C0033508,propylhexedrine
+5444,C0033511,propylthiouracil
+5076,C0033558,pgd
+5077,C0033561,pgf
+2193,C0033567,epoprostenol
+5446,C0033575,prostatic diseases
+5448,C0033687,proteinuria
+5450,C0033743,protriptyline
+5468,C0033771,prurigo
+5469,C0033774,pruritus
+3468,C0033774,itch
+5477,C0033798,pseudoephedrine
+5478,C0033806,pseudohypoparathyroidism
+5501,C0033860,psoriasis
+5513,C0033999,pterygium
+5553,C0034013,puberty precocious
+5556,C0034050,pulmonary alveolar proteinosis
+5558,C0034069,pulmonary fibrosis
+5559,C0034103,pulpitis
+5560,C0034124,pupil disorders
+5562,C0034139,purine pyrimidine metabolism inborn errors
+5563,C0034150,purpura
+5565,C0034155,purpura thrombotic thrombocytopenic
+5577,C0034239,pyrazinamide
+5578,C0034261,pyridostigmine
+5579,C0034263,pyridoxal
+5580,C0034272,pyridoxine
+4108,C0034282,mepyramine
+5581,C0034283,pyrimethamine
+5582,C0034345,pyruvate dehydrogenase complex deficiency disease
+5592,C0034403,quinacrine
+5594,C0034410,quinestrol
+5596,C0034414,quinidine
+5598,C0034414,quinine
+5638,C0034665,ranitidine
+5656,C0034734,raynaud disease
+2085,C0034802,egfr
+3737,C0034821,ldlr
+5680,C0034882,rectal diseases
+5681,C0034897,recurrence
+5682,C0034902,red cell aplasia pure
+5686,C0034960,refsum disease
+5691,C0035018,rel
+3598,C0035078,kidney failure
+5700,C0035078,renal insufficiency
+5701,C0035091,renal tubular transport inborn errors
+5704,C0035126,reperfusion injury
+5705,C0035167,rescinnamine
+5706,C0035179,reserpine
+5707,C0035228,respiratory hypersensitivity
+5708,C0035229,respiratory insufficiency
+5709,C0035243,respiratory tract infections
+5710,C0035244,respiratory tract neoplasms
+5711,C0035258,restless legs syndrome
+5716,C0035304,retinal degeneration
+5717,C0035309,retinal diseases
+5719,C0035334,retinitis pigmentosa
+5657,C0035335,rb1
+5724,C0035358,retroperitoneal neoplasms
+5739,C0035410,rhabdomyolysis
+5746,C0035435,rheumatic diseases
+5744,C0035439,rhd
+5747,C0035450,rheumatoid nodule
+5748,C0035455,rhinitis
+5753,C0035525,ribavirin
+5754,C0035527,riboflavin
+5755,C0035579,rickets
+5758,C0035608,rifampicin
+5763,C0035629,rimantadine
+5775,C0035661,ritodrine
+5806,C0035823,rolitetracycline
+5816,C0035854,rosacea
+5823,C0035891,roxithromycin
+5871,C0035934,rubinstein taybi syndrome
+5883,C0036002,s adenosylmethionine
+5902,C0036071,salicylamide
+6478,C0036078,sulfasalazine
+5904,C0036079,salicylic acid
+5914,C0036202,sarcoidosis
+5916,C0036220,sarcoma kaposi
+5929,C0036337,schizoaffective disorder
+5930,C0036341,schizophrenia
+5951,C0036442,scopolamine
+1825,C0036508,dermatitis seborrheic
+5971,C0036516,secobarbital
+5973,C0036572,seizures
+5975,C0036579,selegiline
+5987,C0036659,sensation disorders
+3687,C0036720,l serine
+1923,C0036875,disorders of sex development
+6038,C0036883,shbg
+6015,C0036920,sezary syndrome
+6046,C0036974,shock
+6047,C0036996,short rib polydactyly syndrome
+6057,C0037134,silver sulfadiazine
+6062,C0037199,sinusitis
+6076,C0037231,sjogren larsson syndrome
+6077,C0037262,ski
+6078,C0037274,skin diseases
+6080,C0037277,skin diseases genetic
+6082,C0037280,skin diseases parasitic
+6084,C0037286,skin neoplasms
+6085,C0037299,skin ulcer
+6257,C0037332,slk
+6311,C0037506,sodium lauryl sulfate
+5963,C0037506,sds
+5903,C0037549,salicylate sodium
+6313,C0037556,sodium tetradecyl sulfate
+6444,C0037556,sts
+6322,C0037707,sotalol
+6336,C0037763,spasm
+6344,C0037874,spermine
+6350,C0037932,spinal curvatures
+6353,C0037944,spinal stenosis
+6356,C0037952,spinocerebellar degenerations
+6360,C0037982,spironolactone
+6363,C0038013,spondylitis ankylosing
+6364,C0038041,spotted fever group rickettsiosis
+6411,C0038149,stanozolol
+6412,C0038166,staphylococcal skin infections
+1682,C0038296,cyp11b1
+6438,C0038354,stomach diseases
+6439,C0038362,stomatitis
+6441,C0038425,streptomycin
+6442,C0038432,streptozocin
+5295,C0038436,post traumatic stress disorder
+6443,C0038454,stroke
+6452,C0038536,subcutaneous emphysema
+6454,C0038587,substance withdrawal syndrome
+6457,C0038627,succinylcholine
+6461,C0038633,sucralfate
+6464,C0038670,sulfacetamide
+6466,C0038675,sulfadiazine
+6467,C0038676,sulfadimethoxine
+6468,C0038679,sulfadoxine
+6473,C0038683,sulfametopyrazine
+6469,C0038684,sulfamerazine
+6470,C0038686,sulfamethazine
+6471,C0038687,sulfamethizole
+6472,C0038689,sulfamethoxazole
+6474,C0038700,sulfamoxole
+6475,C0038702,sulfanilamide
+6476,C0038706,sulfaphenazole
+6477,C0038710,sulfapyridine
+6479,C0038722,sulfathiazole
+6480,C0038742,sulfinpyrazone
+6481,C0038745,sulfisoxazole
+6483,C0038792,sulindac
+6484,C0038803,sulpiride
+6496,C0038814,sunburn
+6499,C0038862,suppuration
+6500,C0038868,supranuclear palsy progressive
+6501,C0038878,suprofen
+6502,C0038880,suramin
+6509,C0039075,syndactyly
+6520,C0039231,tachycardia
+6536,C0039286,tamoxifen
+6548,C0039315,tars
+6590,C0039433,tec
+6593,C0039446,telangiectasis
+6599,C0039468,temazepam
+2712,C0039483,giant cell arteritis
+6601,C0039494,temporomandibular joint disorders
+6603,C0039504,tendon injuries
+6604,C0039512,teniposide
+6607,C0039538,teratoma
+6610,C0039542,terbutaline
+6616,C0039584,testicular diseases
+371,C0039585,androgen insensitivity syndrome
+6617,C0039590,testicular neoplasms
+6618,C0039600,testolactone
+6619,C0039601,testosterone
+6620,C0039607,testosterone propionate
+6621,C0039623,tetrabenazine
+6622,C0039644,tetracycline
+1996,C0039663,dronabinol
+1860,C0039667,dhfr
+6650,C0039729,th
+6651,C0039730,thalassemia
+6652,C0039736,thalidomide
+6653,C0039743,thanatophoric dysplasia
+6658,C0039763,theobromine
+6659,C0039771,theophylline
+6660,C0039832,thiabendazole
+6661,C0039840,thiamine
+6663,C0039855,thiamylal
+6667,C0039871,thiotepa
+6702,C0039902,tioguanine
+6635,C0039902,tg
+6664,C0039925,thiopental
+6665,C0039936,thioproperazine
+6666,C0039943,thioridazine
+6668,C0039955,thiothixene
+3688,C0040005,l threonine
+6673,C0040015,thrombasthenia
+6674,C0040028,thrombocythemia essential
+6675,C0040034,thrombocytopenia
+6677,C0040038,thromboembolism
+6679,C0040053,thrombosis
+6680,C0040100,thymoma
+6681,C0040136,thyroid neoplasms
+6683,C0040156,thyrotoxicosis
+6842,C0040162,trh
+3775,C0040165,levothyroxine
+6689,C0040193,ticarcillin
+6690,C0040207,ticlopidine
+6517,C0040223,t
+6695,C0040233,timolol
+6697,C0040247,tinea
+4767,C0040261,onychomycosis
+6698,C0040262,tinea versicolor
+6700,C0040263,tinidazole
+6773,C0040336,tobacco use disorder
+6774,C0040341,tobramycin
+6777,C0040372,tolazamide
+6778,C0040373,tolazoline
+6779,C0040374,tolbutamide
+6781,C0040377,tolmetin
+6782,C0040379,tolnaftate
+6786,C0040427,tooth abnormalities
+6796,C0040517,tourette syndrome
+6815,C0040578,trac
+6818,C0040610,tramadol
+6821,C0040613,tranexamic acid
+6823,C0040732,transplantation
+6824,C0040778,tranylcypromine
+6831,C0040805,trazodone
+6838,C0040820,trematode infections
+6840,C0040845,tretinoin
+6844,C0040864,triamcinolone
+6845,C0040869,triamterene
+6846,C0040879,triazolam
+6849,C0040899,trichlormethiazide
+6851,C0040953,trichotillomania
+6852,C0040958,triclosan
+6853,C0040979,trifluoperazine
+6855,C0040987,trifluridine
+6854,C0040989,triflupromazine
+6856,C0041009,trihexyphenidyl
+3809,C0041014,liothyronine
+4156,C0041030,metipranolol
+286,C0041031,alimemazine
+6865,C0041038,trimethadione
+6866,C0041040,trimethaphan
+6868,C0041041,trimethoprim
+6871,C0041056,trimipramine
+6873,C0041086,trioxsalen
+6875,C0041090,tripelennamine
+6876,C0041098,triprolidine
+6879,C0041165,troleandomycin
+6880,C0041182,trophoblastic neoplasms
+6882,C0041190,tropicamide
+3689,C0041249,l tryptophan
+6585,C0041260,tdo2
+6947,C0041341,tuberous sclerosis
+6949,C0041345,tubocurarine
+6951,C0041351,tularemia
+6953,C0041364,tumor lysis syndrome
+6965,C0041484,tyr
+3690,C0041485,l tyrosine
+7004,C0041582,ulcer
+2225,C0041834,erythema
+7021,C0041920,uracil mustard
+7022,C0041948,uremia
+7023,C0041969,urethral diseases
+7025,C0042035,urination disorders
+7028,C0042075,urologic diseases
+7029,C0042076,urologic neoplasms
+7031,C0042105,ursodeoxycholic acid
+7032,C0042109,urticaria
+7045,C0042131,uterine diseases
+7046,C0042134,uterine hemorrhage
+7048,C0042164,uveitis
+7049,C0042166,uveitis intermediate
+7052,C0042251,vaginal diseases
+3691,C0042285,l valine
+7055,C0042291,valproic acid
+7060,C0042313,vancomycin
+7067,C0042345,varicose veins
+7069,C0042373,vascular diseases
+7073,C0042373,vasculopathy
+7071,C0042384,vasculitis
+7093,C0042510,ventricular fibrillation
+7094,C0042523,verapamil
+7097,C0042646,vidarabine
+7102,C0042670,vinblastine
+7103,C0042679,vincristine
+7104,C0042682,vindesine
+7108,C0042769,virus diseases
+7109,C0042790,vision disorders
+7111,C0042839,vitamin a
+1659,C0042845,cyanocobalamin
+7113,C0042874,vitamin e
+7119,C0042963,vomiting
+7135,C0042971,vwf
+7121,C0042974,von willebrand diseases
+7133,C0042994,vulvar diseases
+7139,C0043027,wars
+7138,C0043031,warfarin
+7149,C0043119,werner syndrome
+7166,C0043119,wrn
+7155,C0043194,wiskott aldrich syndrome
+7142,C0043194,was
+7164,C0043207,wolfram syndrome
+7174,C0043346,xeroderma pigmentosum
+7175,C0043349,xerophthalmia
+7176,C0043352,xerostomia
+7220,C0043474,zidovudine
+7246,C0043541,zygomycosis
+4887,C0043603,pamidronate
+2164,C0043606,eperisone
+1999,C0043822,drospirenone
+1799,C0043832,deferiprone
+277,C0044410,alfacalcidol
+2685,C0045093,gemcitabine
+6733,C0046911,tmpo
+3416,C0047506,iobenguane
+2272,C0047683,etonogestrel
+449,C0048038,apraclonidine
+7098,C0048044,vigabatrin
+2516,C0048306,formestane
+476,C0048470,argatroban
+2511,C0048504,fomepizole
+4666,C0048628,nppc
+5551,C0048719,pts
+6624,C0048898,tetrahydrofolic acid
+1796,C0049065,decitabine
+1759,C0049285,dbi
+4207,C0049506,mirtazapine
+64,C0050385,ace
+60,C0050393,acarbose
+73,C0050451,acetohydroxamic acid
+74,C0050458,acetophenazine
+83,C0050559,acitretin
+164,C0050844,adinazolam
+3716,C0050940,lansoprazole
+279,C0051150,alfuzosin
+288,C0051162,alizapride
+452,C0051241,aprobarbital
+305,C0051405,alpha linolenic acid
+4419,C0051437,naglu
+316,C0051528,alverine
+325,C0051556,amcinonide
+347,C0051696,amlodipine
+368,C0051809,anagrelide
+385,C0051908,anileridine
+387,C0051919,anisindione
+388,C0051923,anisotropine methylbromide
+405,C0052135,antrafenine
+440,C0052190,apoc2
+505,C0052416,arsenic trioxide
+508,C0052429,artemether
+6335,C0052585,sparfloxacin
+627,C0052759,azatadine
+629,C0052761,azelaic acid
+630,C0052762,azelastine
+632,C0052772,azidocillin
+634,C0052796,azithromycin
+650,C0052865,bacampicillin
+662,C0052940,balsalazide
+663,C0052944,bambuterol
+707,C0053091,benazepril
+4836,C0053114,oxybuprocaine
+712,C0053229,benzonatate
+714,C0053245,benzthiazide
+838,C0053251,btc
+716,C0053289,benzyl benzoate
+728,C0053526,bethanechol
+730,C0053532,bevantolol
+741,C0053570,bifonazole
+753,C0053799,bisoprolol
+5013,C0053881,pemirolast
+1185,C0053882,cefprozil
+790,C0053941,bopindolol
+816,C0054040,bretylium
+822,C0054094,bromfenac
+825,C0054120,bromodiphenhydramine
+826,C0054129,bromopride
+846,C0054201,budesonide
+858,C0054234,butalbital
+860,C0054249,butethal
+861,C0054259,butoconazole
+970,C0054670,carbetocin
+973,C0054672,carbinoxamine
+976,C0054721,carboprost tromethamine
+998,C0054827,carprofen
+1004,C0054836,carvedilol
+1074,C0054947,cd22
+1075,C0054948,cd24
+1079,C0054949,cd27
+1083,C0054952,cd33
+1084,C0054953,cd34
+1085,C0054954,cd36
+1086,C0054955,cd37
+1093,C0054959,cd40
+1101,C0054966,cd59
+1102,C0054967,cd6
+1104,C0054968,cd7
+1115,C0054970,cd9
+1172,C0055003,cefepime
+1178,C0055008,ceforanide
+1183,C0055010,cefpiramide
+1184,C0055011,cefpodoxime
+1188,C0055014,ceftibuten
+1223,C0055147,cetirizine
+1236,C0055162,cfp
+1233,C0055288,cfi
+1807,C0055353,delorazepam
+1269,C0055443,chloroprocaine
+1270,C0055445,chloropyramine
+3850,C0055477,lornoxicam
+4835,C0055578,oxtriphylline
+1238,C0055633,cga
+1325,C0055711,ciclopirox
+1330,C0055723,cilazapril
+1331,C0055729,cilostazol
+1337,C0055747,cinitapride
+1533,C0055816,cpd
+1354,C0055856,clarithromycin
+1380,C0055877,clidinium
+1391,C0055891,clobazam
+1392,C0055895,clobetasol propionate
+1394,C0055899,clocortolone
+1398,C0055904,clofedanol
+1404,C0055930,cloperastine
+6894,C0055966,trpm2
+1484,C0056167,comp
+1541,C0056182,cr1
+1542,C0056184,cr2
+1513,C0056391,cortisone acetate
+1569,C0056519,crotamiton
+7079,C0056633,vcp
+1658,C0056643,cyamemazine
+1672,C0056732,cyclobenzaprine
+5677,C0056782,rdx
+1677,C0056831,cyclothiazide
+1678,C0056835,cycrimine
+1722,C0056855,cyproterone acetate
+1237,C0056889,cftr
+1731,C0056913,cytisine
+1746,C0057143,dapiprazole
+1702,C0057223,cyp2d6
+1795,C0057231,decamethonium
+1988,C0057455,dpyd
+1835,C0057558,desogestrel
+1840,C0057605,dexbrompheniramine
+1849,C0057626,dezocine
+1892,C0058004,difluprednate
+1898,C0058056,dihydrocodeine
+1861,C0058099,dhodh
+1907,C0058310,dinoprost tromethamine
+1911,C0058365,diphemanil methylsulfate
+1913,C0058371,diphenidol
+1915,C0058389,diphenylpyraline
+1916,C0058415,dipivefrin
+1918,C0058445,dirithromycin
+2000,C0058753,drostanolone
+2013,C0058758,dsp
+2001,C0058762,drotaverine
+2031,C0058831,dyclonine
+2107,C0058988,eif4e
+2152,C0059372,enprofylline
+2255,C0059699,ethanolamine oleate
+2258,C0059714,ethinamate
+1686,C0059735,cyp1a1
+1685,C0059735,cyp19a1
+2266,C0059849,ethynodiol
+2269,C0059865,etodolac
+2270,C0059868,etofenamate
+2467,C0059985,fludarabine
+2386,C0060135,felbamate
+2390,C0060156,fenbufen
+2391,C0060157,fencamfamine
+2393,C0060180,fenoldopam
+2439,C0060389,finasteride
+1173,C0060400,cefixime
+1170,C0060405,cefdinir
+2468,C0060485,fludiazepam
+2471,C0060494,flumethasone pivalate
+2473,C0060501,flunisolide
+2477,C0060520,fluorescein
+2484,C0060583,flupirtine
+2517,C0060657,formoterol
+2571,C0060879,fusafungine
+2591,C0060926,gabapentin
+2617,C0060930,gadoteridol
+2616,C0060934,gadopentetate dimeglumine
+2626,C0061008,gallium nitrate
+2637,C0061008,gan
+2731,C0061078,gla
+2694,C0061246,gestodene
+2741,C0061323,glimepiride
+2744,C0061328,gliquidone
+2745,C0061330,glisoxepide
+3470,C0061671,itga2b
+4766,C0061851,ondansetron
+2863,C0061863,granisetron
+2954,C0062092,halazepam
+2958,C0062106,haloprogin
+3039,C0062585,hesperetin
+3041,C0062587,hetacillin
+3046,C0062686,hexylcaine
+3062,C0062740,histamine phosphate
+3129,C0062751,hrg
+3080,C0062887,hla e
+3105,C0062923,homatropine methylbromide
+3107,C0062941,homoharringtonine
+5343,C0063017,ppy
+3740,C0063041,leflunomide
+1830,C0063252,desflurane
+3275,C0063340,ifenprodil
+1106,C0063356,cd74
+3381,C0063455,indecainide
+363,C0063517,amt
+3254,C0063695,icam1
+3418,C0063757,iodixanol
+3457,C0064007,isometheptene
+3462,C0064079,isosorbide mononitrate
+3463,C0064088,isothipendyl
+3495,C0064113,itraconazole
+2123,C0064263,emedastine
+3587,C0064304,ketazolam
+3588,C0064311,ketobemidone
+7188,C0064435,xrcc5
+3713,C0064636,lamotrigine
+3767,C0064870,levocabastine
+4414,C0064906,nafarelin
+2437,C0065023,fidaxomicin
+3841,C0065152,lofexidine
+3842,C0065162,lomefloxacin
+3848,C0065180,loratadine
+3323,C0065337,il16
+3823,C0065374,lisinopril
+927,C0065767,calcipotriol
+4075,C0065864,medroxyprogesterone acetate
+4076,C0065865,medrysone
+4085,C0065879,megestrol acetate
+4109,C0065972,mequitazine
+4111,C0066005,meropenem
+4132,C0066101,methdilazine
+4157,C0066139,metixene
+4317,C0066357,mthfr
+4147,C0066411,methylnaltrexone
+4159,C0066465,metocurine
+4183,C0066503,mica
+4195,C0066535,miglitol
+4200,C0066561,minaprine
+4218,C0066621,mivacurium
+4240,C0066662,mme
+4264,C0066673,moclobemide
+4268,C0066677,modafinil
+4269,C0066685,moexipril
+4290,C0066776,mpl
+4348,C0066964,musk
+349,C0067813,amn
+4665,C0068273,nppa
+7056,C0068314,valrubicin
+4409,C0068333,nabilone
+4410,C0068334,nabumetone
+4416,C0068367,naftifine
+4429,C0068395,nandrolone decanoate
+4430,C0068397,nandrolone phenpropionate
+4499,C0068475,nebivolol
+4504,C0068483,nedocromil
+4505,C0068485,nefazodone
+6738,C0068613,tnc
+4595,C0068771,nilutamide
+4602,C0068788,nitazoxanide
+4611,C0068881,nitroxoline
+6685,C0068897,tiagabine
+4640,C0068992,norgestimate
+4327,C0069187,mttp
+4178,C0069197,mgmt
+5305,C0069304,pou5f1
+4763,C0069454,olsalazine
+2202,C0069515,erbb2
+4822,C0069717,oxaliplatin
+4825,C0069739,oxaprozin
+4827,C0069751,oxcarbazepine
+4830,C0069765,oxiconazole
+4837,C0069805,oxybutynin
+4841,C0069833,oxyphencyclimine
+4905,C0070072,paramethadione
+4916,C0070122,paroxetine
+5584,C0070358,pyy
+5043,C0070455,permethrin
+5090,C0070525,phenacemide
+5092,C0070549,phendimetrazine
+5095,C0070563,phenindamine
+5103,C0070592,phensuximide
+2521,C0070895,foscarnet
+5156,C0071097,pioglitazone
+5159,C0071102,pipecuronium
+2247,C0071108,estropipate
+5165,C0071129,pirbuterol
+3466,C0071304,isradipine
+5265,C0071330,polidocanol
+198,C0071561,aga
+5283,C0071715,pomp
+5347,C0071808,pralidoxime
+5365,C0071836,prednicarbate
+5420,C0072032,procaterol
+5427,C0072076,progabide
+4944,C0072108,pcna
+4984,C0072480,pdgfb
+5438,C0072510,proparacaine
+6630,C0072523,tff1
+5583,C0072802,pyruvic acid
+5589,C0072828,quazepam
+5593,C0072857,quinapril
+1342,C0072916,cisapride
+5756,C0072926,ridogrel
+5635,C0072973,ramipril
+6063,C0072980,sirolimus
+5697,C0073047,remoxipride
+5836,C0073283,rpl19
+5759,C0073372,rifapentine
+5760,C0073374,rifaximin
+5762,C0073379,riluzole
+5773,C0073393,risperidone
+5809,C0073571,ropivacaine
+5818,C0073591,rosoxacin
+5822,C0073601,roxatidine acetate
+3591,C0073631,ketorolac
+5639,C0073633,ranolazine
+5908,C0073983,salsalate
+5907,C0073992,salmeterol
+5976,C0074281,selenium sulfide
+6004,C0074391,sertaconazole
+6006,C0074393,sertraline
+6012,C0074414,sevoflurane
+6050,C0074493,sibutramine
+6061,C0074554,simvastatin
+5348,C0074710,pramipexole
+6310,C0074722,sodium bicarbonate
+6359,C0075007,spirapril
+6423,C0075227,stepronin
+1683,C0075233,cyp11b2
+6455,C0075429,succinic acid
+6482,C0075606,sulfoxone
+6493,C0075632,sumatriptan
+1087,C0075742,cd38
+1080,C0075747,cd28
+6552,C0075857,tauroursodeoxycholic acid
+6555,C0075870,tazobactam
+6600,C0076080,temozolomide
+6606,C0076096,tenoxicam
+6608,C0076107,terazosin
+6609,C0076110,terbinafine
+6611,C0076115,terconazole
+4790,C0076275,orlistat
+6686,C0076653,tiaprofenic acid
+6701,C0076705,tioconazole
+6776,C0076784,tofisopam
+558,C0076823,atomoxetine
+6790,C0076829,topiramate
+6795,C0076836,toremifene
+6794,C0076840,torasemide
+6820,C0076891,trandolapril
+6561,C0077021,tbp
+6857,C0077144,trilostane
+6867,C0077163,trimethobenzamide
+1503,C0077662,coq6
+1504,C0077664,coq9
+954,C0077782,candoxatril
+618,C0078039,avp
+47,C0078140,abo
+7105,C0078257,vinorelbine
+2184,C0078442,epinastine
+7089,C0078569,venlafaxine
+7189,C0078643,xylometazoline
+7242,C0078839,zolpidem
+7243,C0078844,zonisamide
+7244,C0078847,zopiclone
+975,C0079083,carboplatin
+1549,C0079173,craniomandibular disorders
+2181,C0079294,epidermolysis bullosa dystrophica
+2408,C0079349,fgf1
+1761,C0079414,dcc
+3791,C0079419,li fraumeni syndrome
+6797,C0079419,tp53
+2928,C0079466,guanfacine
+3128,C0079471,hras
+3103,C0079541,holoprosencephaly
+3119,C0079543,hpn
+3257,C0079583,ichthyosiform erythroderma congenital
+3260,C0079584,ichthyosis vulgaris
+3361,C0079594,iloprost
+3930,C0079786,maf
+4279,C0079856,moricizine
+6637,C0080222,tgfb1
+6378,C0080298,src
+7221,C0081408,zileuton
+4896,C0081876,pantoprazole
+1100,C0081942,cd58
+2493,C0082608,fluvastatin
+2520,C0082613,fosb
+2615,C0082646,gadodiamide
+2739,C0082708,gli3
+3081,C0082920,hla g
+3253,C0082966,ibutilide
+3287,C0083028,ifnw1
+3314,C0083031,il11
+3356,C0083032,il7r
+524,C0083344,ascl1
+4090,C0083381,meloxicam
+774,C0083867,bmp7
+2977,C0084219,hck
+6005,C0084528,sertindole
+1110,C0084715,cd81
+5198,C0084796,plat
+3916,C0085078,lysosomal storage diseases
+4282,C0085084,motor neuron disease
+5040,C0085096,peripheral vascular diseases
+5038,C0085096,peripheral arterial disease
+6011,C0085110,severe combined immunodeficiency
+828,C0085129,bronchial hyperreactivity
+1200,C0085136,central nervous system neoplasms
+6524,C0085149,tacrolimus
+447,C0085151,app
+4612,C0085154,nizatidine
+3054,C0085160,hidradenitis
+542,C0085170,astemizole
+4208,C0085174,misoprostol
+6870,C0085176,trimetrexate
+852,C0085208,bupropion
+5625,C0085218,rag1
+2494,C0085228,fluvoxamine
+6775,C0085237,tocainide
+2132,C0085251,encainide
+4342,C0085259,mupirocin
+5449,C0085261,proteus syndrome
+245,C0085280,alagille syndrome
+6287,C0085292,sms
+3311,C0085295,il10
+5273,C0085409,polyendocrinopathies autoimmune
+2860,C0085423,gram negative bacterial infections
+3357,C0085424,il9
+2861,C0085426,gram positive bacterial infections
+5351,C0085542,pravastatin
+3442,C0085576,iron refractory iron deficiency anemia
+2134,C0085584,encephalopathy
+3830,C0085605,liver failure
+5506,C0085631,psychomotor agitation
+5576,C0085652,pyoderma gangrenosum
+3237,C0085682,hypophosphatemia
+6354,C0085741,spink1
+1567,C0086073,cromoglicic acid
+1844,C0086444,dexrazoxane
+1021,C0086543,cataract
+4360,C0086661,myc
+4894,C0086769,panic attacks
+2518,C0087140,fos
+3673,C0087163,l carnitine
+3723,C0090306,latanoprost
+1396,C0092777,clofarabine
+1353,C0092801,cladribine
+1226,C0093437,cevimeline
+4461,C0093999,ndp
+2955,C0098735,halobetasol propionate
+275,C0102118,alendronate
+344,C0103045,amisulpride
+346,C0103049,amlexanox
+556,C0103097,atm
+5464,C0103396,prss2
+1108,C0104979,cd79b
+1109,C0104998,cd80
+697,C0105421,bcr
+6643,C0106158,tgfbr3
+702,C0107103,bdnf
+859,C0107497,butenafine
+2276,C0107719,ets1
+2277,C0107720,ets2
+898,C0107994,cabergoline
+931,C0108111,calcium gluceptate
+1067,C0108748,cd19
+1064,C0108768,cd14
+1070,C0108773,cd2
+2156,C0108783,entpd1
+1099,C0108793,cd55
+1103,C0108800,cd69
+1125,C0108836,cdc7
+1137,C0108855,cdk2
+4142,C0109002,methsuximide
+455,C0109329,aqp1
+1356,C0110038,clavulanate
+1620,C0110610,ctgf
+1842,C0113293,dexmedetomidine
+1962,C0114771,dofetilide
+1972,C0114872,doxacurium chloride
+1974,C0114873,doxazosin
+2148,C0116190,enoximone
+2231,C0116569,esmolol
+2492,C0117996,fluticasone propionate
+2523,C0118168,fosinopril
+2558,C0118175,fst
+2817,C0120107,goserelin
+2956,C0120726,halofantrine
+3117,C0121300,hpd
+3059,C0121811,hip1
+3443,C0121830,irs1
+3072,C0122005,hla dpa1
+3073,C0122007,hla dpb1
+3074,C0122013,hla dqa1
+3075,C0122020,hla dqb1
+3077,C0122040,hla drb1
+3078,C0122042,hla drb3
+3079,C0122044,hla drb5
+1229,C0122577,cfh
+2709,C0122592,ghr
+3251,C0123047,ibudilast
+5591,C0123091,quetiapine
+3298,C0123707,igfbp3
+3437,C0123931,irinotecan
+1242,C0124604,chat
+3851,C0126174,losartan
+3943,C0126789,magnesium salicylate
+4241,C0127082,mmp1
+4113,C0127615,mesalazine
+4198,C0128513,milrinone
+3936,C0129439,mag
+5313,C0132309,ppbp
+4562,C0132326,nevirapine
+4596,C0132512,nilvadipine
+4633,C0132776,nonoxynol 9
+6506,C0134982,syk
+4956,C0135710,pdcd1
+5036,C0136123,perindopril
+3293,C0140080,igf1r
+429,C0140145,apex1
+5757,C0140575,rifabutin
+5764,C0140594,rimexolone
+6543,C0140599,tap1
+5885,C0141333,s100a11
+4151,C0141756,methylscopolamine bromide
+6462,C0143993,sufentanil
+4862,C0144576,paclitaxel
+6612,C0145185,terlipressin
+6629,C0145464,tfe3
+6693,C0145942,tiludronate
+6706,C0146011,tizanidine
+6792,C0146224,topotecan
+7058,C0148339,vamp1
+2198,C0149678,epstein barr virus infections
+4561,C0151683,neutrophilia
+3413,C0151699,intracranial hemorrhages
+5276,C0152025,polyneuropathies
+378,C0152305,ang
+4270,C0152331,mog
+2430,C0152351,fh
+5272,C0152427,polydactyly
+5722,C0152439,retinoschisis
+4784,C0155305,optic neuropathy ischemic
+5555,C0155912,pulmonary alveolar microlithiasis
+7070,C0158570,vascular malformations
+6927,C0158940,ttn
+190,C0162309,adrenoleukodystrophy
+1395,C0162357,clodronate
+2066,C0162359,eda
+3959,C0162429,malnutrition
+3515,C0162508,jun
+5293,C0162533,porphyrias hepatic
+223,C0162565,aip
+6079,C0162627,skin diseases bacterial
+6083,C0162628,skin diseases viral
+6834,C0162643,treatment failure
+4550,C0162678,neurofibromatoses
+6081,C0162818,skin diseases papulosquamous
+3218,C0162834,hyperpigmentation
+3239,C0162835,hypopigmentation
+3055,C0162836,hidradenitis suppurativa
+330,C0162874,amh
+4123,C0163055,metaxalone
+6300,C0163617,snrpn
+4258,C0164371,mmp3
+845,C0164386,buclizine
+5595,C0164608,quinethazone
+6420,C0164662,stavudine
+7064,C0164678,vapreotide
+6633,C0164707,tfpi
+5017,C0164815,penciclovir
+1339,C0164835,cinolazepam
+3365,C0165032,imiquimod
+3448,C0165187,iscu
+1970,C0165590,dorzolamide
+560,C0165603,atovaquone
+137,C0165631,adapalene
+2153,C0165921,entacapone
+6544,C0165949,tap2
+1094,C0167627,cd40lg
+4927,C0167636,pax5
+5678,C0168388,reboxetine
+2206,C0168552,ercc2
+3504,C0169658,jak1
+3505,C0169661,jak2
+3647,C0170517,krt10
+1779,C0170521,ddit3
+4938,C0170855,pcca
+4759,C0171023,olanzapine
+5461,C0171427,prrx1
+6740,C0171965,tnfaip3
+466,C0172021,arbutamine
+4603,C0173083,nitisinone
+1829,C0175158,deserpidine
+4291,C0175313,mpo
+5087,C0175346,phb
+2953,C0175468,hal
+4713,C0175518,nts
+6056,C0175693,silver russell syndrome
+6276,C0175694,smith lemli opitz syndrome
+6323,C0175695,sotos syndrome
+7059,C0175697,van der woude syndrome
+9,C0175701,aarskog scott syndrome
+201,C0175754,agenesis of corpus callosum
+1019,C0179686,cast
+2382,C0200453,fdps
+2691,C0202391,gentamicin
+657,C0205169,bad
+5011,C0205711,pelizaeus merzbacher disease
+3882,C0205821,ltb
+7180,C0206003,xk
+3402,C0206042,insomnia fatal familial
+4549,C0206093,neuroectodermal tumors
+1733,C0206178,cytomegalovirus retinitis
+950,C0206307,canavan disease
+2285,C0206368,exfoliation syndrome
+2147,C0206460,enoxaparin
+2136,C0206586,endolymphatic hydrops
+4522,C0206710,neoplasms basal cell
+4526,C0206715,neoplasms neuroepithelial
+4527,C0206720,neoplasms squamous cell
+4537,C0206727,nerve sheath neoplasms
+3800,C0206762,limb deformities congenital
+4524,C0206768,neoplasms ductal lobular and medullary
+2682,C0207072,gdnf
+1687,C0207509,cyp1a2
+1192,C0208736,cel
+5687,C0208940,reg1a
+2417,C0208989,fgf3
+1964,C0209210,dolasetron
+2336,C0209227,famciclovir
+5803,C0209337,rocuronium
+1225,C0209366,cetrorelix
+4363,C0209368,mycophenolate mofetil
+2613,C0209453,gadobenate dimeglumine
+5696,C0209499,remikiren
+2425,C0209706,fgfr2
+3712,C0209738,lamivudine
+6395,C0209994,ssrp1
+5012,C0210657,pemetrexed
+4302,C0210995,msh3
+2210,C0211445,ercc6
+5810,C0211525,ror1
+5811,C0211526,ror2
+2713,C0211547,gif
+4353,C0212908,mxi1
+5872,C0213404,rufinamide
+6703,C0213771,tiotropium
+1051,C0214570,ccnd2
+1047,C0214737,ccl8
+3319,C0214743,il13
+6642,C0214897,tgfbr2
+4050,C0215343,mcl1
+4309,C0215510,mst1r
+588,C0216162,atp7a
+7202,C0216660,zanamivir
+4232,C0216705,mllt3
+7057,C0216784,valsartan
+3313,C0217502,il10rb
+1698,C0218171,cyp2c18
+1649,C0218504,cxcl12
+2738,C0218975,gli2
+693,C0219472,bcl2l1
+3475,C0219557,itga7
+1097,C0220248,cd47
+4930,C0220359,pax8
+4885,C0220578,palonosetron
+5720,C0220701,retinitis pigmentosa 1
+1875,C0220726,diastrophic dysplasia
+1002,C0220748,cartilage hair hypoplasia
+1548,C0220767,craniofrontonasal dysplasia
+4773,C0220769,opitz kaveggia syndrome
+1862,C0220821,dhps
+7171,C0220988,xanthinuria
+3063,C0220992,histidinemia
+3204,C0220994,hyperammonemia
+1818,C0221074,depression postpartum
+921,C0221263,cafe au lait spots
+4559,C0235032,neurotoxicity syndromes
+255,C0236664,alcohol related disorders
+1435,C0236736,cocaine related disorders
+6453,C0236969,substance related disorders
+254,C0236970,alcohol induced disorders
+6014,C0237873,sexual dysfunction physiological
+4077,C0238462,medullary thyroid carcinoma
+6822,C0238478,transient erythroblastopenia of childhood
+2083,C0242275,egf
+3446,C0242287,isaacs syndrome
+2044,C0242339,dyslipidemias
+4893,C0242343,panhypopituitarism
+2212,C0242350,erectile dysfunction
+4913,C0242422,parkinsonian disorders
+118,C0242488,acute lung injury
+7084,C0242531,vecuronium
+1920,C0242656,disease progression
+7092,C0242698,ventricular dysfunction left
+4019,C0242747,mars
+7114,C0242852,vitreoretinopathy proliferative
+5568,C0242852,pvr
+4276,C0242916,mononegavirales infections
+6515,C0242966,systemic inflammatory response syndrome
+6671,C0242987,thra
+6672,C0242988,thrb
+2496,C0243599,fmo1
+2498,C0243600,fmo3
+1095,C0243982,cd44
+5631,C0244404,raloxifene
+2526,C0244656,fosphenytoin
+2361,C0244756,fbn1
+5808,C0244821,ropinirole
+1651,C0245297,cxcl2
+3780,C0245382,lgals3
+6525,C0245557,tacstd2
+2019,C0245561,duloxetine
+5833,C0245587,rpl13
+3256,C0246269,icatibant
+6780,C0246330,tolcapone
+1960,C0246415,docetaxel
+3751,C0246421,letrozole
+6266,C0246454,smarca2
+5695,C0246631,remifentanil
+5703,C0246689,repaglinide
+5772,C0246719,risedronate
+3774,C0246904,levosimendan
+1139,C0246957,cdk4
+7203,C0246976,zap70
+6705,C0247025,tirofiban
+6752,C0247111,tnfrsf9
+3360,C0247194,iloperidone
+3166,C0248161,htr1b
+4008,C0248446,mapkapk2
+6267,C0248587,smarca4
+6598,C0248719,telmisartan
+1151,C0249197,cdkn1a
+7053,C0249458,valaciclovir
+4910,C0249582,paricalcitol
+5355,C0249759,prb2
+7185,C0250029,xrcc1
+2515,C0250070,forasartan
+1041,C0250604,ccl11
+7161,C0250963,wnt5a
+2462,C0251006,flt3
+2664,C0251107,gcat
+1066,C0251113,cd163
+7201,C0251504,zaleplon
+1450,C0251815,col18a1
+5862,C0252024,rras
+6966,C0252032,tyro3
+3778,C0252527,lgals1
+3779,C0252528,lgals2
+4229,C0252642,mlh1
+792,C0252643,bosentan
+6416,C0253050,stat3
+3506,C0253456,jak3
+1666,C0254237,cyba
+4331,C0254452,muc5b
+3321,C0254610,il15
+5735,C0254619,rgs2
+1144,C0255652,cdk7
+5396,C0256015,prkcg
+5531,C0257110,ptk6
+5466,C0257137,prss8
+6537,C0257343,tamsulosin
+3999,C0257535,mapk14
+6757,C0257572,tnfsf4
+6042,C0258846,shh
+2996,C0260662,hearing disorders
+6465,C0262960,sulfacytine
+964,C0262964,capreomycin
+2015,C0262967,dst
+7147,C0265210,weaver syndrome
+4884,C0265220,pallister hall syndrome
+1445,C0265223,cohen syndrome
+2550,C0265233,fraser syndrome
+4020,C0265235,marshall syndrome
+4340,C0265261,multiple pterygium syndrome
+3104,C0265264,holt oram syndrome
+99,C0265287,acromicric dysplasia
+2867,C0265306,greig cephalopolysyndactyly syndrome
+4861,C0265334,pachyonychia congenita
+622,C0265341,axenfeld rieger syndrome
+1241,C0265354,charge syndrome
+854,C0265514,buschke ollendorff syndrome
+2063,C0265554,ectrodactyly
+7090,C0265950,venous malformations
+4641,C0266526,norrie disease
+2287,C0267963,exocrine pancreatic insufficiency
+153,C0268120,adenine phosphoribosyltransferase deficiency
+7181,C0268135,xpa
+2634,C0268151,galt
+2762,C0268186,glucose galactose malabsorption
+1732,C0268237,cytochrome c oxidase deficiency
+4744,C0268353,occipital horn syndrome
+312,C0268425,alstrom syndrome
+4743,C0268495,oca2
+246,C0268505,aland island eye disease
+5431,C0268532,prolidase deficiency
+6456,C0268631,succinic semialdehyde dehydrogenase deficiency
+3915,C0268647,lysinuric protein intolerance
+2570,C0268696,fus
+3760,C0270612,leukoencephalopathies
+276,C0270726,alexander disease
+2240,C0270736,essential tremor
+5,C0271742,aaas
+5018,C0271829,pendred syndrome
+5715,C0272167,reticular dysgenesis
+2865,C0272302,gray platelet syndrome
+3412,C0273058,intracranial hemorrhage traumatic
+3900,C0273115,lung injury
+6946,C0275904,tuberculosis central nervous system
+4798,C0279238,osm
+287,C0281666,alitretinoin
+3441,C0282193,iron overload
+3768,C0282386,levofloxacin
+5044,C0282528,peroxisomal disorders
+788,C0282609,bone marrow neoplasms
+2092,C0282687,ehf
+7117,C0282813,voacamine
+1690,C0283470,cyp24a1
+5812,C0284080,rora
+58,C0284941,acamprosate
+1096,C0285488,cd46
+738,C0285590,bicalutamide
+6293,C0285890,snca
+1327,C0286079,cidofovir
+1107,C0286618,cd79a
+559,C0286651,atorvastatin
+5912,C0286738,saquinavir
+1111,C0286983,cd82
+2195,C0287041,eprosartan
+1335,C0287390,cinalukast
+2021,C0287531,dusp1
+1171,C0287573,cefditoren
+2568,C0287990,furin
+1805,C0288165,delavirdine
+3429,C0288171,irbesartan
+6554,C0288792,tazarotene
+5817,C0289313,rosiglitazone
+5546,C0289499,ptprj
+4987,C0290068,pdgfrb
+370,C0290883,anastrozole
+5561,C0291181,pura
+2614,C0291216,gadobutrol
+1009,C0291573,casp3
+298,C0291772,alosetron
+3885,C0292186,ltbp2
+6270,C0292369,smarcb1
+684,C0292625,bcap31
+6641,C0292688,tgfbr1
+5776,C0292818,ritonavir
+6231,C0293237,slc7a5
+3802,C0294273,limk1
+1783,C0294276,ddr1
+7204,C0294292,zbtb16
+6816,C0295022,traf3
+607,C0295398,auh
+7163,C0295892,wnt7a
+5984,C0296790,sema4d
+2402,C0296800,fexofenadine
+467,C0297269,ardeparin
+5779,C0297635,rizatriptan
+5769,C0297981,ripk1
+4277,C0298130,montelukast
+1688,C0298987,cyp1b1
+777,C0299048,bmpr2
+5637,C0299456,ranbp2
+3432,C0299544,irf4
+486,C0299792,aripiprazole
+2077,C0300140,eef1a1
+1715,C0300605,cyp4b1
+2055,C0301366,echothiophate
+3460,C0301373,isopropamide
+6532,C0301407,talbutal
+965,C0301409,captodiame
+307,C0301811,alpp
+3439,C0302583,iron
+2397,C0302583,fer
+3697,C0302813,lactase deficiency
+3199,C0304340,hydroxystilbamidine isethionate
+1890,C0304612,diflorasone
+4955,C0309720,pdc
+2566,C0311338,fundus albipunctatus
+3265,C0328104,ide
+3127,C0332167,hr
+4335,C0333355,mucositis
+598,C0333641,atrophy
+6539,C0336821,tank
+4017,C0338344,marimastat
+313,C0338488,alternating hemiplegia of childhood
+4768,C0338508,opa1
+1444,C0338656,cognitive dysfunction
+3739,C0339527,leber congenital amaurosis
+2140,C0339541,enhanced s cone syndrome
+2122,C0340861,emd
+4188,C0341306,microvillus inclusion disease
+1866,C0342257,diabetes complications
+6662,C0342287,thiamine responsive megaloblastic anemia syndrome
+3306,C0342384,ihh
+188,C0342388,adrenocorticotropic hormone deficiency
+3244,C0342418,hypothalamic hamartomas
+6869,C0342739,trimethylaminuria
+1540,C0342790,cpt2
+993,C0342791,carnitine acylcarnitine translocase deficiency
+6071,C0342907,sitosterolemia
+5050,C0344559,peters anomaly
+3519,C0345893,juvenile polyposis syndrome
+3958,C0345967,malignant mesothelioma
+751,C0346010,birt hogg dube syndrome
+2774,C0351000,glycodiazine
+4104,C0360172,mepenzolate
+1808,C0360174,demecarium
+253,C0360534,alclometasone
+4274,C0360564,mometasone
+7245,C0376160,zuclopenthixol
+5290,C0376250,por
+1098,C0376272,cd52
+7083,C0376393,vdr
+692,C0376515,bcl2
+3014,C0376545,hematologic neoplasms
+806,C0376571,brca1
+4205,C0376579,mip
+18,C0376622,abcb1
+1546,C0376634,craniofacial abnormalities
+3382,C0376637,indinavir
+3764,C0377265,levetiracetam
+6970,C0377610,uba1
+1705,C0377773,cyp2j2
+7199,C0378466,zafirlukast
+5612,C0378482,rabeprazole
+4014,C0378964,marcks
+3250,C0379199,ibandronate
+658,C0379646,bag1
+6884,C0379881,trovafloxacin
+7222,C0380393,ziprasidone
+2413,C0380603,fgf2
+3326,C0383327,il18
+5532,C0384197,ptk7
+6605,C0384228,tenofovir
+3431,C0384768,irf3
+6087,C0385145,skp1
+6262,C0385939,smad4
+7095,C0387288,verteporfin
+5525,C0387583,ptgs2
+6759,C0387990,tnk1
+4009,C0388213,mapkapk3
+3092,C0388570,hmmr
+5488,C0388576,psmb10
+5888,C0388675,s100a2
+6783,C0388753,tolterodine
+5886,C0389073,s100a12
+5713,C0389252,ret
+1065,C0389372,cd151
+132,C0389918,adamts13
+6343,C0391462,speg
+5799,C0392475,roberts syndrome
+7240,C0392938,zoledronate
+7122,C0393080,voriconazole
+4341,C0393571,multiple system atrophy
+2995,C0393735,headache disorders
+5278,C0393819,polyradiculoneuropathy chronic inflammatory demyelinating
+3891,C0395416,ltk
+6678,C0398623,thrombophilia
+5564,C0398650,purpura thrombocytopenic idiopathic
+2768,C0398746,glutathione synthetase deficiency
+4593,C0398791,nijmegen breakage syndrome
+2888,C0398794,griscelli syndrome
+4632,C0400966,non alcoholic fatty liver disease
+4662,C0403399,nphs1
+5712,C0406585,restrictive dermopathy
+1827,C0406778,dermatopathia pigmentosa reticularis
+5924,C0406803,scap
+4318,C0410203,mtm1
+3230,C0410529,hypochondroplasia
+6463,C0424000,suicidal ideation
+797,C0428977,bradycardia
+1215,C0431427,cerebral dysgenesis
+3715,C0432230,langer mesomelic dysplasia
+6899,C0432233,trps1
+4809,C0432252,osteoporosis pseudoglioma syndrome
+3259,C0432306,ichthyosis bullosa of siemens
+2307,C0439453,f2
+5920,C0445244,sat1
+2684,C0445501,gem
+876,C0446416,c6
+878,C0446417,c7
+6404,C0450510,st13
+6405,C0450511,st14
+6331,C0450544,sp1
+7027,C0451641,urolithiasis
+869,C0456880,c2
+1486,C0458219,complex regional pain syndromes
+3016,C0472699,hematopoietic stem cell transplantation
+4820,C0497406,overweight
+4539,C0497552,nervous system malformations
+77,C0520442,acetyldigitoxin
+3771,C0520472,levonordefrin
+119,C0520799,acute radiation syndrome
+5297,C0520909,postoperative nausea and vomiting
+4904,C0522224,paralysis
+5049,C0524528,pervasive developmental disorder
+612,C0524528,autism spectrum disorder
+4548,C0524851,neurodegenerative diseases
+4031,C0524948,maxillofacial abnormalities
+5881,C0524963,ryr2
+5882,C0524964,ryr3
+5880,C0524965,ryr1
+4515,C0525005,nelfinavir
+1154,C0525037,cdkn2a
+4546,C0525041,neurobehavioral manifestations
+4278,C0525045,mood disorder
+709,C0525133,bentoquatam
+817,C0525227,brimonidine
+4305,C0525289,msmb
+2497,C0525349,fmo2
+5652,C0525678,rasagiline
+5349,C0526058,pranlukast
+1025,C0526211,cbfb
+3750,C0526399,lercanidipine
+3376,C0526969,incadronate
+2426,C0527057,fgfr3
+4761,C0527189,olopatadine
+1968,C0527316,donepezil
+3789,C0527482,lhx2
+4042,C0527721,mc4r
+1113,C0527903,cd86
+871,C0527999,c3ar1
+7241,C0528166,zolmitriptan
+3626,C0529085,klf4
+6261,C0529119,smad3
+6397,C0529155,sstr1
+1752,C0529351,darifenacin
+6054,C0529793,sildenafil
+1343,C0530105,cisatracurium besylate
+2302,C0530684,ezogabine
+772,C0530979,bmp4
+30,C0531026,abcc6
+6528,C0531051,taf15
+3897,C0531104,lumefantrine
+3917,C0531296,lyst
+2339,C0531299,fanca
+4001,C0532059,mapk4
+7118,C0532578,voglibose
+1712,C0533212,cyp3a7
+6956,C0533325,twist1
+2687,C0533545,gemifloxacin
+380,C0533668,angpt1
+2300,C0534041,ezh1
+6975,C0534043,ube2i
+5622,C0534064,rad54l
+3635,C0534101,klk6
+1697,C0534137,cyp2b6
+1149,C0534157,cdkl2
+7106,C0534281,vipr1
+1124,C0534434,cdc6
+3934,C0534921,mafg
+6273,C0535219,smc3
+2294,C0535837,eya1
+3279,C0535872,ifna2
+1711,C0535996,cyp3a5
+3144,C0536221,hsd17b4
+4286,C0536495,moxifloxacin
+5188,C0536678,pla2g2a
+1614,C0536940,ctag1a
+6991,C0537026,ugt1a1
+4911,C0537311,park7
+4024,C0537643,masp2
+6710,C0537740,tk2
+1016,C0537894,caspofungin
+3627,C0537989,klf6
+5194,C0538273,pla2g6
+1193,C0538927,celecoxib
+4650,C0539211,notch4
+4222,C0539636,mknk1
+6001,C0540301,serping1
+3619,C0540309,kiss1
+4433,C0540623,naratriptan
+2175,C0540659,ephb6
+5213,C0540671,pld1
+6263,C0540682,smad6
+151,C0540694,adefovir dipivoxil
+2281,C0541315,everolimus
+2183,C0543888,epileptic encephalopathy
+3192,C0544368,hydrocortamate
+2971,C0544483,hbb
+4275,C0546966,monilethrix
+4402,C0553604,myotonic disorders
+2620,C0560013,gal
+670,C0574083,barth syndrome
+2901,C0574239,grn
+6281,C0574401,smo
+2661,C0574426,gba
+2590,C0574501,gaa
+6391,C0574526,srr
+3854,C0574785,lower urinary tract symptoms
+218,C0596123,ahr
+888,C0596235,ca2
+3387,C0596773,infectious encephalitis
+2051,C0597716,ebp
+6366,C0597731,spr
+807,C0598034,brca2
+3212,C0598608,hyperhomocysteinemia
+3108,C0600142,hot flashes
+5026,C0600296,pentosan polysulfate
+4125,C0600370,methacholine
+3021,C0600502,hemostatic disorders
+2099,C0606869,eif2b1
+1701,C0608437,cyp2c9
+439,C0608460,apoc1
+69,C0608826,aceprometazine
+4627,C0617355,nnmt
+3067,C0618743,hk2
+3632,C0618743,klk2
+2921,C0622841,gstp1
+5361,C0633225,prdx4
+5570,C0634839,pxdn
+3483,C0637379,itgb4
+3482,C0638262,itgb3
+883,C0640658,ca1
+2781,C0643518,gmps
+5752,C0643681,rhoa
+6571,C0648370,tcap
+5778,C0649350,rivastigmine
+4390,C0654795,myo5a
+7184,C0655775,xpo1
+1623,C0657307,ctnna2
+5368,C0657912,pregabalin
+1248,C0659150,chek1
+6550,C0662811,tasosartan
+2082,C0662925,efnb1
+5620,C0663124,rad52
+4455,C0663204,ncoa3
+3808,C0663241,linezolid
+4051,C0663296,mcm4
+11,C0663655,abacavir
+6704,C0663733,tipranavir
+3307,C0663912,ikbkb
+4289,C0663932,mpi
+6904,C0663937,tsc1
+3645,C0665301,krit1
+6793,C0665823,tor1a
+6754,C0666361,tnfsf11
+6746,C0666480,tnfrsf13b
+2896,C0667286,grm4
+241,C0668624,akt1
+7195,C0668673,yeats4
+6755,C0669351,tnfsf12
+4646,C0669365,nos3
+4645,C0669372,nos2
+6529,C0669417,taf2
+3325,C0669927,il17ra
+1951,C0669938,dnm1l
+6996,C0671434,ugt1a6
+4246,C0671550,mmp14
+6064,C0671702,sirpa
+4683,C0671771,nr1i2
+956,C0671970,capecitabine
+4010,C0672273,mapkapk5
+7123,C0672708,vorinostat
+4438,C0673024,nat1
+2635,C0673093,gamma hydroxybutyric acid
+818,C0673966,brinzolamide
+1789,C0674363,ddx6
+3847,C0674432,lopinavir
+4445,C0674679,nbn
+5618,C0674683,rad50
+4462,C0675116,ndrg1
+484,C0675390,arid1a
+2108,C0675677,eif4e2
+6045,C0676309,shoc2
+1053,C0676565,ccnk
+555,C0676764,atic
+5633,C0677667,raltitrexed
+4818,C0677886,ovarian epithelial cancer
+3938,C0677907,magea3
+6396,C0683902,sst
+2005,C0687133,drug interaction with drug
+5222,C0694590,plg
+889,C0694600,ca3
+1128,C0694872,cdh1
+2292,C0694879,ext2
+6427,C0694883,stk11
+5512,C0694888,pten
+6905,C0694895,tsc2
+3008,C0700299,heinz body anemias
+4788,C0700359,organophosphate poisoning
+3423,C0700580,ipratropium bromide
+5623,C0700594,radiculopathy
+6352,C0700595,spinal muscular atrophies of childhood
+338,C0717403,aminohippurate
+929,C0717537,calcium acetate
+951,C0717550,candesartan
+348,C0718495,ammonium lactate
+7197,C0724441,yohimbine
+2314,C0724584,f9
+5374,C0729264,preterm premature rupture of the membranes
+2456,C0729582,floating harbor syndrome
+4022,C0733397,masoprocol
+367,C0740340,amyloidosis familial
+3226,C0740394,hyperuricemia
+7014,C0749794,upper extremity deformities congenital
+2623,C0751161,gale
+1387,C0751383,cln3
+3031,C0751422,hereditary autoinflammatory diseases
+4213,C0751651,mitochondrial diseases
+2189,C0751783,epm2a
+1811,C0751873,demyelinating autoimmune diseases cns
+3032,C0751877,hereditary central nervous system demyelinating diseases
+7072,C0751878,vasculitis central nervous system
+4356,C0751882,myasthenic syndromes congenital
+4355,C0752087,myasthenia gravis autoimmune experimental
+4538,C0752090,nervous system autoimmune disease experimental
+802,C0752109,brain diseases metabolic inborn
+3410,C0752138,intracranial arterial diseases
+1201,C0752155,central nervous system vascular malformations
+668,C0752166,bardet biedl syndrome
+5955,C0752211,sct
+4556,C0752252,neuromuscular manifestations
+6316,C0752262,somatosensory disorders
+4397,C0752282,myopathies structural congenital
+6254,C0752287,sleep disorders intrinsic
+3776,C0752347,lewy body disease
+4346,C0752352,muscular disorders atrophic
+2659,C0753645,gatifloxacin
+4882,C0753678,paliperidone
+2379,C0753749,fcn2
+42,C0754011,abiraterone
+360,C0754188,amprenavir
+6613,C0754515,tert
+2552,C0754647,frovatriptan
+2027,C0754659,dutasteride
+6716,C0754727,tlr2
+2618,C0754820,gadoversetamide
+90,C0755322,acp1
+5287,C0755726,pon2
+5599,C0756081,quinupristin
+1741,C0756085,dalfopristin
+5791,C0756527,rnf139
+2286,C0757188,exo1
+2842,C0757496,gpr32
+5197,C0757769,plagl1
+6756,C0757844,tnfsf13
+3346,C0758637,il3ra
+1089,C0759310,cd3e
+33,C0759781,abcd1
+2112,C0759933,eletriptan
+1116,C0760963,cd96
+4981,C0760980,pde9a
+3783,C0761756,lgi1
+36,C0761993,abcg2
+3102,C0762292,hnrnph2
+2850,C0762318,gprc5a
+1932,C0762540,dlg3
+748,C0763658,birc3
+2424,C0764082,fgfr1op
+1776,C0764224,ddb2
+731,C0765273,bexarotene
+1377,C0766108,clevidipine
+691,C0766164,bcl10
+1997,C0766326,dronedarone
+1452,C0766823,col1a2
+5192,C0768657,pla2g4b
+231,C0768673,akap9
+3905,C0768899,ly96
+991,C0769198,carm1
+1011,C0769345,casp5
+923,C0770558,calca
+2993,C0770560,hdc
+6883,C0772089,trospium
+3852,C0772364,loteprednol
+6277,C0795864,smith magenis syndrome
+291,C0795889,allan herndon dudley syndrome
+1322,C0795956,chylomicron retention disease
+3501,C0795998,jackson weiss syndrome
+3895,C0796022,lujan fryns syndrome
+519,C0796028,arts syndrome
+4271,C0796074,mohr tranebjaerg syndrome
+4428,C0796085,nance horan syndrome
+5952,C0796149,scott syndrome
+6060,C0796154,simpson golabi behmel syndrome
+4439,C0796518,nat2
+2278,C0796520,etv6
+4030,C0806909,max
+2282,C0808901,ewsr1
+4692,C0809246,nras
+674,C0812198,bax
+4622,C0812204,nme1
+5149,C0812214,pim1
+5624,C0812215,raf1
+4058,C0812222,mdm2
+3620,C0812225,kit
+7196,C0812227,yes1
+242,C0812230,akt2
+7157,C0812233,wnt1
+624,C0812237,axl
+798,C0812241,braf
+6739,C0812246,tnf
+1565,C0812252,crk
+5667,C0812258,rbp3
+2048,C0812258,e2f1
+4456,C0812260,ncoa4
+2165,C0812262,epha1
+2167,C0812263,epha3
+2203,C0812265,erbb3
+2204,C0812267,erbb4
+2355,C0812278,fat1
+5815,C0812281,ros1
+5629,C0812284,rala
+5569,C0812285,pvt1
+4574,C0812286,nfkb2
+4362,C0812287,mycn
+2535,C0812297,foxg1
+2461,C0812298,flt1
+2524,C0812299,fosl1
+2525,C0812302,fosl2
+2582,C0812303,fyn
+2737,C0812304,gli1
+3912,C0812307,lyn
+3517,C0812312,jund
+3516,C0812313,junb
+6639,C0812319,tgfb3
+4021,C0812372,mas1
+44,C0812381,abl2
+2399,C0812383,fes
+4749,C0812437,oculodentodigital dysplasia
+2114,C0812446,elk1
+6676,C0836924,thrombocytosis
+3241,C0848558,hypospadias
+3386,C0851162,infections
+2284,C0851344,exemestane
+764,C0852077,blood coagulation disorders inherited
+5718,C0854723,retinal dystrophies
+3207,C0857007,hyperbilirubinemia neonatal
+3766,C0873118,levobupivacaine
+4797,C0874161,oseltamivir
+986,C0876994,cardiotoxicity
+952,C0877445,candidemia
+6253,C0877792,sleep disorders circadian rhythm
+983,C0878544,cardiomyopathies
+4301,C0879290,msh2
+5238,C0879391,pms2
+4303,C0879393,msh6
+1592,C0879468,csf1r
+4166,C0886584,metyrosine
+3684,C0887117,l ornithine
+2128,C0893125,emtricitabine
+3696,C0893761,lacosamide
+1700,C0897385,cyp2c8
+4441,C0903898,nateglinide
+4929,C0905893,pax7
+4210,C0906166,mitiglinide
+1153,C0906558,cdkn1c
+4514,C0907349,nelarabine
+6597,C0907410,telithromycin
+4643,C0907533,nos1
+1324,C0907850,ciclesonide
+2162,C0907929,epb41l1
+1357,C0908711,clc
+1358,C0908711,clcf1
+1833,C0908935,desloratadine
+5982,C0909189,sema3e
+7054,C0909381,valganciclovir
+1640,C0909608,cul3
+2988,C0910119,hdac4
+6487,C0911506,sult1a3
+2342,C0911827,fancf
+104,C0911848,acsl6
+4254,C0912013,mmp25
+5191,C0912034,pla2g4a
+2874,C0912261,gria3
+5857,C0913240,rps6ka5
+6573,C0914163,tcf3
+6836,C0914603,trem1
+295,C0914729,almotriptan
+96,C0917990,acro osteolysis
+4675,C0919428,nqo1
+6381,C0919429,srd5a2
+5993,C0919445,serpinb5
+2431,C0919457,fhit
+24,C0919458,abcc1
+2418,C0919466,fgf4
+3728,C0919477,lck
+2429,C0919478,fgr
+4710,C0919487,ntrk1
+6627,C0919496,tfap2a
+2420,C0919507,fgf7
+2419,C0919508,fgf5
+2423,C0919509,fgfr1
+2452,C0919509,flg
+5552,C0919521,pttg1
+2915,C0919534,gstm1
+6682,C0920350,thyroiditis autoimmune
+5260,C0935623,pole
+3745,C0935868,lep
+2565,C0935916,fulvestrant
+3362,C0935989,imatinib
+3810,C0936106,liotrix
+5294,C0936148,posaconazole
+2232,C0937846,esomeprazole
+6830,C0937916,travoprost
+743,C0937917,bimatoprost
+117,C0948089,acute coronary syndrome
+4220,C0948368,mkks
+6013,C0949683,sex chromosome disorders
+6362,C0949690,spondylarthritis
+1815,C0950121,denys drash syndrome
+2688,C0950123,genetic diseases inborn
+3692,C0950625,l1cam
+5462,C0960371,prss1
+1699,C0960580,cyp2c19
+6817,C0961208,traf3ip2
+4531,C0961209,nepafenac
+1695,C0961212,cyp2a13
+3145,C0961431,hsd17b6
+2188,C0961485,eplerenone
+6357,C0961781,spinosad
+2414,C0962069,fgf20
+3336,C0962189,il21r
+3335,C0962190,il21
+6722,C0962444,tlr8
+4583,C0962524,nhp2
+4634,C0962525,nop10
+6902,C0962567,trpv4
+5980,C0963377,sema3a
+35,C0963751,abcg1
+1068,C0963782,cd1a
+1650,C0963811,cxcl13
+4676,C0963926,nqo2
+750,C0964024,birc7
+5819,C0965129,rosuvastatin
+5804,C0965618,roflumilast
+1492,C0966107,conivaptan
+7178,C0966370,ximelagatran
+6719,C0966553,tlr5
+2377,C0966831,fcgr3b
+3867,C0966941,lrba
+4723,C0967191,nudt9
+3578,C0967993,keap1
+3433,C0968181,irf5
+473,C0969589,arformoterol
+4589,C0969753,nidovirales infections
+2154,C0971023,entecavir
+6721,C0971207,tlr7
+609,C0971285,aurka
+7065,C0971579,vardenafil
+205,C0971637,agomelatine
+2415,C0972232,fgf21
+1451,C0972255,col1a1
+2274,C0972314,etoricoxib
+4236,C1097406,mlph
+4760,C1098320,olmesartan
+1692,C1098682,cyp26b1
+6088,C1099412,slamf7
+5151,C1099414,pimecrolimus
+2229,C1099456,escitalopram
+2512,C1099664,fondaparinux sodium
+6315,C1099677,solifenacin
+3317,C1099914,il12b
+5282,C1100372,pomgnt1
+6065,C1101544,sirt1
+5169,C1101838,pitavastatin
+2224,C1120106,ertapenem
+4184,C1120386,micafungin
+4636,C1120952,norelgestromin
+7061,C1121849,vandetanib
+7009,C1122301,unc93b1
+6998,C1122343,ugt1a8
+6863,C1122524,trim37
+4509,C1122828,neil1
+2243,C1122868,estradiol valerate dienogest
+2683,C1122962,gefitinib
+6167,C1130454,slc29a1
+6168,C1130473,slc29a2
+2177,C1134446,ephx1
+4144,C1134467,methyl aminolevulinate
+3500,C1135132,ixabepilone
+2221,C1135135,erlotinib
+4101,C1136249,mental retardation x linked
+130,C1137454,adam9
+1616,C1137457,ctcf
+146,C1137703,adcy9
+2985,C1138270,hdac11
+4055,C1138529,mcph1
+2026,C1140298,dut
+550,C1141625,atf2
+994,C1142132,carnitine deficiency
+834,C1142166,brugada syndrome
+1709,C1142644,cyp3a4
+2455,C1142673,flnc
+384,C1142738,anidulafungin
+5611,C1142901,rabep1
+5765,C1142933,rimonabant
+7041,C1142946,usp7
+2299,C1142985,ezetimibe
+454,C1143492,aptx
+1647,C1143767,cx3cr1
+6753,C1143949,tnfsf10
+6837,C1143976,trem2
+7198,C1144015,ywhae
+1014,C1144061,casp8
+3744,C1144149,lenalidomide
+3746,C1144168,lepr
+3622,C1144173,kl
+4209,C1144191,mitf
+4789,C1144403,oritavancin
+1224,C1144465,cetp
+547,C1145759,atazanavir
+6839,C1145760,treprostinil
+6527,C1146629,taf1
+5064,C1149335,pex7
+3881,C1150004,lta4h
+768,C1150203,bmp1
+1411,C1150253,clpp
+2730,C1150470,gk
+3066,C1150528,hk1
+6559,C1150571,tbk1
+1321,C1150571,chuk
+2892,C1150578,grk5
+2891,C1150578,grk4
+6428,C1150578,stk16
+1597,C1150620,csf3r
+3811,C1150704,lipa
+1590,C1150843,csad
+4307,C1151604,msra
+2807,C1152290,gnmt
+5015,C1152302,pemt
+6807,C1152355,tpmt
+6813,C1152516,tpt1
+4498,C1155733,neb
+1843,C1169997,dexmethylphenidate
+7087,C1171894,vegfc
+1146,C1172090,cdk9
+5270,C1172354,polr3b
+2301,C1172384,ezh2
+4980,C1172460,pde8b
+2944,C1172465,h2afx
+322,C1172764,amacr
+2318,C1173118,fabp2
+2805,C1173145,gnl3
+6688,C1173542,ticam1
+3961,C1174310,maml3
+4003,C1174318,mapk7
+903,C1174900,cacna1d
+6576,C1175167,tcirg1
+5918,C1175175,sars
+682,C1175338,bbs9
+2583,C1175384,fzd3
+4935,C1175582,pbrm1
+1971,C1176019,dot1l
+6497,C1176020,sunitinib
+450,C1176306,aprepitant
+6784,C1176308,tolvaptan
+791,C1176309,bortezomib
+2519,C1176315,fosamprenavir
+6526,C1176316,tadalafil
+3898,C1176415,lumiracoxib
+2543,C1256801,fpr1
+2734,C1256865,glb1
+5286,C1257646,pon1
+6424,C1257809,steroid metabolism inborn errors
+3409,C1257915,intestinal polyposis
+5523,C1257995,ptgis
+3179,C1258300,htra1
+6066,C1258492,sirt2
+1221,C1258847,ces1
+3342,C1259013,il2rb
+4733,C1259226,oas1
+1249,C1259236,chek2
+2841,C1259293,gpr31
+5864,C1259395,rrm1
+2585,C1259397,fzd6
+2586,C1259399,fzd7
+4112,C1259418,mertk
+2207,C1259556,ercc3
+4350,C1259661,mutyh
+1052,C1259807,ccne1
+2450,C1260068,flcn
+20,C1260069,abcb4
+396,C1260195,ano1
+6692,C1260298,tigecycline
+1500,C1261287,constriction pathologic
+5915,C1261473,sarcoma
+5649,C1264195,rars
+1551,C1264668,crat
+5221,C1266144,pleuropulmonary blastoma
+1819,C1269683,depressive disorder major
+997,C1275078,carpenter syndrome
+2331,C1276035,fads1
+5042,C1300127,perivascular epithelioid cell neoplasms
+4369,C1301355,myelodysplastic myeloproliferative diseases
+6534,C1301937,talipes
+6766,C1305957,tnni3
+5356,C1306837,prcc
+1598,C1307053,csk
+2313,C1307126,f8
+4721,C1307127,nudt1
+3989,C1307220,map3k8
+2655,C1307598,gata3
+6974,C1307637,ube2d2
+1013,C1307660,casp7
+1416,C1307877,cmklr1
+1060,C1307911,ccr8
+3883,C1307920,ltb4r
+131,C1307941,adamts1
+1122,C1308056,cdc42bpa
+2827,C1308086,gpc3
+2214,C1308189,erf
+5960,C1308226,sdhb
+1043,C1308247,ccl20
+2293,C1308415,extl2
+115,C1308458,actn4
+6744,C1308614,tnfrsf11b
+5659,C1308727,rbbp8
+1648,C1308752,cxcl10
+6390,C1308890,srpx2
+3922,C1309037,lzts1
+6507,C1309046,syn1
+1931,C1309070,dlec1
+808,C1309339,brd1
+3603,C1309478,kif1b
+1879,C1309483,dicer1
+2938,C1309526,gypa
+6007,C1309881,setbp1
+980,C1309905,card14
+7205,C1309925,zbtb20
+5259,C1310127,pold1
+3876,C1310380,lrrc15
+2087,C1310406,egln2
+3276,C1310463,ifih1
+1788,C1310468,ddx58
+581,C1310515,atp6ap2
+2505,C1310550,folh1
+6814,C1311070,trabectedin
+5669,C1311116,rbpj
+6992,C1311129,ugt1a10
+2458,C1311167,flot1
+3392,C1311255,ing1
+5475,C1311406,psen2
+5474,C1311407,psen1
+5849,C1311730,rps19
+6039,C1312062,shc1
+6041,C1312067,shc3
+775,C1312139,bmpr1a
+161,C1312457,adh1c
+2319,C1312689,fabp4
+2320,C1312695,fabp5
+2317,C1312700,fabp1
+4073,C1313004,med23
+4072,C1313007,med17
+5492,C1313038,psmb5
+5766,C1313133,rims1
+19,C1313221,abcb11
+2345,C1313279,fancl
+4970,C1313282,pde4d
+4758,C1313359,ogg1
+6717,C1313494,tlr3
+4800,C1313616,ospemifene
+6971,C1313661,ubb
+7005,C1313678,ulk1
+5660,C1313695,rbbp9
+5670,C1313794,rbx1
+1456,C1314894,col4a3
+1255,C1317912,chic2
+230,C1318045,akap13
+7192,C1318127,yap1
+989,C1318649,carglumic acid
+544,C1319853,asthma aspirin induced
+4336,C1321489,muir torre syndrome
+4196,C1321596,miglustat
+6718,C1321919,tlr4
+183,C1325131,adrbk1
+2890,C1325166,grk1
+6925,C1325174,ttk
+6434,C1325182,stk4
+1158,C1325318,cdt1
+3354,C1325331,il6st
+5685,C1327771,reep5
+979,C1328479,carcinoma islet cell
+615,C1328840,autoimmune lymphoproliferative syndrome
+21,C1332001,abcb6
+112,C1332010,actg2
+121,C1332011,acvr1b
+120,C1332012,acvr1
+174,C1332026,adra1a
+175,C1332027,adra1b
+177,C1332028,adra2a
+178,C1332029,adra2b
+184,C1332030,adrbk2
+213,C1332036,agtr2
+240,C1332073,akr7a2
+243,C1332074,akt3
+259,C1332076,aldh1a2
+289,C1332080,alk
+301,C1332082,alox15
+331,C1332084,amhr2
+381,C1332089,angpt2
+410,C1332095,anxa5
+424,C1332098,apaf1
+428,C1332101,apeh
+468,C1332109,areg
+493,C1332115,arnt2
+492,C1332116,arnt
+499,C1332117,arrb1
+594,C1332120,atr
+619,C1332122,avpr1a
+620,C1332123,avpr1b
+621,C1332124,avpr2
+623,C1332125,axin1
+6271,C1332367,smarce1
+661,C1332374,bai1
+666,C1332380,bap1
+667,C1332381,bard1
+695,C1332395,bcl2l2
+701,C1332407,bdkrb2
+744,C1332412,bin1
+747,C1332414,birc2
+749,C1332416,birc5
+759,C1332419,blk
+762,C1332420,blnk
+1655,C1332421,cxcr5
+769,C1332423,bmp15
+770,C1332424,bmp2
+773,C1332426,bmp5
+779,C1332433,bmx
+832,C1332451,brs3
+843,C1332455,bub1
+809,C1332639,brd2
+1615,C1332650,ctbp1
+934,C1332659,calm1
+946,C1332660,camlg
+1007,C1332661,casp10
+1008,C1332662,casp2
+1012,C1332665,casp6
+1015,C1332668,casp9
+1023,C1332669,cav1
+1061,C1332673,ccr9
+1040,C1332675,cckbr
+1045,C1332689,ccl3l1
+1044,C1332690,ccl3
+1046,C1332691,ccl5
+1048,C1332694,ccna2
+1049,C1332695,ccnb1
+1055,C1332699,ccr1
+1059,C1332700,ccr5
+1073,C1332707,cd209
+1118,C1332719,cdc25a
+1130,C1332728,cdh13
+1135,C1332729,cdh5
+1138,C1332734,cdk3
+1140,C1332735,cdk5
+1152,C1332737,cdkn1b
+1156,C1332740,cdon
+1160,C1332744,ceacam5
+1163,C1332750,cebpe
+4061,C1332751,me2
+1258,C1332757,chka
+1298,C1332759,chrm3
+1299,C1332760,chrm4
+1300,C1332761,chrm5
+1344,C1332762,cish
+1348,C1332763,ckb
+1459,C1332775,col4a6
+1523,C1332776,cox6c
+1591,C1332789,csf1
+1595,C1332790,csf2rb
+1593,C1332791,csf2
+1596,C1332793,csf3
+1599,C1332795,csnk1a1
+1605,C1332796,csnk2a1
+1607,C1332797,cspg4
+1613,C1332798,cstb
+1619,C1332801,ctf1
+1622,C1332802,ctla4
+1625,C1332803,ctnnb1
+1630,C1332804,ctsb
+1632,C1332805,ctsd
+1636,C1332806,ctsh
+1652,C1332819,cxcl5
+1653,C1332822,cxcr3
+1654,C1332823,cxcr4
+3717,C1332823,lap3
+1656,C1332824,cxcr6
+1764,C1333205,dck
+1784,C1333207,ddr2
+6711,C1333207,tkt
+1933,C1333226,dlg4
+5269,C1333229,polr2a
+4230,C1333233,mlh3
+2343,C1333238,fancg
+4052,C1333240,mcm6
+1955,C1333242,dnmt3b
+1958,C1333243,dntt
+1991,C1333250,drd1
+1992,C1333253,drd2
+1994,C1333254,drd4
+1995,C1333255,drd5
+6963,C1333327,tymp
+2159,C1333336,ep300
+2166,C1333337,epha2
+2168,C1333338,epha4
+2172,C1333340,ephb2
+2173,C1333341,ephb3
+2194,C1333342,epor
+2197,C1333350,eps8
+2205,C1333355,ercc1
+2208,C1333358,ercc4
+2209,C1333359,ercc5
+6626,C1333522,tf
+2312,C1333523,f7
+2330,C1333530,fadd
+2421,C1333539,fgf8
+2422,C1333540,fgf9
+2427,C1333544,fgfr4
+2433,C1333547,fhl2
+2460,C1333566,flrt3
+2463,C1333569,flt4
+2540,C1333572,foxo1
+2551,C1333577,frk
+2584,C1333586,fzd4
+2791,C1333650,gnaq
+2633,C1333658,galr2
+2653,C1333663,gata1
+2680,C1333666,gdf5
+4310,C1333667,mstn
+549,C1333669,atf1
+2698,C1333670,gfi1b
+2702,C1333672,gfra2
+2708,C1333673,gh1
+2716,C1333675,gipr
+2746,C1333678,glmn
+2783,C1333684,gna12
+2795,C1333687,gnb1
+2797,C1333688,gnb2
+2798,C1333689,gnb3
+2836,C1333691,gpr17
+2844,C1333694,gpr39
+2866,C1333707,grb2
+2893,C1333711,grm1
+2897,C1333712,grm5
+2898,C1333713,grm6
+2922,C1333715,gstt1
+2826,C1333827,gpa33
+2984,C1333891,hdac1
+2986,C1333892,hdac2
+2989,C1333894,hdac5
+2990,C1333895,hdac6
+3056,C1333897,hif1a
+3084,C1333903,hmga1
+3085,C1333906,hmga2
+3087,C1333910,hmgb3
+3142,C1333926,hsd17b2
+3146,C1333927,hsd17b7
+3159,C1333928,hspb1
+3527,C1333931,kat5
+3173,C1333933,htr3a
+6086,C1333948,skiv2l
+3913,C1333991,lynch syndrome ii
+3281,C1334081,ifnar1
+3282,C1334082,ifnar2
+3285,C1334083,ifngr1
+3286,C1334084,ifngr2
+3291,C1334087,igbp1
+3292,C1334089,igf1
+3296,C1334090,igf2r
+3294,C1334091,igf2
+3315,C1334099,il11ra
+3316,C1334101,il12a
+3327,C1334111,il1a
+3341,C1334114,il2ra
+3343,C1334116,il2rg
+3349,C1334118,il4r
+3351,C1334120,il5ra
+3358,C1334128,ilk
+3403,C1334133,insr
+3426,C1334134,irak1
+3427,C1334136,irak3
+3428,C1334137,irak4
+3444,C1334141,irs2
+3477,C1334144,itgal
+3481,C1334146,itgb2
+3492,C1334148,itpr1
+3923,C1334189,m6pr
+3518,C1334295,jup
+3577,C1334306,kdr
+3639,C1334311,klrd1
+3794,C1334339,lifr
+3797,C1334340,lig4
+3837,C1334345,lmnb1
+3886,C1334351,ltbp3
+6260,C1334468,smad2
+6264,C1334470,smad7
+3973,C1334474,map2k1
+3978,C1334475,map2k6
+3988,C1334477,map3k7
+3995,C1334478,mapk10
+4002,C1334480,mapk6
+4006,C1334482,mapk9
+4179,C1334506,mgp
+4226,C1334510,mlana
+4233,C1334516,mllt4
+4251,C1334522,mmp2
+4261,C1334523,mmp9
+4304,C1334533,msln
+4373,C1334538,myh11
+4385,C1334539,mylk
+4625,C1334858,nmt2
+6955,C1334860,tusc3
+4446,C1334863,ncam1
+4453,C1334866,ncoa1
+2887,C1334867,grip1
+4454,C1334867,ncoa2
+4575,C1334877,nfkbia
+4580,C1334879,ngfr
+4647,C1334889,notch1
+4664,C1334894,npm1
+4668,C1334895,npr2
+4678,C1334896,nr0b2
+4688,C1334899,nr3c1
+4694,C1334902,nrg2
+4695,C1334904,nrip1
+4697,C1334905,nrp1
+4708,C1334907,ntf3
+4711,C1334909,ntrk2
+4712,C1334910,ntrk3
+4724,C1334911,numa1
+4727,C1334912,nup214
+5534,C1335056,ptpn1
+5539,C1335057,ptpn22
+5953,C1335071,scp2
+4799,C1335092,osmr
+4925,C1335192,pax3
+4983,C1335200,pdgfa
+4986,C1335201,pdgfra
+4988,C1335203,pdgfrl
+4993,C1335204,pdk1
+4998,C1335204,pdpk1
+506,C1335209,art1
+5140,C1335212,pik3ca
+5141,C1335213,pik3cb
+5143,C1335214,pik3cg
+5146,C1335215,pik3r3
+5126,C1335216,pi4kb
+4982,C1335222,pdf
+5199,C1335224,plau
+5203,C1335225,plcb3
+5208,C1335226,plcg2
+5224,C1335227,plk1
+5258,C1335230,polb
+5302,C1335234,pou2f2
+4069,C1335237,med1
+5310,C1335238,pparg
+5325,C1335240,ppp1ca
+5329,C1335241,ppp2ca
+5330,C1335242,ppp2cb
+5332,C1335243,ppp2r1b
+5336,C1335248,ppp2r5d
+5392,C1335261,prkca
+5403,C1335262,prkdc
+5408,C1335265,prlr
+5467,C1335267,prtn3
+5509,C1335270,ptch2
+5524,C1335271,ptgs1
+5528,C1335272,pthlh
+5530,C1335273,ptk2b
+5535,C1335280,ptpn11
+5542,C1335285,ptprc
+5544,C1335286,ptpre
+5335,C1335546,ppp2r5c
+6691,C1335549,tie1
+5619,C1335580,rad51c
+5646,C1335591,rarb
+4294,C1335594,mras
+5679,C1335607,recql4
+5692,C1335610,rela
+5770,C1335624,ripk2
+5801,C1335631,rock1
+5830,C1335635,rpl10
+5845,C1335640,rpl8
+5863,C1335647,rras2
+5865,C1335649,rrm2
+5873,C1335654,runx1
+5891,C1335798,s100a9
+5894,C1335799,s100p
+5977,C1335808,sell
+5978,C1335809,selp
+6158,C1335833,slc25a4
+6159,C1335834,slc25a5
+6160,C1335835,slc25a6
+6162,C1335836,slc26a3
+6170,C1335837,slc2a1
+6268,C1335844,smarca5
+6385,C1335862,srp19
+41,C1335864,abi1
+6398,C1335867,sstr2
+6399,C1335868,sstr3
+6400,C1335869,sstr4
+6401,C1335870,sstr5
+6414,C1335872,stat1
+6415,C1335873,stat2
+6417,C1335874,stat4
+6418,C1335875,stat5a
+6419,C1335876,stat5b
+6426,C1335879,stim1
+5931,C1335929,schwannomatosis
+3983,C1335946,map3k14
+6519,C1336558,tacc3
+6553,C1336578,taz
+6592,C1336602,tek
+6636,C1336620,tgfa
+6638,C1336621,tgfb2
+6640,C1336623,tgfbi
+6656,C1336626,thbs1
+6657,C1336627,thbs2
+6696,C1336630,timp3
+6699,C1336631,tinf2
+6720,C1336638,tlr6
+6735,C1336641,tmprss2
+6742,C1336644,tnfrsf10b
+6761,C1336654,tnks
+6787,C1336656,top1
+6788,C1336657,top2a
+6789,C1336658,top2b
+6841,C1336670,trex1
+6909,C1336678,tsg101
+6911,C1336679,tshr
+6958,C1336690,txn
+6967,C1336692,tyrobp
+6968,C1336694,tyrp1
+6574,C1336781,tcf4
+6575,C1336781,tcf7l2
+5405,C1336838,prkg2
+7078,C1336929,vcl
+7080,C1336930,vdac1
+7081,C1336931,vdac2
+7082,C1336932,vdac3
+7159,C1337001,wnt3
+7160,C1337002,wnt4
+7186,C1337025,xrcc3
+7187,C1337026,xrcc4
+7193,C1337037,yars
+1556,C1337090,crebbp
+1042,C1337092,ccl2
+694,C1337096,bcl2l11
+7177,C1337109,xiap
+1133,C1337110,cdh3
+5974,C1337114,sele
+1334,C1337242,cinacalcet
+6749,C1363982,tnfrsf1b
+6748,C1363984,tnfrsf1a
+2987,C1366355,hdac3
+2171,C1366441,ephb1
+2308,C1366449,f2r
+3526,C1366462,kat2b
+6715,C1366477,tlr1
+1006,C1366479,casp1
+3621,C1366480,kitlg
+3633,C1366489,klk3
+5083,C1366500,pgr
+6628,C1366502,tfap2b
+1010,C1366513,casp4
+3051,C1366514,hgs
+3430,C1366516,irf1
+4243,C1366519,mmp11
+3339,C1366521,il24
+5732,C1366525,rgs1
+5870,C1366527,rtn4
+5645,C1366536,rara
+1121,C1366537,cdc42
+2792,C1366550,gnas
+3478,C1366562,itgam
+591,C1366628,atp8a2
+2213,C1366644,ereg
+4000,C1366765,mapk3
+123,C1366767,acvrl1
+6964,C1366824,tyms
+2787,C1366857,gnai2
+3996,C1366875,mapk11
+3994,C1366882,mapk1
+5529,C1366894,ptk2
+3997,C1366897,mapk12
+3998,C1366898,mapk13
+3487,C1367389,itk
+2352,C1367441,fasn
+93,C1367456,acpp
+7141,C1367460,warts
+3125,C1367469,hpse
+2501,C1367472,fn1
+4693,C1367656,nrg1
+181,C1367657,adrb2
+3993,C1367671,map4k4
+3980,C1367675,map3k1
+5200,C1367689,plaur
+6858,C1367699,trim13
+4004,C1367731,mapk8
+6523,C1368102,tacr3
+5536,C1368803,ptpn12
+109,C1384510,actb
+4434,C1384524,nars
+1449,C1384525,col17a1
+1145,C1384564,cdk8
+2508,C1384573,folr1
+4613,C1384616,nkx2 1
+2151,C1384621,enpp2
+3047,C1384665,hfe
+3888,C1412022,ltbr
+3,C1412046,a2m
+5989,C1412050,serpina3
+7,C1412053,aanat
+8,C1412054,aars
+12,C1412057,abat
+13,C1412058,abca1
+15,C1412062,abca3
+16,C1412063,abca4
+17,C1412064,abca5
+22,C1412073,abcb7
+23,C1412074,abcb8
+25,C1412076,abcc10
+26,C1412077,abcc2
+27,C1412078,abcc3
+28,C1412079,abcc4
+29,C1412080,abcc5
+31,C1412082,abcc8
+32,C1412083,abcc9
+34,C1412091,abcd4
+43,C1412097,abl1
+50,C1412100,abp1
+51,C1412104,acaca
+52,C1412105,acacb
+53,C1412106,acad8
+54,C1412107,acadm
+55,C1412108,acads
+56,C1412109,acadsb
+57,C1412110,acadvl
+61,C1412111,acat1
+62,C1412112,acat2
+6179,C1412113,slc33a1
+63,C1412115,accn2
+1423,C1412118,cnnm2
+1424,C1412120,cnnm4
+85,C1412125,acly
+87,C1412127,aco2
+89,C1412128,acox1
+91,C1412132,acp2
+92,C1412133,acp5
+95,C1412134,acr
+107,C1412136,acta1
+108,C1412137,acta2
+111,C1412149,actg1
+113,C1412165,actn1
+114,C1412166,actn2
+116,C1412171,actr2
+124,C1412173,acy1
+125,C1412176,acyp2
+127,C1412181,adam10
+128,C1412186,adam17
+129,C1412197,adam28
+133,C1412208,adamts2
+134,C1412211,adamts5
+138,C1412215,adar
+139,C1412220,adcy1
+141,C1412221,adcy2
+142,C1412222,adcy3
+143,C1412225,adcy6
+144,C1412226,adcy7
+145,C1412227,adcy8
+147,C1412228,adcyap1
+148,C1412229,adcyap1r1
+149,C1412230,add1
+159,C1412235,adh1a
+160,C1412236,adh1b
+162,C1412239,adh5
+163,C1412242,adh7
+166,C1412243,adk
+170,C1412245,adora1
+171,C1412246,adora2a
+172,C1412247,adora2b
+173,C1412251,adora3
+176,C1412260,adra1d
+179,C1412261,adra2c
+191,C1412262,adsl
+192,C1412263,adss
+195,C1412274,afg3l2
+59,C1412277,acan
+202,C1412278,ager
+204,C1412279,agl
+207,C1412282,agpat2
+208,C1412284,agps
+209,C1412285,agrn
+210,C1412286,agrp
+433,C1412289,aplnr
+214,C1412290,agxt
+215,C1412291,ahcy
+219,C1412296,ahsg
+224,C1412303,aipl1
+225,C1412304,aire
+227,C1412305,ak1
+228,C1412306,ak2
+229,C1412312,akap10
+232,C1412321,akr1a1
+233,C1412322,akr1b1
+234,C1412323,akr1b10
+487,C1412323,arl1
+235,C1412324,akr1c1
+236,C1412325,akr1c2
+237,C1412326,akr1c3
+238,C1412327,akr1c4
+239,C1412328,akr1d1
+247,C1412330,alas1
+248,C1412331,alas2
+249,C1412332,alb
+258,C1412333,aldh1a1
+265,C1412334,aldh3a2
+263,C1412335,aldh2
+264,C1412336,aldh3a1
+268,C1412337,aldh4a1
+261,C1412338,aldh1b1
+269,C1412339,aldh5a1
+260,C1412340,aldh1a3
+266,C1412341,aldh3b1
+267,C1412342,aldh3b2
+272,C1412343,aldh9a1
+273,C1412344,aldoa
+274,C1412347,aldob
+296,C1412355,alms1
+299,C1412356,alox12
+300,C1412357,alox12b
+302,C1412361,alox5
+303,C1412362,alox5ap
+306,C1412364,alpl
+308,C1412366,alppl2
+319,C1412372,alx3
+320,C1412373,alx4
+326,C1412379,amd1
+328,C1412382,amelx
+354,C1412387,ampd1
+355,C1412388,ampd2
+356,C1412389,ampd3
+364,C1412394,amy2a
+382,C1412401,angptl3
+389,C1412402,ank1
+390,C1412403,ank2
+391,C1412404,ank3
+6885,C1412407,trpa1
+401,C1412409,anpep
+407,C1412417,anxa1
+409,C1412424,anxa3
+412,C1412429,aoah
+413,C1412431,aoc3
+416,C1412433,aox1
+417,C1412439,ap1s1
+418,C1412440,ap1s2
+419,C1412445,ap2s1
+420,C1412446,ap3b1
+421,C1412453,ap4e1
+422,C1412454,ap4m1
+423,C1412455,ap4s1
+425,C1412460,apbb2
+434,C1412468,apoa1
+435,C1412469,apoa2
+436,C1412470,apoa4
+441,C1412478,apoc3
+443,C1412484,apoh
+444,C1412485,apol1
+445,C1412486,apol2
+4413,C1412487,nae1
+456,C1412492,aqp2
+457,C1412493,aqp3
+458,C1412495,aqp5
+460,C1412497,aqp9
+459,C1412497,aqp7
+469,C1412504,arf1
+470,C1412507,arf4
+471,C1412511,arf6
+474,C1412515,arg1
+475,C1412516,arg2
+5751,C1412517,rho
+479,C1412525,arhgdia
+482,C1412531,arhgef6
+5120,C1412535,phox2a
+489,C1412538,arl3
+494,C1412546,arpc1b
+495,C1412547,arpc2
+496,C1412548,arpc3
+497,C1412549,arpc4
+498,C1412550,arpc5
+500,C1412552,arrb2
+503,C1412553,arsa
+504,C1412554,arsb
+520,C1412567,arvcf
+521,C1412573,asah1
+4408,C1412574,naaa
+526,C1412578,asgr1
+527,C1412581,asip
+528,C1412582,asl
+529,C1412585,asmt
+530,C1412587,asna1
+531,C1412588,asns
+532,C1412591,aspa
+536,C1412592,asph
+5996,C1412610,serpinc1
+7212,C1412611,zfhx3
+551,C1412616,atf3
+552,C1412621,atf5
+561,C1412627,atox1
+564,C1412628,atp1a1
+565,C1412629,atp1a2
+566,C1412630,atp1a3
+567,C1412631,atp1b1
+568,C1412637,atp2a1
+569,C1412638,atp2a2
+570,C1412639,atp2a3
+571,C1412640,atp2b1
+572,C1412641,atp2b2
+573,C1412642,atp2b3
+575,C1412645,atp4a
+576,C1412647,atp5a1
+577,C1412653,atp5b
+578,C1412656,atp5c1
+579,C1412658,atp5d
+580,C1412659,atp5e
+584,C1412672,atp6v1a
+585,C1412673,atp6v1b1
+586,C1412674,atp6v1b2
+587,C1412676,atp6v1c1
+583,C1412686,atp6v0a4
+589,C1412689,atp7b
+271,C1412691,aldh7a1
+600,C1412697,atrx
+3602,C1412698,kif1a
+631,C1412706,azgp1
+637,C1412709,b2m
+639,C1412716,b3gat1
+640,C1412718,b3gat3
+642,C1412719,b4galt1
+643,C1412720,b4galt2
+644,C1412721,b4galt3
+645,C1412722,b4galt4
+646,C1412725,b4galt7
+649,C1412726,baat
+651,C1412727,bace1
+652,C1412728,bace2
+653,C1412729,bach1
+659,C1412731,bag3
+4615,C1412734,nkx3 2
+673,C1412740,batf
+675,C1412743,baz2a
+676,C1412744,baz2b
+677,C1412745,bbox1
+678,C1412746,bbs1
+680,C1412749,bbs4
+685,C1412751,bcat1
+683,C1412752,bcam
+686,C1412752,bcat2
+687,C1412756,bche
+688,C1412759,bckdha
+689,C1412760,bckdhb
+4776,C1412770,opn1sw
+698,C1412777,bcs1l
+733,C1412789,bfsp1
+734,C1412790,bfsp2
+735,C1412791,bglap
+736,C1412794,bhmt
+737,C1412795,bhmt2
+761,C1412800,blmh
+766,C1412801,blvra
+767,C1412802,blvrb
+776,C1412807,bmpr1b
+2537,C1412815,foxl2
+795,C1412816,bpgm
+810,C1412821,brd3
+814,C1412822,brdt
+836,C1412828,bsg
+837,C1412830,bst1
+839,C1412833,btd
+840,C1412841,btk
+841,C1412849,btnl2
+842,C1412851,btrc
+844,C1412854,bub1b
+1739,C1412864,dagla
+2118,C1412870,elp4
+398,C1412880,ano2
+2086,C1412925,egln1
+864,C1412931,c1qa
+865,C1412932,c1qb
+866,C1412933,c1qbp
+867,C1412936,c1r
+868,C1412937,c1s
+2125,C1412993,eml4
+872,C1412999,c4a
+873,C1412999,c4b
+6176,C1413005,slc30a9
+4404,C1413006,myoz2
+879,C1413023,c8a
+880,C1413024,c8b
+881,C1413025,c8g
+882,C1413029,c9
+884,C1413039,ca10
+885,C1413040,ca11
+886,C1413041,ca12
+887,C1413042,ca14
+890,C1413045,ca4
+891,C1413046,ca5a
+892,C1413047,ca5b
+893,C1413049,ca6
+894,C1413050,ca7
+895,C1413051,ca8
+896,C1413052,ca9
+899,C1413054,cabp2
+901,C1413056,cacna1b
+902,C1413057,cacna1c
+904,C1413059,cacna1e
+905,C1413060,cacna1f
+906,C1413061,cacna1g
+907,C1413062,cacna1h
+908,C1413063,cacna1i
+909,C1413064,cacna1s
+910,C1413065,cacna2d1
+911,C1413066,cacna2d2
+913,C1413067,cacnb1
+914,C1413068,cacnb2
+915,C1413069,cacnb3
+916,C1413070,cacnb4
+917,C1413071,cacng1
+918,C1413072,cacng2
+919,C1413073,cacng3
+6152,C1413076,slc25a20
+924,C1413083,calcb
+932,C1413085,calcr
+935,C1413096,calr
+936,C1413097,calu
+938,C1413098,camk1
+941,C1413099,camk2a
+942,C1413100,camk2b
+943,C1413102,camk2g
+944,C1413103,camk4
+945,C1413105,camkk2
+957,C1413108,capg
+958,C1413109,capn1
+959,C1413110,capn10
+960,C1413112,capn2
+961,C1413113,capn3
+963,C1413114,capns1
+962,C1413115,capn5
+318,C1413127,alx1
+1005,C1413128,cask
+1017,C1413135,casq2
+1018,C1413136,casr
+1024,C1413146,cav3
+5991,C1413150,serpina6
+6002,C1413153,serpinh1
+1027,C1413154,cbr1
+1028,C1413155,cbr3
+1030,C1413157,cbx2
+1032,C1413165,ccbl1
+1039,C1413168,cckar
+1050,C1413172,ccnd1
+1056,C1413188,ccr2
+1057,C1413189,ccr3
+1058,C1413190,ccr4
+1062,C1413195,cct3
+1063,C1413197,cct5
+1069,C1413210,cd1d
+5925,C1413218,scarb1
+5926,C1413219,scarb2
+1088,C1413222,cd3d
+1091,C1413223,cd3g
+1112,C1413242,cd84
+1114,C1413244,cd8a
+1119,C1413258,cdc25b
+1120,C1413259,cdc25c
+1123,C1413267,cdc5l
+1129,C1413269,cdh11
+1131,C1413272,cdh15
+1132,C1413277,cdh2
+1134,C1413279,cdh4
+1136,C1413284,cdipt
+1141,C1413285,cdk5r1
+1143,C1413287,cdk6
+1148,C1413291,cdkl1
+1155,C1413295,cdo1
+1157,C1413299,cdsn
+1159,C1413307,ceacam3
+1161,C1413322,cebpa
+1162,C1413323,cebpb
+1195,C1413342,cenpe
+1222,C1413347,ces2
+1234,C1413355,cfl1
+1235,C1413357,cflar
+7124,C1413372,vps13a
+1243,C1413379,chd1
+1244,C1413381,chd2
+1245,C1413383,chd4
+1253,C1413387,chi3l1
+1257,C1413391,chit1
+1260,C1413393,chl1
+1283,C1413396,chn1
+1284,C1413397,chn2
+1297,C1413400,chrm2
+1301,C1413401,chrna1
+1303,C1413402,chrna2
+1304,C1413403,chrna3
+1305,C1413404,chrna4
+1306,C1413405,chrna5
+1308,C1413406,chrna7
+1310,C1413407,chrnb1
+1311,C1413408,chrnb2
+1312,C1413409,chrnb3
+1313,C1413410,chrnb4
+1314,C1413411,chrnd
+1315,C1413412,chrne
+1316,C1413413,chrng
+1318,C1413414,chst1
+1319,C1413416,chst3
+1332,C1413425,cilp
+1347,C1413430,cited2
+1349,C1413435,ckm
+1351,C1413437,ckmt2
+1359,C1413450,clcn1
+1360,C1413451,clcn2
+1361,C1413452,clcn3
+1362,C1413454,clcn5
+1363,C1413455,clcn6
+1364,C1413456,clcn7
+1365,C1413457,clcnka
+1366,C1413458,clcnkb
+1367,C1413460,cldn1
+1368,C1413463,cldn14
+1369,C1413465,cldn16
+1370,C1413467,cldn18
+1378,C1413485,clic2
+1379,C1413487,clic5
+1382,C1413489,clk1
+1383,C1413490,clk2
+1384,C1413492,clk3
+1388,C1413497,cln5
+1389,C1413498,cln6
+1390,C1413500,cln8
+1393,C1413503,clock
+1412,C1413505,clps
+1413,C1413514,clu
+1414,C1413516,cma1
+1419,C1413543,cnga1
+1420,C1413545,cnga3
+1421,C1413546,cngb1
+1422,C1413548,cngb3
+1426,C1413554,cnr1
+1427,C1413555,cnr2
+1428,C1413558,cntfr
+1429,C1413559,cntn1
+1430,C1413560,cntn2
+1431,C1413563,cntn5
+1437,C1413565,coch
+1446,C1413569,col10a1
+1447,C1413570,col11a1
+1448,C1413571,col11a2
+1453,C1413581,col3a1
+1454,C1413582,col4a1
+1455,C1413583,col4a2
+1457,C1413585,col4a4
+1458,C1413586,col4a5
+1460,C1413587,col5a1
+1461,C1413588,col5a2
+1462,C1413589,col6a1
+1463,C1413590,col6a2
+1464,C1413591,col6a3
+1465,C1413592,col7a1
+1466,C1413594,col8a2
+1467,C1413595,col9a1
+1468,C1413596,col9a2
+1469,C1413597,col9a3
+1471,C1413598,colec10
+1480,C1413603,colq
+1510,C1413622,coro1a
+2145,C1413628,enox2
+1515,C1413629,cox10
+1516,C1413632,cox15
+1517,C1413634,cox4i1
+1518,C1413636,cox5a
+1519,C1413638,cox5b
+1520,C1413646,cox6a1
+1521,C1413648,cox6a2
+1524,C1413655,cox7a1
+1525,C1413658,cox7b
+1526,C1413659,cox7c
+1527,C1413661,cox8a
+1529,C1413662,cpa1
+1530,C1413663,cpa2
+1531,C1413665,cpb1
+1532,C1413666,cpb2
+1535,C1413673,cpn1
+1536,C1413681,cpox
+1537,C1413683,cps1
+1538,C1413688,cpt1a
+1539,C1413689,cpt1b
+1543,C1413697,crabp1
+1544,C1413698,crabp2
+1545,C1413699,cradd
+1552,C1413701,crb1
+1555,C1413702,creb1
+1559,C1413708,crhbp
+1560,C1413709,crhr1
+1561,C1413710,crhr2
+1566,C1413713,crlf1
+1568,C1413715,crot
+1572,C1413720,crtap
+2964,C1413721,hapln1
+1573,C1413723,crx
+1574,C1413724,cry1
+1577,C1413726,cryba1
+1578,C1413727,cryba2
+1579,C1413728,cryba4
+1580,C1413729,crybb1
+1581,C1413730,crybb2
+1582,C1413732,crybb3
+1583,C1413734,crygb
+1584,C1413735,crygc
+1585,C1413736,crygd
+1586,C1413741,crym
+1588,C1413742,cryz
+1594,C1413750,csf2ra
+1600,C1413755,csnk1d
+1601,C1413756,csnk1e
+1760,C1413756,dbt
+1602,C1413757,csnk1g1
+1603,C1413758,csnk1g2
+1604,C1413759,csnk1g3
+1606,C1413761,csnk2a2
+7077,C1413763,vcan
+4447,C1413764,ncan
+1609,C1413769,csrp3
+1610,C1413772,cst3
+1611,C1413774,cst5
+1612,C1413778,csta
+4614,C1413784,nkx2 5
+1617,C1413790,ctdp1
+1621,C1413792,cth
+1624,C1413797,ctnna3
+1626,C1413803,ctns
+1627,C1413806,ctrb1
+1628,C1413808,ctrc
+1631,C1413811,ctsc
+1633,C1413812,ctse
+1634,C1413813,ctsf
+1635,C1413814,ctsg
+1637,C1413815,ctsk
+1638,C1413821,ctss
+1639,C1413823,cubn
+1641,C1413826,cul4b
+1645,C1413827,cux1
+4752,C1413833,ofd1
+3962,C1413834,mamld1
+1667,C1413844,cybb
+1668,C1413845,cyc1
+1680,C1413850,cyld
+1684,C1413858,cyp17a1
+1689,C1413861,cyp21a2
+1691,C1413863,cyp26a1
+1693,C1413864,cyp27a1
+1696,C1413868,cyp2a6
+1704,C1413878,cyp2f1
+1713,C1413885,cyp46a1
+1714,C1413886,cyp4a11
+1717,C1413888,cyp4f2
+1718,C1413892,cyp51a1
+1719,C1413893,cyp7a1
+1720,C1413894,cyp7b1
+1738,C1413902,dag1
+1747,C1413906,dapk1
+1748,C1413908,dapk3
+1753,C1413909,dars
+1758,C1413916,dbh
+1765,C1413927,dclk1
+1768,C1413930,dcn
+1770,C1413934,dctd
+1771,C1413935,dctn1
+1772,C1413938,dcx
+1774,C1413939,ddah1
+1775,C1413940,ddah2
+1781,C1413948,ddo
+1782,C1413949,ddost
+1786,C1413953,ddx11
+3131,C1413955,hrh2
+1787,C1413963,ddx5
+3130,C1413965,hrh1
+5127,C1413968,pias1
+1797,C1413969,decr1
+1850,C1414024,dgat1
+1851,C1414026,dgcr2
+1852,C1414029,dgka
+1853,C1414031,dgkd
+1854,C1414032,dgke
+1855,C1414033,dgkg
+1856,C1414038,dguok
+1857,C1414039,dhcr24
+1858,C1414040,dhcr7
+1871,C1414047,diaph1
+1872,C1414048,diaph2
+1909,C1414051,dio1
+1919,C1414054,disc1
+1926,C1414056,dkc1
+1927,C1414057,dkk1
+1928,C1414059,dkk3
+2067,C1414061,edar
+1929,C1414062,dlat
+1930,C1414063,dld
+1934,C1414066,dlg5
+1935,C1414069,dlk1
+1936,C1414071,dll3
+1937,C1414079,dlx5
+1939,C1414084,dmp1
+1940,C1414085,dmpk
+1941,C1414090,dmxl2
+1942,C1414091,dna2
+1943,C1414105,dnai1
+1948,C1414106,dnal4
+1949,C1414107,dnase1
+1950,C1414110,dnase1l3
+1952,C1414120,dnm2
+1953,C1414121,dnmt1
+1954,C1414123,dnmt3a
+1956,C1414124,dnmt3l
+1957,C1414125,dnpep
+5627,C1414131,rai1
+1979,C1414133,dpagt1
+1980,C1414134,dpep1
+1982,C1414137,dpm1
+1983,C1414138,dpm2
+1984,C1414139,dpm3
+1985,C1414141,dpp4
+1986,C1414142,dpp6
+1989,C1414144,dpys
+1990,C1414145,dpysl2
+1993,C1414148,drd3
+2007,C1414157,dsc2
+2008,C1414157,dsc3
+2009,C1414159,dscam
+2011,C1414168,dsg1
+2012,C1414169,dsg2
+2014,C1414174,dspp
+2017,C1414176,dtna
+2018,C1414178,dtymk
+2022,C1414186,dusp5
+2023,C1414187,dusp6
+2024,C1414189,dusp8
+2025,C1414191,dusp9
+2028,C1414194,dux1
+2037,C1414204,dyrk1a
+2038,C1414205,dyrk1b
+2039,C1414206,dyrk2
+2040,C1414207,dyrk3
+2041,C1414208,dyrk4
+2042,C1414209,dysf
+2049,C1414224,e2f3
+2839,C1414233,gpr183
+2052,C1414244,ece1
+2054,C1414245,ecel1
+2056,C1414247,echs1
+2058,C1414248,ecm1
+5895,C1414253,s1pr1
+3858,C1414254,lpar1
+3859,C1414256,lpar2
+5896,C1414257,s1pr2
+5897,C1414258,s1pr4
+2070,C1414260,edn1
+2071,C1414261,edn3
+2072,C1414262,ednra
+2073,C1414263,ednrb
+5089,C1414264,phc1
+2075,C1414266,eea1
+2076,C1414269,eed
+2078,C1414295,eef2
+2079,C1414297,efemp1
+2080,C1414298,efemp2
+1194,C1414309,celsr2
+2089,C1414314,egr1
+2090,C1414315,egr2
+2093,C1414322,ehhadh
+2098,C1414326,eif2ak3
+2100,C1414328,eif2b2
+2101,C1414329,eif2b3
+2102,C1414330,eif2b4
+2103,C1414331,eif2b5
+2104,C1414336,eif2s3
+2105,C1414338,eif3a
+2109,C1414353,eif4ebp2
+2110,C1414356,eif4g1
+2113,C1414376,elf2
+2115,C1414382,eln
+2126,C1414388,emp2
+2129,C1414394,emx2
+2130,C1414396,en2
+2141,C1414404,eno2
+2142,C1414405,eno3
+2149,C1414406,enpep
+2150,C1414407,enpp1
+2160,C1414421,epas1
+2161,C1414422,epb41
+2163,C1414426,epb42
+6437,C1414428,stom
+2169,C1414429,epha5
+2170,C1414430,epha7
+2174,C1414431,ephb4
+2178,C1414433,ephx2
+2196,C1414437,eprs
+5585,C1414437,qars
+2199,C1414438,epx
+2211,C1414440,ercc8
+2223,C1414444,ern1
+2230,C1414459,esd
+2235,C1414461,esr1
+2236,C1414462,esr2
+2237,C1414463,esrra
+2238,C1414465,esrrb
+2239,C1414466,esrrg
+2249,C1414471,etfa
+2250,C1414472,etfb
+2251,C1414473,etfdh
+2295,C1414493,eya4
+2303,C1414498,f11
+2304,C1414499,f12
+2305,C1414500,f13a1
+2306,C1414503,f13b
+2309,C1414506,f2rl1
+2310,C1414508,f2rl3
+2311,C1414509,f5
+2316,C1414512,faah
+3147,C1414513,hsd17b8
+2321,C1414515,fabp6
+101,C1414518,acsl1
+102,C1414519,acsl3
+103,C1414520,acsl4
+2333,C1414525,fah
+2340,C1414529,fancc
+2341,C1414531,fance
+2349,C1414534,farsa
+2359,C1414539,fbln1
+2360,C1414541,fbln5
+2362,C1414543,fbn2
+2363,C1414544,fbp1
+2368,C1414546,fcar
+2369,C1414547,fcer1a
+2370,C1414548,fcer1g
+2371,C1414549,fcer2
+2372,C1414550,fcgr1a
+2373,C1414553,fcgr2a
+2374,C1414554,fcgr2b
+2376,C1414555,fcgr3a
+2378,C1414557,fcgrt
+2447,C1414558,fktn
+2380,C1414561,fcn3
+2381,C1414563,fdft1
+2383,C1414571,fdx1
+2384,C1414575,fdxr
+2385,C1414580,fech
+2389,C1414583,fen1
+2405,C1414592,fga
+2406,C1414593,fgb
+2407,C1414594,fgd1
+2409,C1414599,fgf14
+2410,C1414600,fgf16
+2411,C1414601,fgf17
+2412,C1414602,fgf18
+2416,C1414605,fgf23
+2428,C1414607,fgg
+2432,C1414612,fhl1
+592,C1414614,atp8b1
+2444,C1414618,fkbp1a
+2445,C1414627,fkbp5
+2453,C1414635,flna
+2454,C1414636,flnb
+2499,C1414647,fmo5
+2500,C1414649,fmr1
+2502,C1414655,fnta
+2503,C1414658,fntb
+2509,C1414664,folr2
+2510,C1414666,folr3
+2528,C1414668,foxc1
+2529,C1414669,foxc2
+2530,C1414672,foxd3
+2531,C1414674,foxe1
+2532,C1414676,foxe3
+2533,C1414677,foxf1
+2534,C1414678,foxf2
+2536,C1414682,foxi1
+2538,C1414685,foxm1
+2542,C1414689,fpgs
+2544,C1414691,fpr2
+2545,C1414692,fpr3
+2578,C1414812,fxn
+2553,C1414819,frzb
+2555,C1414820,fscn2
+2556,C1414824,fshb
+2557,C1414828,fshr
+2559,C1414832,ftcd
+2560,C1414833,fth1
+2561,C1414852,ftl
+2563,C1414855,fubp1
+2564,C1414857,fuca1
+2573,C1414863,fut2
+2574,C1414864,fut3
+2575,C1414865,fut4
+2576,C1414867,fut6
+2579,C1414873,fxr2
+2580,C1414875,fxyd2
+2587,C1414892,g6pc
+6189,C1414895,slc37a4
+2592,C1414904,gabbr1
+2594,C1414908,gabra1
+2595,C1414909,gabra2
+2596,C1414910,gabra3
+2597,C1414911,gabra4
+2598,C1414912,gabra5
+2599,C1414913,gabra6
+2600,C1414914,gabrb1
+2601,C1414915,gabrb2
+2602,C1414916,gabrb3
+2603,C1414917,gabrd
+2604,C1414918,gabre
+2605,C1414920,gabrg2
+2606,C1414921,gabrg3
+2607,C1414922,gabrp
+2609,C1414923,gabrr1
+2610,C1414924,gabrr2
+2611,C1414925,gad1
+2612,C1414926,gad2
+2622,C1414946,galc
+2624,C1414948,galk1
+2627,C1414950,galns
+2630,C1414952,galnt2
+2631,C1414953,galnt3
+2632,C1414960,galr1
+2636,C1414963,gamt
+2638,C1414965,ganab
+2640,C1414968,gapdh
+2644,C1414988,gars
+6259,C1414988,smad1
+2645,C1414989,gart
+2646,C1414991,gas6
+2654,C1414993,gata2
+2656,C1414995,gata4
+2657,C1414996,gata6
+2660,C1414997,gatm
+2662,C1415001,gbe1
+2665,C1415009,gcdh
+2667,C1415011,gcgr
+2668,C1415012,gch1
+2669,C1415014,gck
+2670,C1415015,gckr
+2673,C1415017,gcm2
+3525,C1415020,kat2a
+2674,C1415022,gcnt2
+4775,C1415024,opn1mw
+2675,C1415025,gcsh
+2677,C1415031,gdf1
+2678,C1415033,gdf2
+2679,C1415034,gdf3
+2681,C1415038,gdi1
+2696,C1415043,gfer
+2697,C1415044,gfi1
+2700,C1415046,gfpt1
+2701,C1415047,gfpt2
+2703,C1415049,gfra3
+2704,C1415050,ggcx
+2705,C1415051,ggh
+2706,C1415052,ggps1
+2707,C1415053,ggt1
+2710,C1415064,ghrhr
+2711,C1415065,ghsr
+2717,C1415068,gja1
+2718,C1415071,gja3
+2719,C1415072,gja4
+2720,C1415073,gja5
+2727,C1415074,gjc1
+2721,C1415075,gja8
+2723,C1415076,gjb1
+2724,C1415078,gjb3
+2725,C1415079,gjb4
+2726,C1415080,gjb5
+2671,C1415097,gclc
+2672,C1415098,gclm
+2735,C1415099,gldc
+2736,C1415101,gle1
+2747,C1415104,glo1
+2748,C1415105,glp1r
+2749,C1415106,glp2r
+2750,C1415107,glra1
+2751,C1415108,glra2
+2752,C1415109,glra3
+2753,C1415110,glrb
+2754,C1415111,glrx
+2764,C1415113,glud1
+2765,C1415114,glud2
+2766,C1415119,glul
+2776,C1415127,gm2a
+2777,C1415129,gmds
+2780,C1415135,gmpr
+2782,C1415138,gna11
+2784,C1415139,gna13
+2785,C1415141,gna15
+2786,C1415142,gnai1
+2788,C1415144,gnai3
+2789,C1415145,gnal
+2790,C1415146,gnao1
+2793,C1415148,gnat1
+2794,C1415149,gnat2
+2796,C1415150,gnb1l
+2800,C1415156,gng3
+2801,C1415157,gng4
+2802,C1415158,gng5
+2803,C1415160,gng7
+2804,C1415161,gngt1
+2806,C1415164,gnly
+2808,C1415166,gnpat
+2809,C1415167,gnpda1
+2811,C1415169,gnrh1
+2812,C1415171,gnrhr
+2814,C1415177,golga5
+2818,C1415180,gosr2
+2819,C1415181,got1
+2820,C1415182,got2
+2821,C1415186,gp1ba
+2822,C1415187,gp1bb
+2823,C1415189,gp5
+2828,C1415199,gpd1
+2830,C1415200,gpd2
+2833,C1415208,gpr12
+2837,C1415211,gpr18
+3861,C1415216,lpar4
+2840,C1415222,gpr3
+2843,C1415229,gpr35
+2845,C1415238,gpr44
+2847,C1415268,gpr87
+2848,C1415269,gpr88
+2853,C1415275,gpx1
+2854,C1415276,gpx2
+2855,C1415277,gpx3
+2856,C1415278,gpx4
+2857,C1415279,gpx5
+2858,C1415281,gpx7
+2871,C1415286,grhpr
+2872,C1415287,gria1
+2873,C1415288,gria2
+2875,C1415289,gria4
+2876,C1415291,grid2
+2877,C1415293,grik1
+2878,C1415294,grik2
+2879,C1415295,grik3
+2880,C1415296,grik4
+2881,C1415297,grik5
+2882,C1415298,grin1
+2883,C1415299,grin2a
+2884,C1415300,grin2b
+2885,C1415301,grin2c
+2886,C1415302,grin2d
+2894,C1415306,grm2
+2895,C1415307,grm3
+2899,C1415309,grm7
+2900,C1415310,grm8
+2903,C1415314,grpr
+2905,C1415320,gsk3a
+2906,C1415321,gsk3b
+2907,C1415323,gsn
+2908,C1415324,gspt1
+2911,C1415328,gsta1
+2912,C1415330,gsta3
+2913,C1415331,gsta4
+2916,C1415335,gstm2
+2917,C1415336,gstm3
+2918,C1415337,gstm4
+2919,C1415338,gstm5
+2923,C1415340,gstt2
+2924,C1415341,gstz1
+2930,C1415354,guca1a
+2931,C1415355,guca1b
+2932,C1415359,gucy1a2
+6413,C1415363,star
+2933,C1415363,gucy2c
+2934,C1415364,gucy2d
+2935,C1415367,guk1
+2939,C1415374,gypb
+2940,C1415375,gypc
+2941,C1415377,gys1
+2942,C1415378,gys2
+2943,C1415380,gzmb
+2945,C1415455,h6pd
+2946,C1415457,habp2
+2948,C1415458,hadh
+2949,C1415460,hadha
+2950,C1415462,hadhb
+2951,C1415464,hagh
+2962,C1415468,hao1
+2963,C1415469,hao2
+2965,C1415473,hars
+2966,C1415474,hars2
+2973,C1415485,hbg1
+2974,C1415486,hbg2
+2975,C1415491,hccs
+5997,C1415492,serpind1
+2976,C1415493,hcfc1
+2978,C1415499,hcn2
+5324,C1415500,ppox
+2981,C1415500,hcrt
+2982,C1415501,hcrtr1
+2983,C1415502,hcrtr2
+3181,C1415504,htt
+3030,C1415512,herc2
+3040,C1415521,hesx1
+3042,C1415522,hexa
+3044,C1415523,hexb
+3048,C1415533,hgd
+3050,C1415534,hgfac
+3053,C1415543,hibch
+3058,C1415545,hint1
+3071,C1415566,hla dob
+3082,C1415593,hlcs
+4263,C1415596,mnx1
+3083,C1415597,hmbs
+3088,C1415614,hmgcl
+3089,C1415615,hmgcr
+3090,C1415616,hmgcs1
+3091,C1415617,hmgcs2
+3093,C1415619,hmox1
+3094,C1415620,hmox2
+3097,C1415629,hnf4a
+3098,C1415631,hnf4g
+3099,C1415632,hnmt
+3100,C1415634,hnrnpa1
+3101,C1415636,hnrnpa2b1
+3109,C1415653,hoxa1
+3110,C1415654,hoxa11
+3111,C1415656,hoxa2
+3112,C1415663,hoxb1
+3113,C1415677,hoxc13
+3114,C1415684,hoxd10
+3115,C1415687,hoxd13
+6513,C1415687,synpolydactyly
+3118,C1415699,hpgd
+3120,C1415701,hprt1
+3121,C1415707,hps1
+3134,C1415727,hs3st1
+3135,C1415729,hs3st3a1
+3136,C1415734,hs6st1
+3137,C1415736,hsd11b1
+3138,C1415737,hsd11b2
+3139,C1415738,hsd17b1
+3143,C1415739,hsd17b3
+3148,C1415742,hsd3b1
+3149,C1415743,hsd3b2
+3150,C1415752,hsf4
+1945,C1415753,dnajb2
+3154,C1415755,hspa1a
+3155,C1415757,hspa1l
+3156,C1415761,hspa5
+3157,C1415764,hspa8
+3160,C1415769,hspb3
+3162,C1415782,hspd1
+3163,C1415790,hspe1
+3164,C1415793,hspg2
+3165,C1415803,htr1a
+3167,C1415805,htr1d
+3168,C1415807,htr1e
+3169,C1415808,htr1f
+3170,C1415809,htr2a
+3171,C1415810,htr2b
+3172,C1415811,htr2c
+3174,C1415812,htr3b
+3175,C1415813,htr4
+3176,C1415814,htr5a
+3177,C1415815,htr6
+3178,C1415816,htr7
+3184,C1415818,hus1
+3186,C1415825,hyal1
+3248,C1415832,iars
+3255,C1415842,icam4
+3261,C1415846,icos
+3266,C1415876,idh1
+3267,C1415877,idh2
+3268,C1415878,idh3a
+3269,C1415881,idi1
+6332,C1415891,sp110
+3277,C1415892,ifit1
+3278,C1415898,ifitm3
+3280,C1415907,ifna5
+3283,C1415912,ifnb1
+3299,C1415932,igfbp7
+3300,C1415978,ighg1
+3301,C1415993,ighm
+3302,C1415994,ighmbp2
+3303,C1416163,igkc
+3304,C1416293,igll1
+3305,C1416370,igsf1
+3308,C1416380,ikbkg
+3312,C1416381,il10ra
+3318,C1416383,il12rb1
+3320,C1416386,il13ra2
+3322,C1416387,il15ra
+3329,C1416395,il1r1
+3330,C1416396,il1r2
+3331,C1416398,il1rapl1
+3332,C1416401,il1rl2
+3333,C1416402,il1rn
+3353,C1416409,il6r
+3370,C1416425,impa1
+3371,C1416426,impa2
+3372,C1416427,impdh1
+3373,C1416428,impdh2
+3374,C1416430,impg1
+3377,C1416432,incenp
+3394,C1416445,inpp5b
+3395,C1416447,inpp5d
+3397,C1416448,inppl1
+3401,C1416453,insl3
+2541,C1416467,foxp3
+3434,C1416474,irf6
+3435,C1416475,irf7
+3450,C1416478,isg20
+3451,C1416480,isl1
+3469,C1416484,itga2
+3471,C1416486,itga3
+3472,C1416487,itga4
+3473,C1416488,itga5
+3476,C1416490,itga8
+3479,C1416494,itgav
+3480,C1416496,itgb1
+3484,C1416503,itgb7
+3485,C1416508,itih3
+3486,C1416509,itih4
+3488,C1416512,itm2b
+3489,C1416514,itpa
+3490,C1416516,itpka
+3493,C1416518,itpr2
+3494,C1416519,itpr3
+3497,C1416523,ivd
+3499,C1416524,ivl
+3502,C1416525,jag1
+3503,C1416526,jag2
+3524,C1416540,kars
+3528,C1416543,kcna1
+3529,C1416544,kcna10
+3530,C1416545,kcna2
+3531,C1416546,kcna3
+3532,C1416547,kcna4
+3533,C1416548,kcna5
+3534,C1416554,kcnb1
+3535,C1416555,kcnb2
+3536,C1416556,kcnc1
+3537,C1416557,kcnc2
+3538,C1416558,kcnc3
+3539,C1416559,kcnc4
+3540,C1416560,kcnd1
+3541,C1416561,kcnd2
+3542,C1416562,kcnd3
+3543,C1416563,kcne1
+3544,C1416565,kcne2
+3545,C1416571,kcnh1
+3546,C1416572,kcnh2
+3549,C1416576,kcnj1
+3550,C1416577,kcnj10
+3551,C1416579,kcnj12
+3552,C1416580,kcnj13
+3553,C1416584,kcnj2
+3554,C1416585,kcnj3
+3555,C1416586,kcnj4
+3556,C1416587,kcnj5
+3557,C1416588,kcnj6
+3558,C1416589,kcnj8
+3559,C1416590,kcnj9
+3560,C1416591,kcnk1
+3561,C1416595,kcnk2
+3562,C1416596,kcnk3
+3563,C1416602,kcnma1
+3564,C1416603,kcnmb1
+3565,C1416604,kcnmb2
+3566,C1416605,kcnmb3
+3567,C1416607,kcnmb4
+3568,C1416608,kcnn1
+3569,C1416609,kcnn2
+3570,C1416610,kcnn3
+3571,C1416611,kcnn4
+3572,C1416612,kcnq1
+3573,C1416614,kcnq2
+3574,C1416615,kcnq3
+3575,C1416616,kcnq4
+3581,C1416626,kera
+3593,C1416630,khk
+3604,C1416632,kif1c
+3609,C1416638,kif5a
+3610,C1416640,kif5c
+3611,C1416643,kir2dl1
+3612,C1416644,kir2dl2
+3613,C1416645,kir2dl3
+3614,C1416647,kir2ds1
+3615,C1416648,kir2ds2
+3616,C1416650,kir2ds4
+3617,C1416652,kir3dl1
+3618,C1416653,kir3dl2
+3624,C1416657,klf1
+3628,C1416666,klhl3
+3630,C1416669,klk1
+3631,C1416674,klk14
+3634,C1416676,klk5
+3636,C1416677,klk7
+3637,C1416681,klkb1
+3638,C1416682,klrc1
+3641,C1416688,kmo
+3623,C1416692,klc1
+3601,C1416693,kif11
+3605,C1416696,kif22
+3607,C1416698,kif2c
+3643,C1416708,kptn
+3931,C1416710,mafb
+3646,C1416713,krt1
+3648,C1416715,krt12
+3649,C1416716,krt13
+3650,C1416717,krt14
+3651,C1416724,krt16
+3652,C1416728,krt17
+3653,C1416731,krt18
+3655,C1416740,krt3
+3656,C1416741,krt4
+3657,C1416742,krt5
+3658,C1416743,krt6a
+3659,C1416744,krt6b
+3660,C1416745,krt7
+3662,C1416746,krt8
+3667,C1416747,krt9
+3668,C1416768,kynu
+3701,C1416771,lag3
+3703,C1416775,lama1
+3704,C1416776,lama2
+3705,C1416777,lama3
+3706,C1416778,lama4
+3707,C1416780,lamb1
+3708,C1416781,lamb2
+3709,C1416783,lamb3
+3710,C1416786,lamc2
+3711,C1416787,lamc3
+3714,C1416790,lamp2
+6435,C1416797,stmn1
+3720,C1416799,lars
+3726,C1416802,lbr
+3730,C1416806,lcn2
+3731,C1416808,lct
+3733,C1416811,ldha
+3735,C1416817,ldhb
+3736,C1416820,ldhc
+3777,C1416828,lfng
+3781,C1416835,lgals7
+3782,C1416836,lgals9
+3788,C1416843,lhcgr
+3790,C1416850,lhx3
+3795,C1416851,lig1
+3796,C1416853,lig3
+3798,C1416861,lilrb5
+3799,C1416862,lim2
+3803,C1416863,limk2
+3812,C1416867,lipc
+3813,C1416868,lipe
+3814,C1416869,lipf
+3815,C1416870,lipg
+3833,C1416874,lman1
+3836,C1416877,lmna
+3838,C1416878,lmnb2
+3839,C1416890,lmx1b
+3840,C1416891,lnpep
+3856,C1416898,loxl1
+3857,C1416899,loxl2
+3866,C1416905,lrat
+3869,C1416913,lrp1b
+3870,C1416914,lrp2
+3871,C1416916,lrp4
+3872,C1416917,lrp5
+3873,C1416918,lrp6
+3874,C1416920,lrpap1
+3878,C1416924,lsamp
+3887,C1416930,ltbp4
+3889,C1416932,ltc4s
+3890,C1416933,ltf
+3919,C1416945,lyz
+3920,C1416946,lztfl1
+3921,C1416947,lztr1
+3924,C1416955,mab21l2
+3927,C1416958,mad1l1
+3928,C1416961,madcam1
+6265,C1416964,smad9
+3933,C1416967,maff
+3935,C1416968,mafk
+3937,C1416970,magea1
+3939,C1416975,magea4
+3940,C1416985,magec1
+3942,C1416986,magel2
+3948,C1416988,mak
+3960,C1416991,malt1
+3963,C1416992,man1a1
+3964,C1416994,man1b1
+3965,C1416995,man2a1
+3966,C1416997,man2b1
+3967,C1416999,manba
+3970,C1417002,maob
+3971,C1417003,map1a
+3972,C1417006,map2
+3976,C1417008,map2k4
+3981,C1417009,map3k10
+3982,C1417010,map3k11
+3984,C1417013,map3k2
+3986,C1417014,map3k5
+3987,C1417015,map3k6
+3990,C1417016,map3k9
+3991,C1417019,map4k2
+3992,C1417020,map4k3
+4005,C1417024,mapk8ip1
+4018,C1417034,mark3
+4023,C1417036,masp1
+4025,C1417038,mat1a
+4026,C1417039,mat2a
+4027,C1417040,mat2b
+4028,C1417043,matn3
+4029,C1417046,matr3
+5567,C1417048,pvalb
+4942,C1417049,pcm1
+4035,C1417054,mbl2
+4039,C1417061,mc1r
+4040,C1417062,mc2r
+4041,C1417063,mc3r
+4043,C1417065,mc5r
+4046,C1417066,mccc1
+4047,C1417067,mccc2
+4056,C1417087,mdh1
+4057,C1417088,mdh2
+4059,C1417089,mdm4
+4060,C1417092,me1
+4062,C1417094,me3
+4068,C1417098,mecp2
+4078,C1417099,mef2a
+4079,C1417102,mef2c
+4103,C1417111,meox1
+4164,C1417124,mettl1
+4172,C1417132,mgam
+4173,C1417133,mgat1
+4174,C1417134,mgat2
+4175,C1417136,mgat4a
+4176,C1417143,mgea5
+4180,C1417146,mgst2
+4181,C1417147,mgst3
+4185,C1417163,micb
+4189,C1417167,mid1
+4190,C1417168,mid2
+4203,C1417169,minpp1
+4223,C1417176,mknk2
+4224,C1417179,mkrn3
+4225,C1417186,mks1
+4228,C1417188,mlf1
+4234,C1417190,mln
+6893,C1417194,trpm1
+4238,C1417196,mlycd
+4242,C1417200,mmp10
+4244,C1417201,mmp12
+4245,C1417202,mmp13
+4247,C1417204,mmp15
+4248,C1417205,mmp16
+4249,C1417206,mmp17
+4250,C1417207,mmp19
+4252,C1417208,mmp20
+4253,C1417211,mmp24
+4259,C1417212,mmp7
+4260,C1417213,mmp8
+270,C1417216,aldh6a1
+4262,C1417217,mn1
+4266,C1417224,mocs1
+4267,C1417227,mocs2
+4287,C1417235,mpdu1
+4288,C1417236,mpdz
+4292,C1417247,mpv17
+4293,C1417248,mpz
+4299,C1417326,ms4a1
+4300,C1417327,ms4a2
+4306,C1417374,msr1
+4311,C1417387,msx1
+4312,C1417388,msx2
+4313,C1417402,mt2a
+4314,C1417407,mtap
+4315,C1417420,mthfd1
+4316,C1417422,mthfd2
+4320,C1417436,mtmr2
+4321,C1417449,mtnr1a
+4324,C1417453,mtr
+4326,C1417458,mtrr
+4328,C1417490,muc1
+4330,C1417494,muc2
+4332,C1417500,muc7
+4349,C1417504,mut
+4351,C1417507,mvd
+4352,C1417508,mvk
+4358,C1417521,mybpc1
+4359,C1417523,mybpc3
+4361,C1417525,mycbp
+4366,C1417530,myd88
+4372,C1417533,myf6
+4375,C1417537,myh2
+4376,C1417538,myh3
+4377,C1417541,myh6
+4378,C1417542,myh7
+4379,C1417543,myh8
+4380,C1417544,myh9
+4227,C1417546,mlc1
+4381,C1417547,myl2
+4382,C1417548,myl3
+4386,C1417557,myo15a
+4387,C1417558,myo1a
+4388,C1417562,myo1e
+4389,C1417564,myo3a
+4391,C1417568,myo6
+4392,C1417569,myo7a
+4393,C1417572,myo9b
+4394,C1417573,myoc
+4405,C1417585,myt1l
+4417,C1417592,naga
+4443,C1417603,nbea
+4448,C1417608,ncf1
+4449,C1417609,ncf2
+4450,C1417610,ncf4
+4451,C1417611,nck1
+4460,C1417614,ndn
+4463,C1417617,ndst1
+4464,C1417620,ndufa1
+4465,C1417621,ndufa10
+4467,C1417622,ndufa2
+4468,C1417623,ndufa3
+4469,C1417624,ndufa4
+4471,C1417625,ndufa5
+4472,C1417627,ndufa6
+4473,C1417628,ndufa7
+4474,C1417629,ndufa8
+4475,C1417630,ndufa9
+4476,C1417631,ndufab1
+4478,C1417632,ndufb1
+4479,C1417634,ndufb2
+4480,C1417635,ndufb3
+4481,C1417636,ndufb4
+4482,C1417637,ndufb5
+4483,C1417638,ndufb6
+4484,C1417639,ndufb7
+4485,C1417640,ndufb8
+4486,C1417642,ndufc1
+4487,C1417643,ndufc2
+4488,C1417644,ndufs1
+4489,C1417645,ndufs2
+4490,C1417646,ndufs3
+4491,C1417647,ndufs4
+4492,C1417648,ndufs5
+4493,C1417649,ndufs6
+4494,C1417650,ndufs7
+4495,C1417651,ndufs8
+4496,C1417652,ndufv1
+4497,C1417653,ndufv2
+4501,C1417659,nedd4
+4502,C1417660,nedd4l
+4503,C1417663,nedd8
+4506,C1417666,nefh
+4507,C1417668,nefl
+4510,C1417671,nek1
+4512,C1417672,nek2
+4516,C1417676,nell1
+4698,C1417677,nrp2
+4542,C1417680,neu1
+4543,C1417681,neu2
+4547,C1417683,neurod1
+4566,C1417693,nfat5
+4567,C1417694,nfatc1
+4568,C1417697,nfatc4
+4569,C1417700,nfe2l1
+4570,C1417701,nfe2l2
+4571,C1417704,nfib
+4572,C1417707,nfix
+4573,C1417708,nfkb1
+4576,C1417711,nfkbil1
+4616,C1417738,nkx6 1
+4623,C1417741,nme2
+4624,C1417746,nmt1
+4628,C1417750,nnt
+4635,C1417754,nop2
+4631,C1417756,nol3
+4648,C1417767,notch2
+4649,C1417768,notch3
+4652,C1417770,nox3
+4653,C1417771,nox4
+4655,C1417776,npc1
+4656,C1417777,npc1l1
+4658,C1417779,npepps
+4660,C1417782,nphp1
+4667,C1417810,npr1
+4669,C1417811,npr3
+4670,C1417813,nptx2
+4672,C1417816,npy1r
+4673,C1417817,npy2r
+4674,C1417818,npy5r
+4677,C1417820,nr0b1
+4679,C1417821,nr1d1
+4680,C1417823,nr1h2
+4681,C1417824,nr1h3
+4682,C1417825,nr1h4
+4684,C1417827,nr1i3
+4685,C1417832,nr2e3
+4686,C1417833,nr2f1
+4687,C1417834,nr2f2
+4689,C1417835,nr3c2
+4690,C1417837,nr4a3
+4691,C1417838,nr5a1
+4696,C1417848,nrl
+4699,C1417851,nrxn1
+4702,C1417857,nsf
+4706,C1417861,nt5e
+4705,C1417862,nt5c2
+4714,C1417870,ntsr1
+4715,C1417871,ntsr2
+4719,C1417874,nucb1
+4720,C1417875,nucb2
+4726,C1417893,nup155
+4728,C1417894,nup50
+4729,C1417895,nup62
+4732,C1417909,nyx
+4734,C1417916,oasl
+4736,C1417921,oaz1
+4737,C1417922,oaz2
+4738,C1417923,oaz3
+4745,C1417928,ocln
+4750,C1417932,odc1
+4754,C1417943,ogdh
+4762,C1417947,olr1
+4769,C1417955,opa3
+4770,C1417956,opcml
+4771,C1417960,ophn1
+4777,C1417962,oprd1
+4778,C1417963,oprk1
+4779,C1417964,oprl1
+4780,C1417965,oprm1
+4781,C1417966,oprs1
+4791,C1418186,orm1
+4792,C1418187,orm2
+4814,C1418195,otof
+4833,C1418208,oxt
+4834,C1418209,oxtr
+4844,C1418211,p2rx1
+4846,C1418212,p2rx3
+4847,C1418213,p2rx4
+4848,C1418215,p2rx7
+4849,C1418217,p2ry1
+4851,C1418218,p2ry11
+4854,C1418219,p2ry2
+4855,C1418220,p2ry4
+4856,C1418221,p2ry6
+4857,C1418222,p4ha1
+4858,C1418223,p4ha2
+4859,C1418224,p4hb
+4860,C1418237,pabpn1
+4864,C1418242,pacsin2
+4869,C1418244,paep
+4870,C1418245,pafah1b1
+4871,C1418247,pafah1b3
+5998,C1418252,serpine1
+4873,C1418256,paics
+4877,C1418259,pak1
+4878,C1418260,pak2
+4879,C1418261,pak3
+4898,C1418264,panx1
+4901,C1418267,papss1
+4902,C1418268,papss2
+4908,C1418269,parg
+4923,C1418273,pax1
+4924,C1418274,pax2
+4926,C1418275,pax4
+4928,C1418276,pax6
+4931,C1418278,pax9
+4937,C1418296,pcbd1
+4939,C1418304,pccb
+5990,C1418370,serpina5
+4940,C1418371,pck1
+4941,C1418372,pck2
+1281,C1418385,chmp1a
+4946,C1418388,pcsk1
+4947,C1418389,pcsk2
+4948,C1418391,pcsk5
+4950,C1418392,pcsk7
+4951,C1418395,pctp
+4952,C1418396,pcyt1a
+4953,C1418397,pcyt1b
+4954,C1418398,pcyt2
+4957,C1418402,pdcd10
+4958,C1418403,pdcd2
+4959,C1418412,pde10a
+4960,C1418413,pde11a
+4961,C1418414,pde1a
+4962,C1418415,pde1b
+4963,C1418416,pde1c
+4964,C1418417,pde2a
+4965,C1418418,pde3a
+4966,C1418419,pde3b
+4967,C1418420,pde4a
+4968,C1418421,pde4b
+4969,C1418422,pde4c
+4971,C1418424,pde5a
+4972,C1418425,pde6a
+4973,C1418426,pde6b
+4974,C1418427,pde6c
+4975,C1418428,pde6d
+4976,C1418429,pde6g
+4977,C1418430,pde6h
+4978,C1418432,pde7b
+4979,C1418433,pde8a
+4989,C1418437,pdha1
+4990,C1418439,pdhb
+4994,C1418441,pdk2
+4995,C1418442,pdk3
+4996,C1418443,pdk4
+6163,C1418445,slc26a4
+5003,C1418446,pdxk
+5005,C1418447,pdyn
+5999,C1418450,serpinf1
+5029,C1418462,pepd
+5031,C1418465,per2
+5052,C1418469,pex1
+5053,C1418470,pex10
+5054,C1418472,pex11b
+5055,C1418473,pex12
+5056,C1418474,pex13
+5057,C1418475,pex14
+5058,C1418476,pex16
+5061,C1418477,pex3
+5063,C1418478,pex6
+5065,C1418481,pfas
+5066,C1418487,pfkfb1
+5067,C1418489,pfkfb3
+5068,C1418490,pfkfb4
+5069,C1418492,pfkm
+5071,C1418495,pfn2
+5072,C1418500,pga5
+5073,C1418502,pgam2
+5075,C1418503,pgc
+5078,C1418507,pggt1b
+5079,C1418508,pgk1
+5081,C1418516,pgm1
+5082,C1418518,pgm3
+5110,C1418526,phex
+5113,C1418531,phgdh
+5115,C1418532,phka1
+5116,C1418533,phka2
+5117,C1418534,phkb
+5118,C1418538,phkg2
+5122,C1418543,phyh
+5988,C1418544,serpina1
+6003,C1418546,serpini1
+5994,C1418551,serpinb6
+5131,C1418558,piga
+5132,C1418567,pigl
+5133,C1418568,pign
+5137,C1418571,pik3c2a
+5138,C1418572,pik3c2b
+5139,C1418574,pik3c3
+5142,C1418575,pik3cd
+5144,C1418576,pik3r1
+5145,C1418577,pik3r2
+5125,C1418579,pi4ka
+5150,C1418581,pim2
+5153,C1418582,pin1
+5157,C1418588,pip5k1a
+5158,C1418590,pip5k1c
+5168,C1418591,pisd
+5173,C1418595,pitx1
+5174,C1418596,pitx2
+5175,C1418597,pitx3
+5179,C1418599,pkd1
+5180,C1418600,pkd2
+5181,C1418601,pkd2l1
+5182,C1418609,pklr
+5185,C1418612,pkp1
+5186,C1418613,pkp2
+5187,C1418617,pla2g1b
+5189,C1418619,pla2g2d
+5193,C1418623,pla2g5
+5195,C1418625,pla2g7
+5196,C1418629,plag1
+5202,C1418631,plcb2
+5204,C1418634,plcb4
+5205,C1418635,plcd1
+5211,C1418638,plcl1
+5212,C1418639,plcl2
+5207,C1418640,plcg1
+5214,C1418642,pld2
+6000,C1418648,serpinf2
+5227,C1418650,pln
+5229,C1418652,plod2
+5230,C1418653,plod3
+5231,C1418654,plp1
+5232,C1418658,pls3
+5235,C1418674,pmm2
+5236,C1418676,pmp2
+5237,C1418677,pmp22
+5239,C1418695,pmvk
+5121,C1418697,phox2b
+5243,C1418707,pnkp
+5244,C1418708,pnlip
+5245,C1418710,pnliprp2
+5246,C1418713,pnmt
+5262,C1418731,polg
+5263,C1418732,polg2
+5264,C1418733,polh
+5284,C1418752,pomt1
+5288,C1418756,pon3
+5301,C1418759,pou1f1
+5303,C1418764,pou3f4
+5304,C1418767,pou4f3
+5308,C1418776,ppara
+5309,C1418778,ppard
+5311,C1418779,ppargc1a
+5312,C1418780,ppat
+5315,C1418793,ppia
+5316,C1418795,ppib
+5317,C1418796,ppic
+5318,C1418799,ppif
+5321,C1418814,ppm1a
+5322,C1418816,ppm1d
+5326,C1418821,ppp1cc
+5328,C1418829,ppp1r3a
+5331,C1418837,ppp2r1a
+5333,C1418838,ppp2r2a
+5334,C1418839,ppp2r2b
+5337,C1418845,ppp3ca
+5338,C1418846,ppp3cb
+5339,C1418847,ppp3cc
+5340,C1418848,ppp3r1
+5341,C1418852,ppp5c
+5342,C1418854,ppt1
+5344,C1418859,pqbp1
+5357,C1418873,prcp
+5359,C1418876,prdm5
+5360,C1418880,prdx2
+5362,C1418882,prdx6
+5372,C1418885,prep
+5070,C1418887,pfn1
+5375,C1418887,prf1
+5376,C1418891,prg4
+5380,C1418897,prkaa1
+5381,C1418898,prkaa2
+5382,C1418899,prkab1
+5383,C1418900,prkab2
+5384,C1418901,prkaca
+5385,C1418902,prkacb
+5386,C1418903,prkacg
+5387,C1418904,prkag1
+5388,C1418905,prkag2
+5389,C1418907,prkar1a
+5390,C1418910,prkar2a
+5391,C1418911,prkar2b
+5393,C1418913,prkcb
+5394,C1418916,prkcd
+5395,C1418918,prkce
+5397,C1418920,prkch
+5398,C1418921,prkci
+5399,C1418926,prkcq
+5400,C1418927,prkcsh
+5401,C1418928,prkcz
+5404,C1418929,prkg1
+5655,C1418931,rax
+5406,C1418931,prkra
+5407,C1418938,prl
+5413,C1418941,prnp
+5416,C1418943,proc
+5422,C1418944,procr
+5425,C1418945,prodh
+5432,C1418946,prom1
+5435,C1418947,prop1
+5445,C1418948,pros1
+5451,C1418951,prox1
+5452,C1418952,proz
+5458,C1418953,prph
+5460,C1418954,prps1
+5463,C1418967,prss12
+5465,C1418972,prss3
+5471,C1418975,psap
+5473,C1418977,psca
+1729,C1418979,cyth2
+1730,C1418981,cyth3
+5480,C1419003,psma1
+5481,C1419004,psma2
+5482,C1419005,psma3
+5483,C1419006,psma4
+5484,C1419007,psma5
+5485,C1419008,psma6
+5486,C1419009,psma7
+5487,C1419010,psmb1
+5489,C1419012,psmb2
+5490,C1419013,psmb3
+5491,C1419014,psmb4
+5493,C1419016,psmb6
+5494,C1419017,psmb7
+5495,C1419018,psmb8
+5496,C1419019,psmb9
+5498,C1419027,psmd1
+5500,C1419032,psmd2
+5503,C1419048,psph
+5505,C1419051,pstpip1
+5507,C1419053,ptafr
+5510,C1419056,ptdss1
+5514,C1419059,ptgdr
+5515,C1419061,ptger1
+5516,C1419062,ptger2
+5517,C1419063,ptger3
+5518,C1419064,ptger4
+5519,C1419067,ptges
+5521,C1419068,ptgfr
+5522,C1419070,ptgir
+5527,C1419074,pth2r
+5533,C1419090,ptp4a3
+5537,C1419096,ptpn13
+5538,C1419097,ptpn14
+5540,C1419106,ptpn4
+5541,C1419112,ptprb
+5543,C1419114,ptprd
+5545,C1419115,ptprf
+5547,C1419120,ptprn2
+5548,C1419121,ptpro
+5549,C1419124,ptprs
+5550,C1419126,ptprz1
+5059,C1419147,pex19
+5062,C1419151,pex5
+5571,C1419152,pycr1
+5573,C1419154,pygb
+5574,C1419156,pygl
+5575,C1419157,pygm
+5586,C1419182,qdpr
+5587,C1419183,qpct
+5588,C1419184,qprt
+5600,C1419189,rab11a
+5602,C1419195,rab27a
+5603,C1419197,rab28
+5607,C1419212,rab5a
+5610,C1419219,rab9a
+5613,C1419222,rabggta
+5614,C1419223,rabggtb
+5615,C1419227,rac1
+5616,C1419228,rac2
+5617,C1419235,rad21
+5626,C1419248,rag2
+5630,C1419253,ralbp1
+5636,C1419257,ran
+5640,C1419269,rap2a
+5644,C1419271,rapsn
+5647,C1419272,rarg
+5648,C1419273,rarres1
+5651,C1419277,rasa1
+5653,C1419284,rasgrp2
+5654,C1419285,rassf1
+5666,C1419287,rbp1
+5662,C1419296,rbm10
+5664,C1419303,rbm8a
+5668,C1419320,rbp4
+4774,C1419325,opn1lw
+5673,C1419326,rcvrn
+5675,C1419328,rdh5
+5693,C1419336,relb
+5694,C1419337,reln
+5702,C1419339,renbp
+5726,C1419347,rev3l
+5728,C1419363,rfx5
+5729,C1419364,rfxank
+5730,C1419365,rfxap
+5731,C1419367,rgr
+5736,C1419374,rgs4
+5737,C1419375,rgs5
+5738,C1419378,rgs9
+5740,C1419379,rhag
+5742,C1419381,rhce
+5745,C1419383,rheb
+5774,C1419390,rit1
+5780,C1419391,rlbp1
+5782,C1419407,rnase1
+5783,C1419408,rnase2
+5784,C1419409,rnase3
+5785,C1419410,rnase4
+5788,C1419413,rnasel
+5796,C1419427,rnf6
+5797,C1419429,rnf8
+5798,C1419434,rnpep
+5802,C1419598,rock2
+5807,C1419600,rom1
+5813,C1419602,rorb
+5814,C1419603,rorc
+5824,C1419608,rp2
+5825,C1419622,rpe65
+5826,C1419623,rpgr
+5829,C1419625,rpia
+5832,C1419628,rpl11
+5834,C1419630,rpl13a
+5835,C1419632,rpl15
+5838,C1419633,rpl23
+5837,C1419637,rpl21
+5839,C1419641,rpl23a
+5841,C1419655,rpl3
+5842,C1419668,rpl35a
+5843,C1419670,rpl37
+5844,C1419683,rpl5
+4295,C1419695,mrpl3
+5846,C1419699,rps10
+5847,C1419703,rps14
+5848,C1419713,rps17
+5850,C1419725,rps24
+5851,C1419728,rps26
+5852,C1419732,rps29
+5853,C1419742,rps6ka1
+5854,C1419743,rps6ka2
+5855,C1419744,rps6ka3
+5856,C1419745,rps6ka4
+5858,C1419747,rps6ka6
+5859,C1419748,rps6kb1
+5860,C1419751,rps7
+5867,C1419764,rs1
+5869,C1419769,rtn2
+5874,C1419771,runx2
+5884,C1419781,s100a1
+5887,C1419783,s100a13
+5889,C1419786,s100a4
+5890,C1419789,s100a7
+5892,C1419790,s100b
+5900,C1419804,sacs
+5905,C1419808,sall1
+5906,C1419810,sall2
+5913,C1419816,sar1b
+5917,C1419817,sardh
+5923,C1419823,sbf1
+5992,C1419844,serpinb3
+5934,C1419853,scn10a
+5935,C1419854,scn11a
+5936,C1419856,scn1a
+5937,C1419857,scn1b
+5938,C1419858,scn2a
+5939,C1419860,scn2b
+5940,C1419861,scn3a
+5942,C1419862,scn4a
+5943,C1419864,scn5a
+5944,C1419866,scn8a
+5945,C1419867,scn9a
+5946,C1419868,scnn1a
+5947,C1419869,scnn1b
+5948,C1419870,scnn1d
+5949,C1419871,scnn1g
+5950,C1419873,sco2
+5956,C1419891,sdc1
+5957,C1419893,sdc3
+5958,C1419904,sdf2
+5959,C1419906,sdha
+5961,C1419908,sdhc
+5962,C1419909,sdhd
+5964,C1419923,sec14l2
+5967,C1419925,sec23a
+5968,C1419926,sec23b
+5979,C1419941,selplg
+5981,C1419944,sema3c
+5983,C1419947,sema4a
+5985,C1419959,sema7a
+6016,C1419980,sf3b1
+6017,C1419983,sf3b4
+6018,C1419988,sfrp5
+6019,C1420003,sftpa2
+6023,C1420005,sgca
+6024,C1420006,sgcb
+6025,C1420007,sgcd
+6026,C1420008,sgce
+6027,C1420009,sgcg
+6028,C1420010,sgk1
+6029,C1420014,sgpl1
+6030,C1420015,sgsh
+6033,C1420017,sh2d1a
+6034,C1420022,sh3bp2
+6035,C1420025,sh3gl1
+6043,C1420038,shmt1
+6044,C1420040,shmt2
+6048,C1420041,shox
+6052,C1420062,siglec7
+6425,C1420065,stil
+6058,C1420067,sim1
+6072,C1420072,six1
+6073,C1420074,six3
+6074,C1420076,six5
+6075,C1420077,six6
+6089,C1420086,slc10a1
+6090,C1420087,slc10a2
+6091,C1420088,slc11a1
+6092,C1420089,slc11a2
+6093,C1420090,slc12a1
+6094,C1420091,slc12a2
+6095,C1420092,slc12a3
+6096,C1420093,slc12a4
+6098,C1420094,slc12a6
+6099,C1420095,slc12a7
+6101,C1420096,slc13a1
+6102,C1420097,slc13a2
+6104,C1420098,slc14a1
+6105,C1420099,slc14a2
+6106,C1420100,slc15a1
+6107,C1420101,slc15a2
+6109,C1420102,slc16a1
+6111,C1420103,slc16a2
+6112,C1420104,slc16a3
+6113,C1420105,slc16a4
+6114,C1420106,slc16a5
+6115,C1420107,slc16a6
+6116,C1420108,slc16a7
+6118,C1420111,slc17a3
+6119,C1420113,slc17a5
+6120,C1420114,slc18a1
+6121,C1420115,slc18a2
+6122,C1420116,slc18a3
+6123,C1420117,slc19a1
+6124,C1420118,slc19a2
+6126,C1420119,slc1a1
+6127,C1420120,slc1a2
+6128,C1420121,slc1a3
+6129,C1420122,slc1a4
+6130,C1420123,slc1a5
+6131,C1420124,slc1a6
+6132,C1420125,slc1a7
+6133,C1420126,slc20a2
+6250,C1420127,slco3a1
+6251,C1420128,slco4a1
+6248,C1420129,slco2a1
+6244,C1420130,slco1a2
+3880,C1420131,lst1
+6245,C1420131,slco1b1
+6246,C1420132,slco1b3
+6249,C1420133,slco2b1
+6134,C1420134,slc22a1
+6137,C1420135,slc22a18
+6138,C1420137,slc22a2
+6139,C1420138,slc22a3
+6140,C1420139,slc22a4
+6141,C1420140,slc22a5
+6142,C1420141,slc22a6
+6143,C1420142,slc22a7
+6144,C1420143,slc22a8
+6145,C1420144,slc23a2
+6146,C1420146,slc24a1
+6147,C1420150,slc25a1
+6148,C1420151,slc25a10
+6149,C1420153,slc25a12
+6150,C1420154,slc25a13
+6151,C1420156,slc25a15
+6154,C1420160,slc25a3
+6161,C1420162,slc26a2
+6164,C1420169,slc28a1
+6165,C1420170,slc28a2
+6172,C1420172,slc2a2
+6173,C1420175,slc2a4
+6177,C1420182,slc31a1
+6178,C1420183,slc31a2
+6180,C1420185,slc34a1
+6181,C1420186,slc34a2
+6182,C1420187,slc35a1
+6183,C1420188,slc35a2
+6184,C1420189,slc35a3
+6197,C1420191,slc3a1
+6198,C1420192,slc3a2
+6204,C1420196,slc4a4
+6205,C1420196,slc4a5
+6206,C1420197,slc4a7
+6207,C1420198,slc4a8
+6208,C1420200,slc5a1
+6209,C1420201,slc5a2
+6210,C1420203,slc5a4
+6211,C1420204,slc5a5
+6212,C1420205,slc5a6
+6214,C1420206,slc6a1
+6215,C1420208,slc6a11
+6216,C1420209,slc6a12
+6217,C1420210,slc6a13
+6218,C1420211,slc6a14
+6219,C1420212,slc6a2
+6223,C1420212,slc6a5
+6221,C1420213,slc6a3
+6222,C1420214,slc6a4
+6224,C1420218,slc6a7
+6225,C1420219,slc6a8
+6226,C1420220,slc6a9
+6228,C1420222,slc7a11
+6230,C1420224,slc7a4
+6232,C1420226,slc7a7
+6233,C1420227,slc7a8
+6234,C1420228,slc7a9
+6235,C1420229,slc8a1
+6236,C1420232,slc9a1
+6237,C1420233,slc9a2
+6238,C1420234,slc9a3
+6239,C1420236,slc9a3r1
+6240,C1420237,slc9a3r2
+6241,C1420239,slc9a5
+6242,C1420240,slc9a6
+6256,C1420243,slit1
+6290,C1420248,snai2
+6269,C1420250,smarcal1
+6279,C1420257,smn1
+6280,C1420258,smn2
+6283,C1420259,smpd1
+6286,C1420261,smpx
+6051,C1420266,siglec1
+6291,C1420270,snap25
+6292,C1420271,snap29
+6294,C1420278,sncb
+2554,C1420280,fscn1
+6298,C1420283,snrpa
+6299,C1420292,snrpe
+6301,C1420296,snta1
+6303,C1420302,snx3
+6304,C1420304,soat1
+6305,C1420305,soat2
+6309,C1420307,sod2
+6318,C1420311,sord
+6319,C1420312,sorl1
+6320,C1420313,sort1
+6321,C1420314,sos1
+6324,C1420317,sox10
+6325,C1420318,sox11
+6327,C1420321,sox18
+6328,C1420322,sox2
+6329,C1420326,sox3
+6330,C1420331,sox9
+6333,C1420337,spag1
+6345,C1420344,spg11
+6347,C1420354,spg7
+6348,C1420357,sphk1
+6358,C1420362,spint2
+6365,C1420369,spp1
+6367,C1420383,spry2
+6369,C1420385,spta1
+6370,C1420386,sptan1
+6371,C1420388,sptbn1
+6372,C1420389,sptbn2
+6373,C1420390,sptlc1
+6374,C1420391,sptlc2
+6376,C1420392,sqle
+6377,C1420393,sqstm1
+6380,C1420395,srd5a1
+6383,C1420398,srebf1
+6384,C1420404,srm
+6386,C1420410,srp72
+6387,C1420412,srpk1
+6388,C1420413,srpk2
+6392,C1420418,sry
+6394,C1420431,ssr4
+6402,C1420434,ssx1
+6403,C1420435,ssx2
+6393,C1420439,ss18
+6409,C1420450,stag3
+6490,C1420459,sult1e1
+610,C1420464,aurkb
+611,C1420465,aurkc
+6429,C1420469,stk17b
+5226,C1420470,plk4
+1150,C1420484,cdkl5
+6446,C1420492,stub1
+6447,C1420494,stx11
+6448,C1420496,stx16
+6450,C1420506,stxbp1
+6451,C1420507,stxbp2
+6458,C1420510,sucla2
+6459,C1420511,suclg1
+6460,C1420512,suclg2
+6485,C1420514,sult1a1
+6486,C1420515,sult1a2
+6491,C1420519,sult2a1
+6492,C1420520,sult2b1
+6498,C1420521,suox
+6503,C1420527,surf1
+6504,C1420532,suv39h1
+6508,C1420544,syn2
+6512,C1420552,synj1
+6514,C1420554,syp
+6516,C1420557,syt2
+6518,C1420564,tac3
+6521,C1420565,tacr1
+6522,C1420566,tacr2
+6530,C1420572,taf4b
+6533,C1420580,taldo1
+6545,C1420583,tapbp
+6547,C1420588,tardbp
+6556,C1420593,tbc1d1
+6558,C1420597,tbce
+6562,C1420603,tbx1
+6563,C1420607,tbx19
+6564,C1420610,tbx21
+7006,C1420613,ulnar mammary syndrome
+6565,C1420613,tbx3
+6566,C1420614,tbx4
+6567,C1420615,tbx5
+6568,C1420616,tbx6
+6569,C1420619,tbxa2r
+6570,C1420620,tbxas1
+3095,C1420631,hnf1a
+6572,C1420632,tcf12
+3096,C1420636,hnf1b
+7210,C1420645,zeb1
+6577,C1420650,tcl1a
+6578,C1420652,tcn1
+6579,C1420653,tcn2
+6580,C1420654,tcof1
+6584,C1420667,tdgf1
+6589,C1420679,tead1
+6591,C1420683,tecta
+6614,C1420688,tesk1
+6615,C1420689,tesk2
+6631,C1420701,tff2
+6632,C1420703,tfg
+6634,C1420707,tfr2
+6644,C1420712,tgif1
+6645,C1420713,tgm1
+6646,C1420714,tgm2
+6647,C1420715,tgm3
+6648,C1420716,tgm4
+6649,C1420717,tgm5
+6655,C1420720,thbd
+6684,C1420729,tia1
+6694,C1420740,timm8a
+6707,C1420744,tjp1
+6708,C1420745,tjp2
+6709,C1420747,tk1
+6712,C1420758,tll1
+6713,C1420759,tll2
+6714,C1420760,tln1
+6736,C1420784,tmprss3
+6741,C1420801,tnfaip6
+6743,C1420805,tnfrsf11a
+6747,C1420809,tnfrsf17
+6750,C1420812,tnfrsf4
+6763,C1420822,tnnc1
+6764,C1420823,tnnc2
+6765,C1420825,tnni2
+6768,C1420827,tnnt1
+6769,C1420828,tnnt2
+6770,C1420829,tnnt3
+2714,C1420838,gigyf2
+6772,C1420850,tnxb
+6799,C1420868,tpbg
+6801,C1420870,tph1
+6802,C1420871,tpi1
+6804,C1420872,tpm1
+6805,C1420873,tpm2
+6806,C1420874,tpm3
+6810,C1420876,tpp2
+6833,C1421109,trdn
+6835,C1421114,treh
+6874,C1421146,trip11
+6886,C1421168,trpc1
+6887,C1421169,trpc2
+6888,C1421170,trpc3
+6889,C1421171,trpc4
+6890,C1421172,trpc5
+6891,C1421173,trpc6
+6892,C1421174,trpc7
+6908,C1421196,tsfm
+6910,C1421200,tshb
+6917,C1421208,tspyl1
+6919,C1421210,tst
+6920,C1421211,tsta3
+6929,C1421224,ttr
+6930,C1421225,tub
+6935,C1421226,tuba4a
+6934,C1421227,tuba3c
+6937,C1421229,tuba8
+6938,C1421231,tubb
+6948,C1421235,tubg1
+6950,C1421238,tufm
+6952,C1421241,tulp1
+6957,C1421246,txk
+6960,C1421248,txnrd1
+6962,C1421249,tyk2
+6969,C1421256,uap1
+6972,C1421267,ubc
+6973,C1421271,ube2a
+6976,C1421293,ube3a
+6979,C1421305,ubqln2
+6981,C1421309,uchl1
+6985,C1421313,ucp1
+6986,C1421314,ucp2
+6987,C1421315,ucp3
+5928,C1421318,scgb1a1
+6989,C1421319,ugcg
+6993,C1421327,ugt1a3
+6994,C1421328,ugt1a4
+6995,C1421329,ugt1a5
+6997,C1421331,ugt1a7
+6999,C1421333,ugt1a9
+7000,C1421334,ugt2a1
+7001,C1421338,ugt2b15
+7002,C1421339,ugt2b17
+7003,C1421345,ugt2b4
+7007,C1421351,umod
+7008,C1421354,umps
+7010,C1421361,ung
+7013,C1421363,upp1
+7015,C1421368,uqcrb
+7018,C1421371,uqcrfs1
+7019,C1421373,uqcrh
+7026,C1421374,urod
+7030,C1421375,uros
+7033,C1421379,ush1c
+7034,C1421381,ush2a
+7035,C1421386,usp1
+7036,C1421391,usp14
+7037,C1421395,usp18
+7038,C1421401,usp24
+7040,C1421406,usp5
+7042,C1421409,usp9x
+7043,C1421410,usp9y
+7047,C1421412,utrn
+7063,C1421425,vapb
+7075,C1421428,vasp
+7076,C1421435,vcam1
+7086,C1421446,vegfb
+7101,C1421451,vim
+7107,C1421452,vipr2
+7116,C1421455,vldlr
+7127,C1421465,vps33b
+6900,C1421467,trpv1
+7131,C1421468,vrk1
+7132,C1421473,vsx1
+7140,C1421477,wars2
+7148,C1421500,wee1
+7151,C1421501,wfs1
+2539,C1421504,foxn1
+7158,C1421511,wnt10b
+7165,C1421520,wrb
+7168,C1421525,wwox
+7172,C1421527,xbp1
+7173,C1421531,xdh
+7179,C1421536,xist
+7182,C1421540,xpc
+7183,C1421543,xpnpep2
+7216,C1421579,zfy
+7218,C1421583,zic3
+7225,C1421586,zmpste24
+7228,C1421633,znf141
+7229,C1421699,znf211
+7230,C1421705,znf217
+220,C1421876,aicda
+574,C1421881,atp2c1
+2020,C1421916,duox2
+2053,C1421917,ece2
+2846,C1421928,gpr63
+2920,C1421933,gsto1
+3608,C1421941,kif4a
+3862,C1421944,lpin1
+4053,C1421947,mcoln1
+4054,C1421949,mcoln3
+4513,C1421968,nek7
+4663,C1421972,nphs2
+5190,C1421980,pla2g2e
+5665,C1421986,rbms3
+5827,C1421991,rpgrip1
+6171,C1421996,slc2a10
+6174,C1421998,slc2a9
+6190,C1421999,slc38a1
+6191,C1422000,slc38a2
+6798,C1422009,tp63
+6977,C1422011,ube3b
+7128,C1422017,vps35
+590,C1422042,atp8a1
+562,C1422052,atp10a
+5261,C1422055,pole3
+65,C1422064,ace2
+3941,C1422072,magec2
+811,C1422073,brd4
+2365,C1422079,fbxo31
+2367,C1422081,fbxo7
+2364,C1422095,fbxl4
+1385,C1422133,clk4
+2838,C1422155,gpr182
+5672,C1422161,rce1
+3929,C1422169,maea
+2770,C1422172,glyat
+5734,C1422173,rgs19
+304,C1422178,aloxe3
+5470,C1422198,prx
+1302,C1422200,chrna10
+4554,C1422205,neurog3
+6203,C1422206,slc4a10
+6097,C1422213,slc12a5
+6247,C1422214,slco1c1
+539,C1422219,aspscr1
+1432,C1422223,cntnap2
+2335,C1422247,fam65b
+37,C1422255,abcg5
+5995,C1422259,serpinb7
+877,C1422274,c6orf10
+5358,C1422337,prdm16
+399,C1422340,ano3
+6903,C1422342,trpv6
+6213,C1422359,slc5a7
+4297,C1422372,mrps16
+2992,C1422386,hdac9
+2991,C1422387,hdac7
+1309,C1422395,chrna9
+5733,C1422398,rgs17
+480,C1422408,arhgef10
+6812,C1422416,tpsd1
+481,C1422475,arhgef12
+2111,C1422480,elac2
+3513,C1422483,jph2
+3514,C1422484,jph3
+4700,C1422496,nsd1
+6284,C1422502,smpd3
+4255,C1422510,mmp26
+4256,C1422511,mmp27
+831,C1422516,brpf1
+1081,C1422519,cd2ap
+616,C1422523,auts2
+5601,C1422524,rab23
+4709,C1422545,ntng1
+4618,C1422546,nlgn3
+4617,C1422548,nlgn1
+6037,C1422551,shank2
+3860,C1422553,lpar3
+5898,C1422554,s1pr5
+812,C1422561,brd7
+4221,C1422572,mkl1
+5216,C1422573,plekha1
+5217,C1422576,plekha4
+3445,C1422593,irx5
+4257,C1422595,mmp28
+2824,C1422611,gp6
+3060,C1422622,hipk2
+2116,C1422632,elovl4
+2119,C1422634,elspbp1
+5676,C1422637,rdh8
+6103,C1422640,slc13a3
+3863,C1422658,lpin2
+2608,C1422662,gabrq
+4298,C1422713,mrps22
+4657,C1422736,npc2
+483,C1422758,arhgef9
+4083,C1422767,meg3
+5155,C1422771,pink1
+940,C1422774,camk1g
+1127,C1422796,cdca3
+1557,C1422802,creld1
+14,C1422805,abca12
+5319,C1422813,ppig
+5320,C1422814,ppih
+2088,C1422820,egln3
+2581,C1422829,fyco1
+1791,C1422833,deaf1
+6193,C1422835,slc38a4
+3918,C1422841,lyve1
+1441,C1423002,cog5
+538,C1423015,aspn
+7211,C1423021,zeb2
+1208,C1423022,cep68
+1946,C1423027,dnajb6
+3491,C1423036,itpkc
+3337,C1423038,il22
+4598,C1423043,nin
+6549,C1423055,tas2r16
+6067,C1423063,sirt3
+6068,C1423065,sirt5
+5135,C1423070,pigt
+6302,C1423101,snx10
+5253,C1423114,pofut1
+5454,C1423492,prpf31
+4038,C1423501,mbtps2
+4037,C1423502,mbtps1
+4845,C1423503,p2rx2
+912,C1423504,cacna2d3
+6355,C1423506,spink5
+2831,C1423507,gphn
+1947,C1423510,dnajc6
+1873,C1423519,diaph3
+3338,C1423526,il23a
+392,C1423529,ankh
+5566,C1423539,pus1
+7062,C1423542,vangl1
+6289,C1423543,smyd3
+5128,C1423544,picalm
+7190,C1423546,xylt1
+7191,C1423547,xylt2
+3548,C1423551,kcnip1
+3507,C1423559,jam3
+6368,C1423560,spry4
+3359,C1423578,ilkap
+5658,C1423586,rb1cc1
+4329,C1423594,muc16
+6100,C1423604,slc12a8
+2961,C1423607,hamp
+3629,C1423635,klhl7
+6762,C1423650,tnks2
+3732,C1423674,ldb3
+3875,C1423677,lrpprc
+2222,C1423697,ermap
+2016,C1423702,dstn
+169,C1423715,adnp
+4757,C1423717,ogfr
+4707,C1423718,nt5m
+1296,C1423729,chrfam7a
+4120,C1423731,metap1
+7231,C1423745,znf335
+835,C1423761,bscl2
+3122,C1423767,hps4
+472,C1423775,arfgef2
+6282,C1423784,smox
+2398,C1423809,fermt1
+4895,C1423814,pank2
+4374,C1423823,myh14
+4577,C1423825,nfs1
+5201,C1423830,plcb1
+5910,C1423837,samhd1
+1307,C1423867,chrna6
+2676,C1423872,gdap1
+6859,C1423877,trim2
+1410,C1423911,clp1
+383,C1423931,angptl4
+4880,C1423944,pak4
+4231,C1423947,mllt10
+2755,C1423949,glrx2
+5604,C1423958,rab33b
+6436,C1423961,stmn4
+5084,C1423971,pgrmc1
+1785,C1423991,ddrgk1
+1963,C1424050,dok5
+6939,C1424130,tubb1
+7162,C1424137,wnt5b
+6125,C1424138,slc19a3
+6117,C1424140,slc16a8
+6864,C1424146,trim5
+6862,C1424158,trim33
+7011,C1424165,upb1
+477,C1424207,arhgap12
+6861,C1424232,trim32
+981,C1424242,card9
+4621,C1424250,nlrp3
+2081,C1424254,efhc1
+3792,C1424272,lias
+540,C1424288,asrgl1
+2347,C1424298,farp2
+6166,C1424316,slc28a3
+1987,C1424322,dpp8
+1749,C1424332,dapp1
+4997,C1424333,pdlim4
+6737,C1424347,tmprss6
+5641,C1424447,rapgef4
+4296,C1424465,mrpl44
+4121,C1424480,metap2
+7215,C1424490,zfpm2
+933,C1424497,calcrl
+7234,C1424525,znf423
+3825,C1424587,litaf
+5642,C1424601,rapgef5
+4089,C1424606,melk
+2438,C1424608,fig4
+4171,C1424611,mfn2
+2979,C1424615,hcn4
+5499,C1424617,psmd14
+2914,C1424627,gstk1
+200,C1424637,agap1
+464,C1424639,arap2
+463,C1424640,arap1
+3340,C1424658,il25
+6410,C1424659,stambp
+1864,C1424673,dhrs4
+2743,C1424680,glipr1
+3879,C1424688,lsm6
+3123,C1424692,hps5
+5111,C1424694,phf11
+6110,C1424697,slc16a10
+6954,C1424700,tusc2
+2288,C1424701,exosc8
+5840,C1424710,rpl26l1
+5899,C1424716,sacm1l
+2947,C1424719,habp4
+6511,C1424731,syne2
+3263,C1424734,icoslg
+1355,C1424735,clasp1
+6510,C1424736,syne1
+3721,C1424741,lars2
+6771,C1424743,tnpo3
+3057,C1424751,hif1an
+6195,C1424765,slc39a4
+4785,C1424774,optn
+4704,C1424776,nt5c
+488,C1424778,arl2bp
+5215,C1424784,pld3
+4418,C1424796,nagk
+5206,C1424797,plce1
+1320,C1424814,chsy1
+5502,C1424818,psors1c1
+740,C1424822,bicd2
+1472,C1424826,colec11
+7044,C1424835,ust
+5621,C1424839,rad54b
+4922,C1424862,pask
+1196,C1424863,cenpj
+5457,C1424915,prpf8
+5453,C1424921,prpf3
+5455,C1424922,prpf4
+438,C1424925,apobec3b
+6803,C1424931,tpk1
+485,C1424935,arid5b
+10,C1424938,aass
+4420,C1424946,nagpa
+3133,C1424950,hrh4
+664,C1424954,banf1
+2849,C1424958,gpr98
+1710,C1424971,cyp3a43
+1723,C1424972,cysltr1
+2834,C1424979,gpr132
+2728,C1424981,gjc2
+3106,C1424986,homer1
+3729,C1424996,lcmt1
+4459,C1425014,nde1
+5045,C1425018,perp
+1767,C1425020,dclre1c
+4581,C1425023,ngly1
+1863,C1425040,dhrs3
+5919,C1425041,sars2
+6433,C1425045,stk39
+5164,C1425088,pipox
+6489,C1425126,sult1b1
+6431,C1425128,stk38
+6432,C1425129,stk38l
+1294,C1425131,chpt1
+5986,C1425138,senp3
+2967,C1425141,havcr1
+3415,C1425144,invs
+1072,C1425189,cd207
+6898,C1425206,trpm8
+5674,C1425207,rdh11
+5831,C1425212,rpl10l
+6895,C1425222,trpm3
+6896,C1425223,trpm4
+6897,C1425225,trpm6
+2446,C1425226,fkrp
+6785,C1425229,tomm40
+4600,C1425233,nisch
+771,C1425261,bmp2k
+6108,C1425279,slc15a3
+7152,C1425289,wif1
+6901,C1425290,trpv2
+6135,C1425326,slc22a11
+6326,C1425328,sox17
+5743,C1425338,rhcg
+4,C1425345,a4galt
+6745,C1425348,tnfrsf12a
+6961,C1425351,txnrd2
+5932,C1425354,scly
+2442,C1425359,fkbp10
+1076,C1425360,cd244
+6800,C1425366,tpcn1
+7232,C1425371,znf365
+665,C1425385,bank1
+4265,C1425386,mocos
+5671,C1425391,rcbtb1
+1724,C1425412,cysltr2
+5008,C1425418,pecr
+1415,C1425425,cmas
+6732,C1425437,tmlhe
+545,C1425445,asxl1
+4867,C1425457,padi3
+7143,C1425459,wdr19
+4866,C1425460,padi2
+3375,C1425472,impg2
+4865,C1425477,padi1
+4868,C1425478,padi4
+3126,C1425482,hpse2
+4048,C1425524,mcfd2
+7209,C1425529,zdhhc7
+582,C1425544,atp6v0a2
+5795,C1425565,rnf43
+5786,C1425573,rnaseh2a
+1054,C1425614,ccno
+4511,C1425631,nek11
+4829,C1425642,oxct2
+6196,C1425643,slc39a6
+1440,C1425652,cog4
+1442,C1425654,cog7
+1443,C1425655,cog8
+2443,C1425657,fkbp14
+6408,C1425660,stab2
+6936,C1425667,tuba4b
+5965,C1425682,sec14l3
+3396,C1425693,inpp5e
+1142,C1425696,cdk5rap2
+1944,C1425753,dnai2
+5767,C1425756,rin2
+4007,C1425758,mapkap1
+681,C1425764,bbs7
+6187,C1425766,slc36a1
+6188,C1425767,slc36a2
+1035,C1425774,ccdc6
+3640,C1425775,klrk1
+593,C1425786,atpaf2
+948,C1425790,camta1
+1022,C1425793,catsper2
+3124,C1425796,hps6
+4477,C1425806,ndufaf1
+1716,C1425828,cyp4f12
+6349,C1425830,sphk2
+3547,C1425833,kcnh6
+6587,C1425854,tdp1
+1773,C1425932,dcxr
+5933,C1425943,scmh1
+537,C1425978,aspm
+4457,C1425993,ncr3
+1352,C1425999,cks1b
+3348,C1426007,il4i1
+4661,C1426011,nphp4
+2441,C1426030,fip1l1
+5472,C1426033,psat1
+6921,C1426038,ttbk2
+2722,C1426046,gja9
+6557,C1426056,tbc1d4
+2549,C1426074,fras1
+1961,C1426077,dock6
+1218,C1426121,cerk
+3884,C1426125,ltb4r2
+4323,C1426126,mto1
+3522,C1426156,kank1
+4654,C1426157,npas3
+3747,C1426160,lepre1
+939,C1426175,camk1d
+1646,C1426179,cux2
+739,C1426183,bicc1
+280,C1426190,alg12
+3187,C1426196,hydin
+6307,C1426212,socs3
+7226,C1426228,zmynd10
+6767,C1426311,tnni3k
+6982,C1426328,uchl5
+6,C1426329,aak1
+3576,C1426343,kcnv2
+5225,C1426344,plk2
+2190,C1426372,epm2aip1
+5285,C1426379,pomt2
+2628,C1426502,galnt12
+4850,C1426521,p2ry10
+6826,C1426550,trappc3
+6827,C1426551,trappc4
+6153,C1426556,slc25a22
+3595,C1426560,kiaa0391
+1037,C1426569,ccdc88c
+1386,C1426573,clmn
+1679,C1426584,cycs
+7039,C1426647,usp33
+2495,C1426689,flvcr2
+2835,C1426729,gpr143
+5267,C1426766,polr1c
+6185,C1426768,slc35c1
+5723,C1426906,retn
+7219,C1426910,zic4
+5268,C1426930,polr1d
+6340,C1426931,spata7
+7012,C1426937,upf3b
+4034,C1426942,mbd5
+3400,C1426946,insig2
+5792,C1426950,rnf144a
+819,C1426958,brip1
+6505,C1427005,sv2a
+1706,C1427014,cyp2r1
+1707,C1427016,cyp2u1
+2084,C1427021,egfl7
+1859,C1427027,dhdds
+1246,C1427038,chd7
+5966,C1427039,sec14l4
+5941,C1427065,scn3b
+6243,C1427100,slc9a8
+7217,C1427118,zfyve26
+6186,C1427133,slc35d1
+7235,C1427140,znf432
+6654,C1427163,thap1
+6194,C1427165,slc39a14
+3868,C1427192,lrig2
+696,C1427193,bcor
+6288,C1427221,smyd2
+406,C1427242,antxr1
+3787,C1427244,lgsn
+1642,C1427252,cul7
+5171,C1427269,pitpnm3
+1147,C1427272,cdkal1
+4325,C1427273,mtrf1l
+5969,C1427303,sec63
+2010,C1427359,dse
+4384,C1427370,mylip
+2315,C1427405,fa2h
+2117,C1427485,elovl5
+393,C1427487,ankrd11
+5001,C1427500,pdx1
+4991,C1427500,pdhx
+39,C1427541,abhd5
+40,C1427543,abhd6
+5650,C1427551,rars2
+3512,C1427565,joubert syndrome 1
+1870,C1427590,diablo
+217,C1427622,ahi1
+3594,C1427627,kiaa0319
+2191,C1427640,epn1
+3893,C1427644,luc7l2
+1618,C1427646,ctdsp1
+5921,C1427665,satb2
+4810,C1427674,ostm1
+6791,C1427675,topors
+2980,C1427680,hcp5
+5789,C1427695,rnaset2
+5306,C1427701,pou6f2
+2629,C1427801,galnt14
+4071,C1427815,med13l
+5060,C1427818,pex26
+282,C1427879,alg3
+4722,C1427884,nudt15
+6825,C1427889,trappc2
+6828,C1427890,trappc6a
+6136,C1427912,slc22a17
+6169,C1427913,slc29a3
+2356,C1427920,fat4
+283,C1427953,alg6
+284,C1427957,alg8
+5134,C1427994,pigo
+2257,C1428025,ethe1
+4886,C1428063,pam
+1965,C1428074,dolk
+778,C1428109,bms1
+1865,C1428130,dhtkd1
+7126,C1428143,vps13d
+6252,C1428158,slco4c1
+2799,C1428183,gne
+7115,C1428184,vkorc1
+2904,C1428195,gsdmb
+6389,C1428344,srprb
+522,C1428365,ascc1
+1657,C1428392,cxxc4
+2588,C1428419,g6pc3
+2641,C1428420,gapdhs
+1780,C1428430,ddit4
+813,C1428523,brd9
+5572,C1428527,pycrl
+6625,C1428542,tex10
+5006,C1428568,pdzd7
+3424,C1428754,iqcb1
+7236,C1428764,znf592
+5219,C1428775,plekhm1
+1778,C1428790,ddhd2
+660,C1428800,bahd1
+394,C1428810,ankrd26
+3523,C1428829,kank2
+2851,C1428865,gpsm2
+5954,C1428866,scpep1
+3821,C1428876,lipt1
+2758,C1428877,gls2
+4170,C1428886,mfap5
+1295,C1428903,chrdl1
+6040,C1428905,shc2
+4725,C1428908,nup107
+1433,C1428910,coasy
+5080,C1428916,pglyrp4
+4427,C1428933,nampt
+546,C1428934,atad2
+3161,C1428937,hspb8
+5004,C1428948,pdxp
+5609,C1428953,rab8b
+4985,C1428985,pdgfd
+6758,C1428997,tnik
+6588,C1429004,tdrd7
+6220,C1429013,slc6a20
+4619,C1432185,nlgn4x
+6421,C1432218,steap1
+6192,C1432555,slc38a3
+7224,C1433857,zmiz1
+4920,C1434346,parp3
+3974,C1434641,map2k2
+3975,C1434650,map2k3
+1328,C1435283,ciita
+1755,C1435444,darunavir
+3985,C1435834,map3k3
+2248,C1436328,eszopiclone
+4919,C1436356,parp2
+4932,C1436935,paxip1
+3743,C1438822,lemd3
+2868,C1438932,grem1
+244,C1439270,alad
+180,C1439273,adrb1
+182,C1439274,adrb3
+212,C1439284,agtr1
+700,C1439290,bdkrb1
+3297,C1439325,igfals
+1575,C1439327,cryaa
+1576,C1439328,cryab
+1029,C1439329,cbs
+2647,C1439341,gast
+2936,C1439345,gusb
+2825,C1439350,gp9
+3132,C1439353,hrh3
+3273,C1442485,idua
+3474,C1442491,itga6
+4322,C1442506,mtnr1b
+3977,C1442512,map2k5
+4177,C1442515,mgll
+4943,C1442741,pcmt1
+6227,C1442751,slc7a1
+6229,C1442752,slc7a2
+6020,C1442757,sftpb
+6021,C1442758,sftpc
+6022,C1442759,sftpd
+6843,C1442761,trhr
+7016,C1442767,uqcrc1
+7017,C1442768,uqcrc2
+6990,C1442771,ugdh
+3702,C1442889,lalba
+796,C1443145,bpi
+4012,C1446659,mapt
+1230,C1447757,cfhr1
+3295,C1447796,igf2bp2
+6760,C1449330,tnk2
+3436,C1450600,irf8
+6010,C1450815,setx
+6531,C1451502,tafluprost
+6943,C1452247,tubb3
+6595,C1453642,telavancin
+6032,C1453749,sh2b3
+1228,C1453864,cfd
+6596,C1453933,telbivudine
+875,C1454453,c5ar1
+1802,C1455035,degarelix
+1756,C1455147,dasatinib
+6031,C1455627,sh2b1
+5233,C1455838,pltp
+3784,C1456349,lgmn
+408,C1456375,anxa11
+3979,C1456387,map2k7
+5511,C1456391,ptdss2
+5877,C1456392,rxra
+5878,C1456393,rxrb
+5879,C1456394,rxrg
+2275,C1456409,etravirine
+900,C1456413,cacna1a
+6751,C1456796,tnfrsf8
+815,C1458155,breast neoplasms
+3718,C1506770,lapatinib
+317,C1508750,alvimopan
+1077,C1515135,cd247
+6317,C1516119,sorafenib
+2375,C1521989,fcgr2c
+7099,C1530072,vilazodone
+222,C1530805,aifm1
+4197,C1533126,milnacipran
+4796,C1535893,orthostatic intolerance
+3185,C1537395,huwe1
+3274,C1537396,ier3ip1
+3425,C1537419,iqsec2
+3520,C1537432,kalrn
+7208,C1537464,zc4h2
+3625,C1537489,klf11
+3642,C1537501,kng1
+3734,C1537557,ldhal6b
+3738,C1537558,ldlrap1
+3748,C1537563,leprel1
+3749,C1537564,leprel2
+3785,C1537569,lgr4
+3786,C1537570,lgr5
+3877,C1537595,lrrc6
+4074,C1537676,med25
+4070,C1537677,med12
+4235,C1537925,mlnr
+4308,C1537981,msrb2
+4444,C1538045,nbeal2
+4458,C1538050,ncstn
+4599,C1538063,nipbl
+7144,C1538088,wdr45
+7145,C1538104,wdr60
+7156,C1538110,wnk1
+7169,C1538115,wwp1
+7170,C1538116,wwp2
+7207,C1538151,zbtb24
+7213,C1538171,zfhx4
+7223,C1538177,zmat4
+7227,C1538178,zmynd11
+7233,C1538225,znf385d
+6980,C1538258,ubr4
+262,C1538259,aldh1l1
+257,C1538262,aldh18a1
+285,C1538263,alg9
+601,C1538298,atxn1
+603,C1538299,atxn2
+604,C1538301,atxn3
+605,C1538303,atxn7
+602,C1538308,atxn10
+690,C1538319,bckdk
+6583,C1538392,tctn3
+955,C1538435,cant1
+1212,C1538438,cept1
+1231,C1538445,cfhr4
+1232,C1538446,cfhr5
+1247,C1538450,chd8
+1259,C1538453,chkb
+1282,C1538456,chmp2b
+1323,C1538465,cib2
+1326,C1538466,cidec
+1350,C1538467,ckmt1a
+4626,C1538474,nmur1
+4701,C1538487,nsdhl
+4703,C1538490,nsun3
+4718,C1538495,nubpl
+4828,C1538557,oxct1
+4852,C1538559,p2ry13
+4853,C1538560,p2ry14
+4863,C1538563,pacs1
+4900,C1538571,pappa2
+4917,C1538577,parp1
+4918,C1538588,parp11
+4934,C1538595,pbk
+4949,C1538604,pcsk6
+4992,C1538606,pdia2
+5007,C1538622,pdzrn3
+5088,C1538631,phb2
+5112,C1538632,phf8
+5136,C1538644,pigv
+5147,C1538647,pik3r5
+5170,C1538651,pitpna
+5183,C1538659,pkn1
+5184,C1538660,pkn2
+5218,C1538669,plekha6
+5228,C1538681,plod1
+5247,C1538686,pnpla2
+5250,C1538689,pnpo
+5252,C1538691,pof1b
+5257,C1538693,pola2
+5271,C1538699,polr3g
+5291,C1538703,porcn
+5298,C1538704,pot1
+5327,C1538712,ppp1r13l
+5373,C1538715,prepl
+5402,C1538716,prkd1
+5476,C1538738,psenen
+5663,C1538793,rbm28
+5688,C1538823,reg3a
+5727,C1538827,rfk
+5771,C1538842,ripk4
+4167,C1538844,mex3c
+5790,C1538857,rnd3
+5793,C1538867,rnf170
+5800,C1538879,robo3
+6809,C1538901,tpp1
+430,C1538913,aph1a
+462,C1538917,araf
+478,C1538925,arhgap26
+833,C1538964,brsk2
+863,C1538974,c1galt1c1
+3384,C1539048,inf2
+1038,C1539075,cchcr1
+1090,C1539080,cd3eap
+1372,C1539102,clec7a
+1505,C1539125,corin
+1511,C1539127,coro7
+1522,C1539128,cox6b1
+1553,C1539136,crbn
+1563,C1539139,crispld2
+1708,C1539210,cyp2w1
+1766,C1539220,dclk2
+1762,C1539223,dchs1
+1769,C1539228,dcps
+1816,C1539268,depdc5
+937,C1539311,caly
+2033,C1539322,dym
+2091,C1539336,ehbp1
+2094,C1539338,ehmt1
+2096,C1539340,eif2ak1
+2097,C1539341,eif2ak2
+2144,C1539358,enosf1
+2348,C1539476,fars2
+2351,C1539478,faslg
+2366,C1539492,fbxo38
+2642,C1539548,gapvd1
+2658,C1539551,gatad1
+2699,C1539560,gfm1
+2778,C1539585,gmppa
+2779,C1539586,gmppb
+2829,C1539599,gpd1l
+2869,C1539615,grem2
+2925,C1539623,gtf2h5
+2972,C1539630,hbegf
+5861,C1539696,rpsa
+5868,C1539711,rtel1
+5893,C1539718,s100g
+5909,C1539722,samd9
+5970,C1539743,secisbp2
+6036,C1539765,sh3tc2
+6155,C1539785,slc25a31
+6258,C1539788,slurp1
+6274,C1539789,smchd1
+6337,C1539809,spast
+2220,C1539837,erlin2
+6346,C1539838,spg21
+6406,C1539863,st3gal5
+6407,C1539865,st6gal1
+6430,C1539883,stk32b
+6440,C1539887,stra6
+6494,C1539895,sumo1
+6495,C1539897,sumo4
+6540,C1539922,taok1
+6541,C1539923,taok2
+6542,C1539924,taok3
+6560,C1539940,tbl1xr1
+6669,C1539960,thnsl1
+6728,C1540009,tmem38b
+6729,C1540016,tmem43
+6734,C1540026,tmprss11d
+6811,C1540043,tpsab1
+6847,C1540054,trib2
+6848,C1540055,trib3
+6906,C1540077,tsen2
+6907,C1540078,tsen34
+6914,C1540085,tspan5
+6915,C1540087,tspan7
+6913,C1540092,tspan12
+6918,C1540103,tssk2
+6922,C1540115,ttc19
+6923,C1540117,ttc21b
+6944,C1540128,tubb6
+6945,C1540130,tubd1
+6959,C1540140,txnl4a
+6983,C1540157,uck2
+6984,C1540158,uckl1
+7050,C1540172,vac14
+7125,C1540183,vps13b
+135,C1540185,adamtsl2
+165,C1540187,adipoq
+5248,C1540191,pnpla3
+6297,C1540207,snrnp200
+557,C1540211,atn1
+563,C1540215,atp13a2
+1071,C1540289,cd200
+1078,C1540291,cd248
+1082,C1540297,cd320
+4832,C1540365,oxsr1
+5634,C1565316,ramelteon
+6069,C1565750,sitagliptin
+1806,C1566590,delayed graft function
+5761,C1566826,rilpivirine
+6535,C1567753,tamibarotene
+7066,C1569608,varenicline
+7100,C1570906,vildagliptin
+1734,C1571583,dabigatran etexilate
+518,C1608295,articaine
+3153,C1609942,hsp90b1
+5922,C1611934,saxagliptin
+1798,C1619629,deferasirox
+5350,C1620287,prasugrel
+705,C1664205,bedaquiline
+4013,C1667052,maraviroc
+3345,C1667752,il33
+5032,C1675326,peramivir
+3892,C1684405,lubiprostone
+3597,C1691228,kidney diseases cystic
+5689,C1698215,regadenoson
+2440,C1699926,fingolimod
+5821,C1700683,rotigotine
+3324,C1701790,il17a
+4582,C1702213,nhej1
+5714,C1703334,retapamulin
+6070,C1704271,sitaxentan
+5447,C1704272,prostatic hyperplasia
+1126,C1704982,cdc73
+122,C1706636,acvr2a
+6602,C1707080,temsirolimus
+3761,C1721005,leukokeratosis hereditary mucosal
+5346,C1721300,pralatrexate
+4594,C1721377,nilotinib
+6199,C1722194,slc44a1
+3379,C1722260,indacaterol
+7051,C1735591,vacterl association
+1003,C1738809,cartpt
+780,C1738934,boceprevir
+5777,C1739768,rivaroxaban
+6988,C1742789,udenafil
+4881,C1744034,palb2
+5643,C1785148,rapp hodgkin syndrome
+3270,C1800706,idiopathic pulmonary fibrosis
+5876,C1812639,rxfp3
+6008,C1822688,setd4
+6009,C1822689,setd5
+6053,C1822725,sil1
+6156,C1822742,slc25a32
+6157,C1822747,slc25a38
+6175,C1822757,slc30a10
+6200,C1822761,slc44a4
+6201,C1822764,slc45a2
+6272,C1822777,smc1a
+6275,C1822789,smg6
+6285,C1822791,smpd4
+6295,C1822806,snip1
+6341,C1823097,specc1l
+6375,C1823121,sptlc3
+6445,C1823138,stt3a
+6449,C1823142,stx4
+6488,C1823148,sult1a4
+281,C1823172,alg13
+6538,C1823227,tanc2
+6670,C1823273,thoc6
+6723,C1823291,tmc6
+6724,C1823293,tmco1
+6725,C1823298,tmco6
+397,C1823307,ano10
+6730,C1823334,tmem70
+6731,C1823357,tmem97
+3835,C1823374,lmf1
+6726,C1823386,tmem127
+6727,C1823430,tmem165
+6832,C1823482,trdmt1
+6860,C1823488,trim24
+6872,C1823497,triobp
+6878,C1823502,trmu
+6912,C1823515,tshz2
+6916,C1823521,tspo
+6926,C1823540,ttll5
+6933,C1823551,tuba1c
+6940,C1823552,tubb2a
+6941,C1823553,tubb2b
+6942,C1823554,tubb2c
+6978,C1823578,ubiad1
+7020,C1823602,uqcrq
+7068,C1823613,vars
+7085,C1823619,vegfa
+7129,C1823643,vps45
+7130,C1823644,vps53
+7134,C1823652,vwa1
+395,C1823694,anks1b
+221,C1823700,aida
+7146,C1823826,wdr62
+7154,C1823857,wipf1
+7167,C1823863,wwc1
+7194,C1823881,yars2
+7206,C1823902,zbtb22
+7237,C1824015,znf711
+7238,C1824035,znf750
+7239,C1824069,znf804a
+490,C1824205,arl5a
+491,C1824208,arl6ip1
+6582,C1824359,tctn2
+5254,C1824414,poikiloderma with neutropenia
+1031,C1824539,cc2d1a
+1033,C1824554,ccdc28b
+1034,C1824564,ccdc40
+1036,C1824594,ccdc70
+1105,C1824671,cd70
+1206,C1824710,cep57
+1207,C1824711,cep63
+1202,C1824718,cep135
+1203,C1824719,cep152
+1204,C1824720,cep164
+1205,C1824725,cep290
+1254,C1824735,chia
+1417,C1824761,cmpk1
+1418,C1824763,cnbp
+1502,C1824776,coq2
+1562,C1824793,cript
+1608,C1824808,cspp1
+1629,C1824812,ctsa
+1661,C1824837,cyb5a
+1662,C1824841,cyb5r1
+1663,C1824842,cyb5r2
+1664,C1824843,cyb5r3
+1665,C1824844,cyb5r4
+1754,C1824885,dars2
+1981,C1824963,dph5
+2034,C1825005,dync1h1
+2035,C1825010,dync2h1
+2095,C1825038,ehmt2
+2106,C1825045,eif4a3
+2124,C1825050,emg1
+2290,C1825081,exph5
+507,C1825087,art4
+541,C1825092,ass1
+2334,C1825241,fam111a
+2344,C1825278,fanci
+2353,C1825280,fastkd2
+2354,C1825281,fastkd3
+2403,C1825293,ffar2
+2404,C1825294,ffar3
+2577,C1825324,fuz
+2756,C1825372,glrx5
+2759,C1825375,gltp
+2810,C1825380,gnptab
+2862,C1825417,gramd1b
+2937,C1825436,gyg1
+2968,C1825449,hax1
+3052,C1825466,hgsnat
+554,C1825497,atg5
+553,C1825502,atg16l1
+3140,C1825528,hsd17b10
+3141,C1825529,hsd17b11
+3151,C1825534,hsp90aa1
+3152,C1825540,hsp90ab1
+3158,C1825549,hspa9
+3180,C1825553,htra2
+3249,C1825559,iars2
+3289,C1825573,ift122
+3290,C1825574,ift140
+3309,C1825588,ikzf1
+3310,C1825590,ikzf3
+3449,C1825621,isg15
+1371,C1825657,clec16a
+3606,C1825705,kif2a
+3654,C1825741,krt2
+3661,C1825763,krt75
+3663,C1825768,krt81
+3664,C1825770,krt83
+3665,C1825772,krt85
+3666,C1825773,krt86
+3693,C1825784,l2hgdh
+3719,C1825792,larp7
+88,C1825831,acot7
+100,C1825836,acsbg1
+105,C1825840,acsm3
+110,C1825843,actc1
+606,C1825850,atxn8os
+638,C1825854,b3galnt1
+641,C1825858,b4galnt1
+3834,C1825864,lmbrd1
+3914,C1825924,lyrm4
+4044,C1825950,mcat
+4049,C1825952,mchr1
+4086,C1825962,megf8
+4237,C1826259,mlxipl
+4239,C1826260,mmachc
+4319,C1826326,mtmr14
+4383,C1826331,myl6b
+4400,C1826332,myot
+4407,C1826338,n6amt1
+4412,C1826343,nadsyn1
+4435,C1826350,nars2
+4470,C1826389,ndufa4l2
+4466,C1826393,ndufa13
+4500,C1826394,necap1
+4508,C1826396,nefm
+4578,C1826399,nfu1
+136,C1826407,adamtsl4
+679,C1826413,bbs10
+699,C1826418,bdh1
+722,C1826421,best1
+4620,C1826435,nlrp1
+4629,C1826448,nod1
+4630,C1826449,nod2
+4644,C1826455,nos1ap
+4659,C1826463,npffr1
+4716,C1826483,nuak1
+4717,C1826484,nuak2
+4741,C1826505,obsl1
+4755,C1826509,ogfod1
+4756,C1826510,ogfod2
+4883,C1826538,palld
+4945,C1826553,pcnt
+5000,C1826561,pdss2
+5129,C1826583,pick1
+5209,C1826592,plch1
+5210,C1826593,plch2
+194,C1826605,aff2
+203,C1826611,agk
+216,C1826617,ahdc1
+5249,C1826637,pnpla6
+5256,C1826642,pola1
+5307,C1826647,ppa2
+5314,C1826653,ppcdc
+5323,C1826667,ppme1
+5409,C1826697,prmt1
+5410,C1826699,prmt3
+5411,C1826700,prmt5
+5412,C1826702,prmt7
+5456,C1826706,prpf6
+5459,C1826711,prph2
+5497,C1826729,psmc3ip
+5504,C1826730,psrc1
+5508,C1826732,ptch1
+5605,C1826756,rab3gap1
+5606,C1826757,rab3gap2
+5608,C1826758,rab7a
+5661,C1826773,rbck1
+5683,C1826793,reep1
+5684,C1826794,reep2
+5725,C1826796,retsat
+5741,C1826825,rhbdf2
+5781,C1826833,rmnd1
+5787,C1826837,rnaseh2b
+5805,C1826844,rogdi
+793,C1831731,bosutinib
+4933,C1831796,pazopanib
+432,C1831808,apixaban
+2120,C1831905,eltrombopag
+820,C1832918,brody myopathy
+6581,C1835950,tctn1
+2201,C1836110,erap2
+3955,C1837249,malformations of cortical development group ii
+2870,C1837820,grhl2
+4211,C1838979,mitochondrial complex i deficiency
+2547,C1839780,fragile x tremor ataxia syndrome
+3438,C1839928,iris hypoplasia and glaucoma
+6881,C1842402,tropical calcific pancreatitis
+4999,C1843919,pdss1
+1439,C1843920,coenzyme q10 deficiency
+4534,C1845202,nephrogenic syndrome of inappropriate antidiuresis
+2593,C1846414,gabbr2
+6278,C1846431,smith mccort dysplasia
+5520,C1846861,ptges3
+2729,C1846885,gjd2
+2200,C1847414,erap1
+3183,C1847987,huntington disease like 2
+6338,C1849156,spastic ataxia
+5048,C1849930,persistent mullerian duct syndrome
+5628,C1850106,raine syndrome
+3724,C1851100,laurin sandrow syndrome
+4212,C1852372,mitochondrial complex iii deficiency
+4560,C1853136,neutral lipid storage disease with myopathy
+6202,C1853262,slc47a1
+6361,C1854442,split hand foot malformation 4
+140,C1854580,adcy10
+3236,C1855840,hypoparathyroidism retardation dysmorphism syndrome
+4285,C1856113,mowat wilson syndrome
+4437,C1857316,nasu hakola disease
+5554,C1858105,puf60
+6339,C1858479,spastic paraplegia 11
+4084,C1858854,megalencephalic leukoencephalopathy with subcortical cysts
+1213,C1859305,cerebellar ataxia and hypogonadotropic hypogonadism
+794,C1859405,bowen conradi syndrome
+6296,C1860405,snowflake vitreoretinal degeneration
+3801,C1863753,limb mammary syndrome
+1425,C1864739,cnpy4
+6422,C1864771,steap3
+5794,C1864963,rnf216
+6932,C1865268,tuba1b
+6931,C1865269,tuba1a
+2264,C1865349,ethylmalonic encephalopathy
+5590,C1866423,quebec platelet disorder
+5768,C1867155,ring dermoid of cornea
+1239,C1868570,char syndrome
+5047,C1868594,perry syndrome
+6055,C1870115,silodosin
+5632,C1871526,raltegravir
+4921,C1872203,pasireotide
+3822,C1873633,lisdexamfetamine
+6594,C1876229,telaprevir
+1838,C1880288,desvenlafaxine
+2491,C1948374,fluticasone furoate
+5220,C1955474,plerixafor
+1790,C1955603,deaf blind disorders
+2760,C1955741,glucocorticoid deficiency
+3953,C1955869,malformations of cortical development
+6850,C1955934,trichothiodystrophy syndromes
+3896,C1956280,luliconazole
+3419,C1956796,ioflupane i 123
+297,C1958126,alogliptin
+3467,C1968833,isyna1
+5074,C1968837,pgap1
+6379,C1969628,srcap
+3452,C1969809,isobutyryl coa dehydrogenase deficiency
+2562,C1970415,fto
+5172,C1970431,pitt hopkins syndrome
+6687,C1999375,ticagrelor
+525,C2000088,asenapine
+3804,C2000261,linaclotide
+6546,C2001271,tapentadol
+988,C2001856,carfilzomib
+3904,C2003424,lurasidone
+2143,C2239387,enoph1
+3945,C2239666,magt1
+5002,C2239806,pdxdc1
+6306,C2240038,sobp
+6382,C2240046,srd5a3
+647,C2240201,b9d1
+648,C2240202,b9d2
+870,C2240247,c2cd3
+1000,C2240335,cars2
+106,C2240364,acss3
+5828,C2242767,rpgrip1l
+847,C2267227,bulimia nervosa
+2400,C2343853,fesoterodine
+5280,C2347624,pomalidomide
+6334,C2348231,spaglumic acid
+252,C2348241,alcaftadine
+404,C2350233,antley bixler syndrome phenotype
+7091,C2350350,ventilator induced lung injury
+2219,C2350866,eribulin
+721,C2351042,besifloxacin
+1745,C2353951,dapagliflozin
+2619,C2356037,gadoxetate
+2527,C2370726,fospropofol
+6059,C2605855,simeprevir
+3925,C2606556,macitentan
+5749,C2607914,rhinitis allergic
+3820,C2673196,lipoprotein glomerulopathy
+1481,C2673536,combined cellular and humoral immune defects with granulomas
+1570,C2677099,crouzon syndrome with acanthosis nigricans
+6829,C2677743,trappc9
+723,C2678493,bestrophinopathy
+5866,C2680358,rrp7a
+6924,C2681086,ttc37
+5721,C2681923,retinitis pigmentosa 2
+6819,C2697961,trametinib
+617,C2698280,avanafil
+633,C2698291,azilsartan medoxomil
+718,C2698371,bepotastine
+84,C2699757,aclidinium
+3946,C2700438,major affective disorder 7
+2279,C2717956,euglenozoa infections
+7074,C2717957,vasoplegia
+6586,C2718017,tdp 43 proteinopathies
+1216,C2733158,cerebral small vessel diseases
+2332,C2746045,fads2
+3805,C2746078,linagliptin
+4214,C2749864,mitochondrial dna depletion syndrome 5 encephalomyopathic with or without methylmalonic aciduria
+1922,C2751824,disorder of sex development 46 xy
+3393,C2825682,ingenol mebutate
+3843,C2827241,lomitapide
+742,C2827432,bile acid synthesis defect
+897,C2830183,cabazitaxel
+787,C2931245,bone marrow failure disorders
+4553,C2931482,neurofibromatosis noonan syndrome
+2693,C2931618,gestational trophoblastic disease
+5875,C2931926,ruxolitinib
+0,C2936346,22q11 deletion syndrome
+2,C2936403,46 xx disorders of sex development
+2763,C2939465,glucosephosphate dehydrogenase deficiency
+1564,C2974289,crizotinib
+949,C2974540,canagliflozin
+6314,C2976303,sofosbuvir
+5690,C2980094,regorafenib
+4206,C2983812,mirabegron
+5289,C2987417,ponatinib
+193,C2987648,afatinib
+7110,C2987716,vismodegib
+3399,C3147653,ins igf2
+7088,C3192263,vemurafenib
+1966,C3253985,dolutegravir
+3496,C3264621,ivacaftor
+7136,C3266898,waardenburg syndrome
+2434,C3281128,fibrochondrogenesis 2
+4370,C3463824,myelodysplastic syndromes
+1485,C3463916,complement factor i deficiency
+1735,C3467876,dabrafenib
+7214,C3470357,zfp91 cntf
+2772,C3490329,glycerol phenylbutyrate
+514,C3495559,arthritis juvenile
+2157,C3496793,enzalutamide
+3769,C3536876,levomethadyl acetate
+3770,C3541367,levomilnacipran
+1,C3696376,3 methylglutaconic aciduria
+3404,C3714756,intellectual disability
+3956,C3850039,malformations of cortical development group iii
+3954,C3850040,malformations of cortical development group i
+6255,C4042891,sleep wake disorders
+465,C4082272,arbekacin
+5597,C4256169,quinidine barbiturate
+1250,C4277682,chemical and drug induced liver injury
+3584,C4551675,keratoderma palmoplantar
+4805,C4721411,osteolysis
+5039,C4721453,peripheral nervous system diseases
+5911,C4726730,saprisartan
+3033,C5197806,hereditary complement deficiency diseases
+98,C5235036,acromesomelic dysplasia
+4540,C5574950,netherton syndrome
+6623,C5575095,tetrahydrobiopterin
