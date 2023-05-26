@@ -7,10 +7,13 @@ Guide to running the code to create split:
 
 Files to run models:
 (Choose the right path, all the paths are in there, some of them commented out)
+
 ComplEx:
 ComplEx_maja.py
+
 ConvKB:
 ConvKB.py
+
 TransE:
 TransE.py
 
